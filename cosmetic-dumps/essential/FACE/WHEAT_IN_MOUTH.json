@@ -1,0 +1,33 @@
+{
+  "id": "WHEAT_IN_MOUTH",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Wheat In Mouth"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_DECEMBER2025",
+    "THEME_FARM"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 300,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f6a16fba12a04ce30ae0fe5a9395a56bef4ac9f94549541089ee23dfcea5a3e4",
+      "checksum": "f6a16fba12a04ce30ae0fe5a9395a56bef4ac9f94549541089ee23dfcea5a3e4"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/b54cab48cb7773dbdad5ce437670238525c5c2ac3bb21f02537d2757dbf8899e",
+      "checksum": "b54cab48cb7773dbdad5ce437670238525c5c2ac3bb21f02537d2757dbf8899e"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/d8c3168505c2e3b9a0baefd62657a91b031973d61fd6c9aa21a1d55e9fb2481a",
+      "checksum": "d8c3168505c2e3b9a0baefd62657a91b031973d61fd6c9aa21a1d55e9fb2481a"
+    }
+  }
+}

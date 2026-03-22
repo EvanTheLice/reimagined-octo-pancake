@@ -1,0 +1,38 @@
+{
+  "id": "BEE_PARTICLES",
+  "type": "PARTICLES",
+  "displayNames": {
+    "en_us": "Bee Friends"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL",
+    "COLLECTION_FEBRUARY2026",
+    "THEME_BUG",
+    "THEME_CUTE",
+    "THEME_MINECRAFT",
+    "THEME_SPRING"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/4a24d53c2c015bd08376c53e949b7a26645034e2ac87f9cbf89fcf40d9221389",
+      "checksum": "4a24d53c2c015bd08376c53e949b7a26645034e2ac87f9cbf89fcf40d9221389"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/1c5295a24b68e24d4a37a8a9b51e44469b0da4be6b109cff561283dcec06a84f",
+      "checksum": "1c5295a24b68e24d4a37a8a9b51e44469b0da4be6b109cff561283dcec06a84f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/314a9767f00e8d99aab0242aca02ae3da558eceea0a44975e930fd36a81ecc74",
+      "checksum": "314a9767f00e8d99aab0242aca02ae3da558eceea0a44975e930fd36a81ecc74"
+    }
+  }
+}

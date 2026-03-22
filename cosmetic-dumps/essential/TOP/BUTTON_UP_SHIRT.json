@@ -1,0 +1,52 @@
+{
+  "id": "BUTTON_UP_SHIRT",
+  "type": "TOP",
+  "displayNames": {
+    "en_us": "Button Up Shirt"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_CITY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "TOP": 20
+  },
+  "defaultSortWeight": 6,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/77fc58b4b2a07c6b06edb14bb05b8a2b843dc21c7fb2020d6f87cee7a957a15e",
+      "checksum": "77fc58b4b2a07c6b06edb14bb05b8a2b843dc21c7fb2020d6f87cee7a957a15e"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/555e996be088878ac3580c25198809d75d72bc0c67b0e995d42e68cc77cc9ca1",
+      "checksum": "555e996be088878ac3580c25198809d75d72bc0c67b0e995d42e68cc77cc9ca1"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/3c2a481f9899463f89649fdd5552c0c875a8e8b2bd53e6c9c48e57ff8997113e",
+      "checksum": "3c2a481f9899463f89649fdd5552c0c875a8e8b2bd53e6c9c48e57ff8997113e"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/0348653599756b529d3d60f1d5a7a1fa000901b5955e572ddf7d2a4ff6f75f63",
+      "checksum": "0348653599756b529d3d60f1d5a7a1fa000901b5955e572ddf7d2a4ff6f75f63"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6ebddf299a2ee17aa10be3a0d41ec629b06662f33d077d82f02981cc0335996a",
+      "checksum": "6ebddf299a2ee17aa10be3a0d41ec629b06662f33d077d82f02981cc0335996a"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f6bb6f66b1652d5779640d8c79ba7f229a1c9d6facabc0d71d2318f33f33bac4",
+      "checksum": "f6bb6f66b1652d5779640d8c79ba7f229a1c9d6facabc0d71d2318f33f33bac4"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/e8d855f186410b49c676ec0d6ce4eab038378e17509520ee55055ac745b49279",
+      "checksum": "e8d855f186410b49c676ec0d6ce4eab038378e17509520ee55055ac745b49279"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/3facfc6ff25b01681c8c14f70c28ea4fd0ae9eb62d459db58181e413bb647d72",
+      "checksum": "3facfc6ff25b01681c8c14f70c28ea4fd0ae9eb62d459db58181e413bb647d72"
+    }
+  }
+}

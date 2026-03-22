@@ -1,0 +1,42 @@
+{
+  "id": "OUTDOOR_RUCKSACK",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Outdoor Rucksack"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 23,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/9577ba9429c0b09909f2de15a3649b41a8ca2f30c96ffbe180bfe94cfd7712fe",
+      "checksum": "9577ba9429c0b09909f2de15a3649b41a8ca2f30c96ffbe180bfe94cfd7712fe"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/ae7d6433023726d5e79bddd2b281f81b75be4aa9aac31996361cb0088af905f3",
+      "checksum": "ae7d6433023726d5e79bddd2b281f81b75be4aa9aac31996361cb0088af905f3"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/adc307f453c9ec320cfc34e1322acf48c052f665d609962735b4c9af45eeb8c8",
+      "checksum": "adc307f453c9ec320cfc34e1322acf48c052f665d609962735b4c9af45eeb8c8"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/19580d0e938045ad1955fde002d3427a96a6af703e5a6fbe35d1c1fb4f8221b8",
+      "checksum": "19580d0e938045ad1955fde002d3427a96a6af703e5a6fbe35d1c1fb4f8221b8"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/3dafc07fc61c28b6b2a19be4a2573c7b151a9e7c14bb42ade4ee2bfcf19054ae",
+      "checksum": "3dafc07fc61c28b6b2a19be4a2573c7b151a9e7c14bb42ade4ee2bfcf19054ae"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f077bca97a4984a33e2952690a792914e3fabf2cb3706788501f5c3c2afaad66",
+      "checksum": "f077bca97a4984a33e2952690a792914e3fabf2cb3706788501f5c3c2afaad66"
+    }
+  }
+}

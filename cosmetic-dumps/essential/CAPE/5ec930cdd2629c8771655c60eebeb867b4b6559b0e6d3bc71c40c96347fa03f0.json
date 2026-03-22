@@ -1,0 +1,33 @@
+{
+  "id": "5ec930cdd2629c8771655c60eebeb867b4b6559b0e6d3bc71c40c96347fa03f0",
+  "type": "CAPE",
+  "displayNames": {
+    "en_us": "Common Cape"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "CAPE_UNLOCKABLE"
+  ],
+  "createdAt": {},
+  "categories": {
+    "CAPE": 20
+  },
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/9d36875baf61887aa37816de2cf3ffacdef008445b35a26709e918a1e3de2f82",
+      "checksum": "9d36875baf61887aa37816de2cf3ffacdef008445b35a26709e918a1e3de2f82"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/5ec930cdd2629c8771655c60eebeb867b4b6559b0e6d3bc71c40c96347fa03f0",
+      "checksum": "5ec930cdd2629c8771655c60eebeb867b4b6559b0e6d3bc71c40c96347fa03f0"
+    },
+    "thumbnail.png": {
+      "url": "https://cdn.essential.gg/assets/5ec930cdd2629c8771655c60eebeb867b4b6559b0e6d3bc71c40c96347fa03f0",
+      "checksum": "5ec930cdd2629c8771655c60eebeb867b4b6559b0e6d3bc71c40c96347fa03f0"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/c16758b90fe15e6ef24300cf8c057fe7f01c9515d68d2a3b1fbdbaa0ae84cb77",
+      "checksum": "c16758b90fe15e6ef24300cf8c057fe7f01c9515d68d2a3b1fbdbaa0ae84cb77"
+    }
+  }
+}

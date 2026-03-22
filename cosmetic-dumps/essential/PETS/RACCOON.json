@@ -1,0 +1,49 @@
+{
+  "id": "RACCOON",
+  "type": "PETS",
+  "displayNames": {
+    "en_us": "Raccoon"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "variants/grey/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ba28653aba33661d8cf6be60b99bc44fdce09bb07ee98e2973744ee6fa953b4d",
+      "checksum": "ba28653aba33661d8cf6be60b99bc44fdce09bb07ee98e2973744ee6fa953b4d"
+    },
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/177cd62e48917bbd3eba3d2ba1087e9f234b011e3d8ebd641a2f5eb58c4714d6",
+      "checksum": "177cd62e48917bbd3eba3d2ba1087e9f234b011e3d8ebd641a2f5eb58c4714d6"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/3e522400a0a6a9467b8f56f0c15f3678bd3b99e1494c4404d5c3b8939753778c",
+      "checksum": "3e522400a0a6a9467b8f56f0c15f3678bd3b99e1494c4404d5c3b8939753778c"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0c609f5f202b2f4ea6082bb10b12d5f55316d5ab170de734b7176c2bc6bfc262",
+      "checksum": "0c609f5f202b2f4ea6082bb10b12d5f55316d5ab170de734b7176c2bc6bfc262"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7bcb04a7a2f4a7f366dffb96922e6487f67df292d8de6f94f1abec0a23c6dea0",
+      "checksum": "7bcb04a7a2f4a7f366dffb96922e6487f67df292d8de6f94f1abec0a23c6dea0"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/a0934dd988ea20f7e52c506857e8ccaef1baafed7c9a873e20386ace7ae15cca",
+      "checksum": "a0934dd988ea20f7e52c506857e8ccaef1baafed7c9a873e20386ace7ae15cca"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/5897ad1fa130d46ccf79f5d2a07eb07458dbcb275f808673c3940cb66ff43f4c",
+      "checksum": "5897ad1fa130d46ccf79f5d2a07eb07458dbcb275f808673c3940cb66ff43f4c"
+    }
+  }
+}

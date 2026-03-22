@@ -1,0 +1,31 @@
+{
+  "id": "CARTWHEEL",
+  "type": "MOVEMENT",
+  "displayNames": {
+    "en_us": "Cartwheel"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BASIC": 0
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 500,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/16d9a27d451f69892e8e2f2a44d051b0817cb2509f2f96addffaa807160741a2",
+      "checksum": "16d9a27d451f69892e8e2f2a44d051b0817cb2509f2f96addffaa807160741a2"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/35e9ef031863d478b2149f475cdbbb0d0d4ca6c48310304206cfe92398b57862",
+      "checksum": "35e9ef031863d478b2149f475cdbbb0d0d4ca6c48310304206cfe92398b57862"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e",
+      "checksum": "7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e"
+    }
+  }
+}

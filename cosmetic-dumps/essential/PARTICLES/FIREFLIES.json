@@ -1,0 +1,42 @@
+{
+  "id": "FIREFLIES",
+  "type": "PARTICLES",
+  "displayNames": {
+    "en_us": "Fireflies"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL",
+    "THEME_BUG"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "particles/fireflies_entity_space.particle.json": {
+      "url": "https://cdn.essential.gg/assets/824d10e0365b5b335c0796179c1915b88aff56a48ff2a1dd38e349aea936a18a",
+      "checksum": "824d10e0365b5b335c0796179c1915b88aff56a48ff2a1dd38e349aea936a18a"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/2fc72a4491d780fd615ea3d422372b1b2e2d31a82f2afedf9655b1b089bc58aa",
+      "checksum": "2fc72a4491d780fd615ea3d422372b1b2e2d31a82f2afedf9655b1b089bc58aa"
+    },
+    "particles/fireflies_world_space.particle.json": {
+      "url": "https://cdn.essential.gg/assets/ac6b34ed1b0301817f90b523d591d9e3b1045e8abe84efa334fc8cdefe9f492d",
+      "checksum": "ac6b34ed1b0301817f90b523d591d9e3b1045e8abe84efa334fc8cdefe9f492d"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/154b2cbcf7a263ea581e5d10934b8c86da5e3bd2615c1deacd908062b92e2831",
+      "checksum": "154b2cbcf7a263ea581e5d10934b8c86da5e3bd2615c1deacd908062b92e2831"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/e73a37edde608b8a596b10efbed617a208b273de5123a6984c33ae764e8b914e",
+      "checksum": "e73a37edde608b8a596b10efbed617a208b273de5123a6984c33ae764e8b914e"
+    }
+  }
+}

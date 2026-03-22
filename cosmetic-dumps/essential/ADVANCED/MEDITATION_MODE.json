@@ -1,0 +1,33 @@
+{
+  "id": "MEDITATION_MODE",
+  "type": "ADVANCED",
+  "displayNames": {
+    "en_us": "Meditation Mode"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MAGIC"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "ADVANCED": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 900,
+  "tier": "EPIC",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/5fad1e3e1c197f917458d2431ce1b44a291a6870f06243ea9cf387ef7b005580",
+      "checksum": "5fad1e3e1c197f917458d2431ce1b44a291a6870f06243ea9cf387ef7b005580"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/21de63c7bd2bdd5db4c0279e9ebda535c94e5a95fb2ff6823885af799a8fb59f",
+      "checksum": "21de63c7bd2bdd5db4c0279e9ebda535c94e5a95fb2ff6823885af799a8fb59f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e",
+      "checksum": "7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e"
+    }
+  }
+}

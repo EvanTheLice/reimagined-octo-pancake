@@ -1,0 +1,54 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:geometry": [
+    {
+      "description": {
+        "identifier": "geometry.essential.scarf",
+        "texture_width": 64,
+        "texture_height": 64,
+        "visible_bounds_width": 2,
+        "visible_bounds_height": 2,
+        "visible_bounds_offset": [0, 0, 0]
+      },
+      "bones": [
+        {
+          "name": "scarf",
+          "pivot": [0, 12, 0],
+          "parent": "neck",
+          "cubes": [
+            {
+              "origin": [-5, 11, -2],
+              "size": [10, 3, 5],
+              "uv": [0, 0],
+              "inflate": 0.3
+            }
+          ]
+        },
+        {
+          "name": "scarf_tail_left",
+          "pivot": [4, 11, 3],
+          "parent": "scarf",
+          "cubes": [
+            {
+              "origin": [3, 8, 3],
+              "size": [2, 3, 8],
+              "uv": [0, 10]
+            }
+          ]
+        },
+        {
+          "name": "scarf_tail_right",
+          "pivot": [-4, 11, 3],
+          "parent": "scarf",
+          "cubes": [
+            {
+              "origin": [-5, 8, 3],
+              "size": [2, 3, 6],
+              "uv": [14, 10]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

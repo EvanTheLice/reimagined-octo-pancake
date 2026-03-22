@@ -1,0 +1,51 @@
+{
+  "id": "ANIME_HAT",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Straw Hat"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_SEPTEMBER2025",
+    "SET_ANIME",
+    "THEME_FARM"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7c064cccfbe50a8242f7fb8e2d3584b5f870a406a5f7ed0b20dff83ad4cb0791",
+      "checksum": "7c064cccfbe50a8242f7fb8e2d3584b5f870a406a5f7ed0b20dff83ad4cb0791"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/4aa978cf0f2456b74079dd4181ba39b443f9eeb359965559d5edde985cda1934",
+      "checksum": "4aa978cf0f2456b74079dd4181ba39b443f9eeb359965559d5edde985cda1934"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/412ed3aa1362d33dcc881e323e32f6090c7fbc6bfbcfe30c31c55d16bb6518b7",
+      "checksum": "412ed3aa1362d33dcc881e323e32f6090c7fbc6bfbcfe30c31c55d16bb6518b7"
+    },
+    "variants/hay/texture.png": {
+      "url": "https://cdn.essential.gg/assets/10af3358cb13aca6ade11fb1e1297383c0079277b8c8c91d746b2d48862d7f93",
+      "checksum": "10af3358cb13aca6ade11fb1e1297383c0079277b8c8c91d746b2d48862d7f93"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/954a50b16d38a67cb9dcd0b73ea3fa622ecfcf92faca9992c6ffc2d6cd6ad57b",
+      "checksum": "954a50b16d38a67cb9dcd0b73ea3fa622ecfcf92faca9992c6ffc2d6cd6ad57b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/cd6ed0956c6a410578341f0bd9c43975660a8950a037731e665fe2845362025a",
+      "checksum": "cd6ed0956c6a410578341f0bd9c43975660a8950a037731e665fe2845362025a"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/1e29e2ec31694bce5d6d7bf0e8395071de09eeaaf9a581ec7c4e2ce11b8eacd7",
+      "checksum": "1e29e2ec31694bce5d6d7bf0e8395071de09eeaaf9a581ec7c4e2ce11b8eacd7"
+    }
+  }
+}

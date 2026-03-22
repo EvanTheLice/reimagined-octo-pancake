@@ -1,0 +1,73 @@
+{
+  "id": "FIRE_FEET_REMASTER",
+  "type": "SHOES",
+  "displayNames": {
+    "en_us": "Fire Feet"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FIRE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "SHOES": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/pink/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/adaf18cdbcdb72aaac20263ab19fcdaf4fa53e15ec6937cbf8cda343363d2012",
+      "checksum": "adaf18cdbcdb72aaac20263ab19fcdaf4fa53e15ec6937cbf8cda343363d2012"
+    },
+    "variants/soulfire/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6e17e7321402dab4c8607a796ee0e50435b00c5bcc2dcfd85bd12a38f4d38dc1",
+      "checksum": "6e17e7321402dab4c8607a796ee0e50435b00c5bcc2dcfd85bd12a38f4d38dc1"
+    },
+    "variants/soulfire/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/fa2d058425faa317b80f5670e71ebaa8f348a59905fd6666a84e000b1af4f435",
+      "checksum": "fa2d058425faa317b80f5670e71ebaa8f348a59905fd6666a84e000b1af4f435"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c3d9109240cd6ece1edc142d25a92f1d0c04a3887279c8d16bc1ab108e8256ee",
+      "checksum": "c3d9109240cd6ece1edc142d25a92f1d0c04a3887279c8d16bc1ab108e8256ee"
+    },
+    "variants/fire/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/703e9ad266451a5bae3ee6806f14e81b4e1e38cef3700fb937ce97f1644c8d18",
+      "checksum": "703e9ad266451a5bae3ee6806f14e81b4e1e38cef3700fb937ce97f1644c8d18"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/57cb7f19582b4f090f41f29142affad1ffbd4eebdd75e1dc8a250846aa73becd",
+      "checksum": "57cb7f19582b4f090f41f29142affad1ffbd4eebdd75e1dc8a250846aa73becd"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e143fb20db05d32498f601284ba4e806b5104ea45c208cd00f047b1b8a2a4f4f",
+      "checksum": "e143fb20db05d32498f601284ba4e806b5104ea45c208cd00f047b1b8a2a4f4f"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/9681e967c05a9866320e6aebb9704cbe944c9d6597663eead56f0849f8d9cff9",
+      "checksum": "9681e967c05a9866320e6aebb9704cbe944c9d6597663eead56f0849f8d9cff9"
+    },
+    "variants/fire/texture.png": {
+      "url": "https://cdn.essential.gg/assets/50e32f63d4f298e1cdac04393098b20d64e26b30575b3e8eb1d2e7e22ff551c3",
+      "checksum": "50e32f63d4f298e1cdac04393098b20d64e26b30575b3e8eb1d2e7e22ff551c3"
+    },
+    "variants/green/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/3f1d6944678b42fd82040f3d6eca7f140cd5f3c8cbd28495f348b4b0803659e9",
+      "checksum": "3f1d6944678b42fd82040f3d6eca7f140cd5f3c8cbd28495f348b4b0803659e9"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/01e06a08161eaf5d2daf32db44aa14aa53f7de59dd3364642c5c2f229cb55b08",
+      "checksum": "01e06a08161eaf5d2daf32db44aa14aa53f7de59dd3364642c5c2f229cb55b08"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/d88ee9ebb4f952a65b2efc742b6817829b3b58ab18610351d056ee70fc280375",
+      "checksum": "d88ee9ebb4f952a65b2efc742b6817829b3b58ab18610351d056ee70fc280375"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/bafa3713d6181ee4e2d69d973c43f3e718126f0c6446245647880bd4f71538f2",
+      "checksum": "bafa3713d6181ee4e2d69d973c43f3e718126f0c6446245647880bd4f71538f2"
+    }
+  }
+}

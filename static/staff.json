@@ -1,0 +1,34 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:geometry": [
+    {
+      "description": {
+        "identifier": "geometry.essential.staff",
+        "texture_width": 64,
+        "texture_height": 64,
+        "visible_bounds_width": 2,
+        "visible_bounds_height": 2,
+        "visible_bounds_offset": [0, 0, 0]
+      },
+      "bones": [
+        {
+          "name": "staff",
+          "pivot": [5, 12, 0],
+          "parent": "right_arm",
+          "cubes": [
+            {
+              "origin": [4, -8, -0.5],
+              "size": [1, 20, 1],
+              "uv": [0, 0]
+            },
+            {
+              "origin": [2, 10, -2.5],
+              "size": [5, 5, 5],
+              "uv": [0, 22]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "EVIL_LAUGH",
+  "type": "ADVANCED",
+  "displayNames": {
+    "en_us": "Evil Laugh"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HALLOWEEN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BASIC": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 300,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/7bb241046ec6dd9d1d6836b987c43a7112488537542b08003806dd54d3d4e7c3",
+      "checksum": "7bb241046ec6dd9d1d6836b987c43a7112488537542b08003806dd54d3d4e7c3"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/2bf82530cee3cabbe8dd1b6a52186a804dc1c46bc8791d5489927dcf43437f6a",
+      "checksum": "2bf82530cee3cabbe8dd1b6a52186a804dc1c46bc8791d5489927dcf43437f6a"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e",
+      "checksum": "7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e"
+    }
+  }
+}

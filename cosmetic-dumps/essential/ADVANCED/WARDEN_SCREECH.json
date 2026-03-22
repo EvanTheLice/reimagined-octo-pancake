@@ -1,0 +1,64 @@
+{
+  "id": "WARDEN_SCREECH",
+  "type": "ADVANCED",
+  "displayNames": {
+    "en_us": "Warden Screech"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_WARDEN",
+    "SET_WARDEN",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "ADVANCED": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "particles/stomp_dust.particle.json": {
+      "url": "https://cdn.essential.gg/assets/3a72b8437f06ce3381c20836472e2f2701df335000b163d8a77c5de5df7e1ecd",
+      "checksum": "3a72b8437f06ce3381c20836472e2f2701df335000b163d8a77c5de5df7e1ecd"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/89e45a816c7285a1d610a3488dfb1b64d8ae5d123613eac959e26965ddc6d209",
+      "checksum": "89e45a816c7285a1d610a3488dfb1b64d8ae5d123613eac959e26965ddc6d209"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/b501ccfd24eaae3cca8c2323990ce62a6cce335766daf0d8ad2940b21d71f67b",
+      "checksum": "b501ccfd24eaae3cca8c2323990ce62a6cce335766daf0d8ad2940b21d71f67b"
+    },
+    "particles/warden_wave.particle.json": {
+      "url": "https://cdn.essential.gg/assets/d296fefb1dc97c03d92e43f41f021cb157af89430fcd2015890ce73eb1431cc3",
+      "checksum": "d296fefb1dc97c03d92e43f41f021cb157af89430fcd2015890ce73eb1431cc3"
+    },
+    "particles/lines.particle.json": {
+      "url": "https://cdn.essential.gg/assets/5f81f041a0266de3fd2a4979672e57a1f3630e258231fb1b4b64154780be85d2",
+      "checksum": "5f81f041a0266de3fd2a4979672e57a1f3630e258231fb1b4b64154780be85d2"
+    },
+    "particles/wave_dust.particle.json": {
+      "url": "https://cdn.essential.gg/assets/93b14cda29954034f5ecaa35a32c9cc2e7e2ef4210b8a87ed6bd6252585222f6",
+      "checksum": "93b14cda29954034f5ecaa35a32c9cc2e7e2ef4210b8a87ed6bd6252585222f6"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/b5bc0df65df944d0de186c72b38ced2d4158388eca157bcb3c37dbdbb796f266",
+      "checksum": "b5bc0df65df944d0de186c72b38ced2d4158388eca157bcb3c37dbdbb796f266"
+    },
+    "sounds/warden_screech.ogg": {
+      "url": "https://cdn.essential.gg/assets/be9e3d5182760365c26b60ed9e22c4e6c8a4701d46e3991c04d9866aa6618fa9",
+      "checksum": "be9e3d5182760365c26b60ed9e22c4e6c8a4701d46e3991c04d9866aa6618fa9"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/1b5b420f030dfc6524b9dd40bbc2204d4e93455fdc2721d36272204129de53d3",
+      "checksum": "1b5b420f030dfc6524b9dd40bbc2204d4e93455fdc2721d36272204129de53d3"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/f8b0a406749fc9a909c0883615a8f277f67b9d67e533f77fd0dbcc20f64daf0e",
+      "checksum": "f8b0a406749fc9a909c0883615a8f277f67b9d67e533f77fd0dbcc20f64daf0e"
+    }
+  }
+}

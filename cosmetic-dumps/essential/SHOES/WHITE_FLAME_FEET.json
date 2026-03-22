@@ -1,0 +1,39 @@
+{
+  "id": "WHITE_FLAME_FEET",
+  "type": "SHOES",
+  "displayNames": {
+    "en_us": "Spirit Flame Feet"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "SHOES": 0
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/abf845bad589728d5055b2e3c3d6c790989384148a38fb6148999166ab97761c",
+      "checksum": "abf845bad589728d5055b2e3c3d6c790989384148a38fb6148999166ab97761c"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/b9caf289843a86a0382739cc308214e16b82401b4234d0a6b244cbeb7f6d6b02",
+      "checksum": "b9caf289843a86a0382739cc308214e16b82401b4234d0a6b244cbeb7f6d6b02"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/4b8ef105d3c4b3ea303fb291271361446f05b6133f9cabe1e87ce687eca097dd",
+      "checksum": "4b8ef105d3c4b3ea303fb291271361446f05b6133f9cabe1e87ce687eca097dd"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/f3910d33a92378a0a032913bd87619279d0419c83056964546741123fa6aaa9a",
+      "checksum": "f3910d33a92378a0a032913bd87619279d0419c83056964546741123fa6aaa9a"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/d88ee9ebb4f952a65b2efc742b6817829b3b58ab18610351d056ee70fc280375",
+      "checksum": "d88ee9ebb4f952a65b2efc742b6817829b3b58ab18610351d056ee70fc280375"
+    }
+  }
+}

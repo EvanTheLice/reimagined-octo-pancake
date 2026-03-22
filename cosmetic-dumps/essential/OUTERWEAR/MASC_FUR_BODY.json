@@ -1,0 +1,62 @@
+{
+  "id": "MASC_FUR_BODY",
+  "type": "OUTERWEAR",
+  "displayNames": {
+    "en_us": "Cool Furry Body"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_NOVEMBER2025",
+    "THEME_FURRY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/ginger/texture.png": {
+      "url": "https://cdn.essential.gg/assets/cd521b0a81aacae318a2da49fe974558b6abe67fa42d0340616fa0e4c74d587f",
+      "checksum": "cd521b0a81aacae318a2da49fe974558b6abe67fa42d0340616fa0e4c74d587f"
+    },
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b6bfe2b15c03444165fc4f71a61729f85cbb3af242e9ac2aae8f6a9c7f824d13",
+      "checksum": "b6bfe2b15c03444165fc4f71a61729f85cbb3af242e9ac2aae8f6a9c7f824d13"
+    },
+    "variants/gray/texture.png": {
+      "url": "https://cdn.essential.gg/assets/42cdf8fd1e0045e0b3c1030ed5f82a4a9284e12283ac5245bd519cc62acf1026",
+      "checksum": "42cdf8fd1e0045e0b3c1030ed5f82a4a9284e12283ac5245bd519cc62acf1026"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/9bb3d9ec0d856e50989c0456c60497f4c0d6890fb561e4fb6492a5e855de51f3",
+      "checksum": "9bb3d9ec0d856e50989c0456c60497f4c0d6890fb561e4fb6492a5e855de51f3"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/424de498c62366831a180c17479b7a457be1d5a9d20dd230b8513e08357f03f5",
+      "checksum": "424de498c62366831a180c17479b7a457be1d5a9d20dd230b8513e08357f03f5"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/9dabe5e2abd6f0692937a4984a41d1d0d955a4ee2b24ac7abc70ebfb53fb0bb3",
+      "checksum": "9dabe5e2abd6f0692937a4984a41d1d0d955a4ee2b24ac7abc70ebfb53fb0bb3"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/41a97fae74c642e113c922b23afc0bf925f5717a10170d16ba9f0e5c68c3c046",
+      "checksum": "41a97fae74c642e113c922b23afc0bf925f5717a10170d16ba9f0e5c68c3c046"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/588cfc35c2da9e9c27428046a031370a4e5d4bfe6b8b6691768306ebf767fe12",
+      "checksum": "588cfc35c2da9e9c27428046a031370a4e5d4bfe6b8b6691768306ebf767fe12"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/082b6da3ca8a2ba9e73b2175089e8fe0f10a4348e3a904ee12b742a1cc7305fc",
+      "checksum": "082b6da3ca8a2ba9e73b2175089e8fe0f10a4348e3a904ee12b742a1cc7305fc"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/f1dc3420305d9f4229189bc9569bd2a947c4547766907d24eec9d288789534d5",
+      "checksum": "f1dc3420305d9f4229189bc9569bd2a947c4547766907d24eec9d288789534d5"
+    }
+  }
+}

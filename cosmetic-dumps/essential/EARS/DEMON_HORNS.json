@@ -1,0 +1,47 @@
+{
+  "id": "DEMON_HORNS",
+  "type": "EARS",
+  "displayNames": {
+    "en_us": "Demon Horns"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_DEVIL",
+    "THEME_HALLOWEEN",
+    "THEME_DEMON"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "EARS": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c6f892e18b74f29303e5dc6105c75c161f8e6482cd56481ad3b82a5f9998b433",
+      "checksum": "c6f892e18b74f29303e5dc6105c75c161f8e6482cd56481ad3b82a5f9998b433"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/b2ad0a76027c7e14d29b8905c339d865f77a235ca5d289b4201a27a37128fe67",
+      "checksum": "b2ad0a76027c7e14d29b8905c339d865f77a235ca5d289b4201a27a37128fe67"
+    },
+    "variants/bone/texture.png": {
+      "url": "https://cdn.essential.gg/assets/231a8a42062d2adab791d3b8b6a112ce87b8aaad3d5fe2878f22351aa594e4e5",
+      "checksum": "231a8a42062d2adab791d3b8b6a112ce87b8aaad3d5fe2878f22351aa594e4e5"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f8f931d146500dcdbfa47ef4579c7ae42b8e87196a8988f3ec1990462ebc9053",
+      "checksum": "f8f931d146500dcdbfa47ef4579c7ae42b8e87196a8988f3ec1990462ebc9053"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8ee8105a7016233b84c96b7aa90017ac5a7ea85ebe2cc175fcf3b30f6abb6e8e",
+      "checksum": "8ee8105a7016233b84c96b7aa90017ac5a7ea85ebe2cc175fcf3b30f6abb6e8e"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/db45cd34f80ecde7268f5217ee12af334b065f6eda1f694fe3db9cde89ca37ba",
+      "checksum": "db45cd34f80ecde7268f5217ee12af334b065f6eda1f694fe3db9cde89ca37ba"
+    }
+  }
+}

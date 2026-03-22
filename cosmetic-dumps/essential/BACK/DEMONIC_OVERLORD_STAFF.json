@@ -1,0 +1,70 @@
+{
+  "id": "DEMONIC_OVERLORD_STAFF",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Demonic Staff"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_DEVIL",
+    "THEME_DEMON"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "particles/staff_smoke.particle.json": {
+      "url": "https://cdn.essential.gg/assets/7f226b1c3f71ebe59449f54c510141d294af0c2521cae4cd9ac872e1a55502d8",
+      "checksum": "7f226b1c3f71ebe59449f54c510141d294af0c2521cae4cd9ac872e1a55502d8"
+    },
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/827c409c25147833af8368b1da4398c1b17d8759b38b85ff278371aa84fccba5",
+      "checksum": "827c409c25147833af8368b1da4398c1b17d8759b38b85ff278371aa84fccba5"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/1abf7658d178f8bd5904ab751768c2f2930004917c11e735bee7d5016c7a38f6",
+      "checksum": "1abf7658d178f8bd5904ab751768c2f2930004917c11e735bee7d5016c7a38f6"
+    },
+    "particles/staff_spiral.particle.json": {
+      "url": "https://cdn.essential.gg/assets/af88fb9c8d151d722737bcd84e4fc88525ff932a4566f97bb6d61d9424a9ca3a",
+      "checksum": "af88fb9c8d151d722737bcd84e4fc88525ff932a4566f97bb6d61d9424a9ca3a"
+    },
+    "variants/black/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/59ce848f1947a0665994d3a3d06590a62a4e801203753e4629ae5bed0ae1c8c8",
+      "checksum": "59ce848f1947a0665994d3a3d06590a62a4e801203753e4629ae5bed0ae1c8c8"
+    },
+    "variants/red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/172b0082d54c361e5c62b8025a4ec6e9a642b4f9ca528e41c24be11fe5171ee6",
+      "checksum": "172b0082d54c361e5c62b8025a4ec6e9a642b4f9ca528e41c24be11fe5171ee6"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e9a17216fef1ba4686087802c8c20c382ed9980032c9b7303dc3e84d01c0c99a",
+      "checksum": "e9a17216fef1ba4686087802c8c20c382ed9980032c9b7303dc3e84d01c0c99a"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/02e37a7c177871be449cfb4ac96381d09b478335e6344b5d65ea14df31910f62",
+      "checksum": "02e37a7c177871be449cfb4ac96381d09b478335e6344b5d65ea14df31910f62"
+    },
+    "particles/staff_spread.particle.json": {
+      "url": "https://cdn.essential.gg/assets/4bb6bab0edb3c875aad3257589d7c1c37de7d9da3fe151738dbcd458b31174b4",
+      "checksum": "4bb6bab0edb3c875aad3257589d7c1c37de7d9da3fe151738dbcd458b31174b4"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/4ca52ec6124d962cd3dda981cf8f33e76e4e8d40bfb956adfa57650f49dff68e",
+      "checksum": "4ca52ec6124d962cd3dda981cf8f33e76e4e8d40bfb956adfa57650f49dff68e"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/61ffb4a10983d307d2092803dfa5684785f95f1471ea637ec27f94947727f06e",
+      "checksum": "61ffb4a10983d307d2092803dfa5684785f95f1471ea637ec27f94947727f06e"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/75a328d28cb07eeff1e1292796944a24a14a34b6fd6fdc050d369940ac1adcf9",
+      "checksum": "75a328d28cb07eeff1e1292796944a24a14a34b6fd6fdc050d369940ac1adcf9"
+    }
+  }
+}

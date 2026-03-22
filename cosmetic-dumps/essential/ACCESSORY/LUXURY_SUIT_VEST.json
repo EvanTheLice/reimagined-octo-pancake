@@ -1,0 +1,52 @@
+{
+  "id": "LUXURY_SUIT_VEST",
+  "type": "ACCESSORY",
+  "displayNames": {
+    "en_us": "Suit Vest"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_CITY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "TOP": 20
+  },
+  "defaultSortWeight": 7,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ae6313152b53f7c6a690f499f8fd94a5e6d8467be5e2b656a5f43b2c08d79103",
+      "checksum": "ae6313152b53f7c6a690f499f8fd94a5e6d8467be5e2b656a5f43b2c08d79103"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/3ba1f1186a94b0c11522512cf775c84fcc47314a49944536a73ae01d15825232",
+      "checksum": "3ba1f1186a94b0c11522512cf775c84fcc47314a49944536a73ae01d15825232"
+    },
+    "variants/navy/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2e26c0f68e125d71af5d58c34c1cab6c44ad5a5a060f29f1745e5d3b9136963e",
+      "checksum": "2e26c0f68e125d71af5d58c34c1cab6c44ad5a5a060f29f1745e5d3b9136963e"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/e5ca3dcb56b133ddd65cd2dddba4c5fb0953a2ff197a0f1e13f483451d47c021",
+      "checksum": "e5ca3dcb56b133ddd65cd2dddba4c5fb0953a2ff197a0f1e13f483451d47c021"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/ef958ddb17dee13632fbb39999de87bafbf86dd34210adbc788cf960be68541a",
+      "checksum": "ef958ddb17dee13632fbb39999de87bafbf86dd34210adbc788cf960be68541a"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/fb31863bcd7a5987ac1a6790c4fb9fce4f72d50787263194529366aa538589bb",
+      "checksum": "fb31863bcd7a5987ac1a6790c4fb9fce4f72d50787263194529366aa538589bb"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/e5ca3dcb56b133ddd65cd2dddba4c5fb0953a2ff197a0f1e13f483451d47c021",
+      "checksum": "e5ca3dcb56b133ddd65cd2dddba4c5fb0953a2ff197a0f1e13f483451d47c021"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/ef958ddb17dee13632fbb39999de87bafbf86dd34210adbc788cf960be68541a",
+      "checksum": "ef958ddb17dee13632fbb39999de87bafbf86dd34210adbc788cf960be68541a"
+    }
+  }
+}

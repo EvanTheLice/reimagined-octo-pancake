@@ -1,0 +1,77 @@
+{
+  "id": "THUNDERBOLT_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Lightning Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_JULY2025"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 1500,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "variants/red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/5a4df7736d4d871365170bdccfca4213c42799d46b0c718877cbe8fce5aef4e2",
+      "checksum": "5a4df7736d4d871365170bdccfca4213c42799d46b0c718877cbe8fce5aef4e2"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/b6ba29e1a5d4dc10acaecaecc184b11a5c9e039b02bdcb8f2f3aefc1bb484058",
+      "checksum": "b6ba29e1a5d4dc10acaecaecc184b11a5c9e039b02bdcb8f2f3aefc1bb484058"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/597e16743421dc3c4d0843a72f2dde1904dc61a44edeede909a66dca9358ca65",
+      "checksum": "597e16743421dc3c4d0843a72f2dde1904dc61a44edeede909a66dca9358ca65"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d318816afe3fe89d36ed212efa37502d805674133683e5da1d39624502be0461",
+      "checksum": "d318816afe3fe89d36ed212efa37502d805674133683e5da1d39624502be0461"
+    },
+    "variants/white/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/b8db7e727f00327cad0894f08fe0391d6609bf8af7d8be90763f6c42766c9567",
+      "checksum": "b8db7e727f00327cad0894f08fe0391d6609bf8af7d8be90763f6c42766c9567"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/1c7f8804fb16f3dd9e44185dfcdc5b459720f426b31ac6732482666931258b54",
+      "checksum": "1c7f8804fb16f3dd9e44185dfcdc5b459720f426b31ac6732482666931258b54"
+    },
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ac130061f2acf42e0ae7fbc4287e66a6a13a30b476150838c3e3485efefd7c60",
+      "checksum": "ac130061f2acf42e0ae7fbc4287e66a6a13a30b476150838c3e3485efefd7c60"
+    },
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/fc80a3623c6c7061cfa904eca56da62173e335dd4257fe17eaff3cb75ea43970",
+      "checksum": "fc80a3623c6c7061cfa904eca56da62173e335dd4257fe17eaff3cb75ea43970"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/20a0f052be44874bc2842f90c325bb72eb5a60dc391892b2a3197aa507af637b",
+      "checksum": "20a0f052be44874bc2842f90c325bb72eb5a60dc391892b2a3197aa507af637b"
+    },
+    "particles/bolts.particle.json": {
+      "url": "https://cdn.essential.gg/assets/75e6dc15b2040db5a953560704856f94ec677e713560cd41668305462fd3b401",
+      "checksum": "75e6dc15b2040db5a953560704856f94ec677e713560cd41668305462fd3b401"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a347fcdcf0acc8b2e1a8ef56507913d751dc29352347c25be804ff7f6b7e7872",
+      "checksum": "a347fcdcf0acc8b2e1a8ef56507913d751dc29352347c25be804ff7f6b7e7872"
+    },
+    "variants/yellow/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/98018b0eba0e8f06250c9fa95d774571f4994d150115ff424abddd889e800ba4",
+      "checksum": "98018b0eba0e8f06250c9fa95d774571f4994d150115ff424abddd889e800ba4"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/20e6f60a8d7f636cbfe47763bc6fa0d3c4c132de178395a6edd1fd55731bc7b5",
+      "checksum": "20e6f60a8d7f636cbfe47763bc6fa0d3c4c132de178395a6edd1fd55731bc7b5"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/f115f74c0d8760f9096c6ff5207e98425ea2a27528b550bad05f14784a3e102a",
+      "checksum": "f115f74c0d8760f9096c6ff5207e98425ea2a27528b550bad05f14784a3e102a"
+    }
+  }
+}

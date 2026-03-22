@@ -1,0 +1,73 @@
+{
+  "id": "CAT_CUDDLE",
+  "type": "ADVANCED",
+  "displayNames": {
+    "en_us": "Cat Cuddle"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_COZY",
+    "THEME_ANIMAL",
+    "COLLECTION_FEBRUARY2026",
+    "THEME_CUTE",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "ADVANCED": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 1200,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "sounds/em_cat_cuddle_start.ogg": {
+      "url": "https://cdn.essential.gg/assets/d223d85bdbe9392812ef6d7f0a4c37af4b09b9799aa5e25b1c753503b8f53063",
+      "checksum": "d223d85bdbe9392812ef6d7f0a4c37af4b09b9799aa5e25b1c753503b8f53063"
+    },
+    "variants/ginger/texture.png": {
+      "url": "https://cdn.essential.gg/assets/36400ac39cbf18548b383359d6322951a57a2db79ac25a9059ca6a8e924b9daa",
+      "checksum": "36400ac39cbf18548b383359d6322951a57a2db79ac25a9059ca6a8e924b9daa"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/764d61d773a53c0bc58f3bb3a3fb301db0a0eaccfdae5c609c02345df93ad9d5",
+      "checksum": "764d61d773a53c0bc58f3bb3a3fb301db0a0eaccfdae5c609c02345df93ad9d5"
+    },
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ac05c2a0cb2ec4c89ace052706a11443dda8759c2e34069a4cf298ac94911ea3",
+      "checksum": "ac05c2a0cb2ec4c89ace052706a11443dda8759c2e34069a4cf298ac94911ea3"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/cb5af89e2e7f076d125735bfd18bb5acffb90b874e2ce86482228d09bff40ca1",
+      "checksum": "cb5af89e2e7f076d125735bfd18bb5acffb90b874e2ce86482228d09bff40ca1"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/36400ac39cbf18548b383359d6322951a57a2db79ac25a9059ca6a8e924b9daa",
+      "checksum": "36400ac39cbf18548b383359d6322951a57a2db79ac25a9059ca6a8e924b9daa"
+    },
+    "particles/sleepy_z.particle.json": {
+      "url": "https://cdn.essential.gg/assets/308f1b73294860989d41d4fe1715b9da14461fb755281953d1c364a499fcf99d",
+      "checksum": "308f1b73294860989d41d4fe1715b9da14461fb755281953d1c364a499fcf99d"
+    },
+    "sounds/em_cat_cuddle_loop.ogg": {
+      "url": "https://cdn.essential.gg/assets/3fcca86d1e6d7fbc83b613ce56006e9a8a1b221ac1db806e67a4b8a7ae883147",
+      "checksum": "3fcca86d1e6d7fbc83b613ce56006e9a8a1b221ac1db806e67a4b8a7ae883147"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4f4ecf3489ab3597fd7394b9135ffc8d4d2b569917ef2d07bba226dbdc82faa1",
+      "checksum": "4f4ecf3489ab3597fd7394b9135ffc8d4d2b569917ef2d07bba226dbdc82faa1"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/1d99188bbb7a529d1548dda99b7f61b87ad92401e55ca6dba440e7b2793f64dd",
+      "checksum": "1d99188bbb7a529d1548dda99b7f61b87ad92401e55ca6dba440e7b2793f64dd"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/d6bec4b17d11043871c02f570fc30aaeade7dd4ac2de99d1d158371c427822fb",
+      "checksum": "d6bec4b17d11043871c02f570fc30aaeade7dd4ac2de99d1d158371c427822fb"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/45317f654309b405a3ba3bbd85d99675e0c2d9415627325f8ee152eb9e7b3a9f",
+      "checksum": "45317f654309b405a3ba3bbd85d99675e0c2d9415627325f8ee152eb9e7b3a9f"
+    }
+  }
+}

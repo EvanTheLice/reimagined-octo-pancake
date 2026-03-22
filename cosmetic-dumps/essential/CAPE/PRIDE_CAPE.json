@@ -1,0 +1,35 @@
+{
+  "id": "PRIDE_CAPE",
+  "type": "CAPE",
+  "displayNames": {
+    "en_us": "Pride Cape"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "CAPE": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 0,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "variants/default/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f5714934e94610299e6d3ccdc62b514b3b2877186f4356cccca16560525fa5b4",
+      "checksum": "f5714934e94610299e6d3ccdc62b514b3b2877186f4356cccca16560525fa5b4"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/cba027f44703ad2033becec0a2f514d20bad43e2ff3e703310f76962e85893cb",
+      "checksum": "cba027f44703ad2033becec0a2f514d20bad43e2ff3e703310f76962e85893cb"
+    },
+    "variants/progress/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e611902ddcb3b91b163202339250dc60d82fd8887f6fda394d71ca2aebf3ed7b",
+      "checksum": "e611902ddcb3b91b163202339250dc60d82fd8887f6fda394d71ca2aebf3ed7b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/1977d9e49d2f18238a8ac96aa28243f4cce9bdb0bbf8cbc27bf5278499c457f1",
+      "checksum": "1977d9e49d2f18238a8ac96aa28243f4cce9bdb0bbf8cbc27bf5278499c457f1"
+    }
+  }
+}

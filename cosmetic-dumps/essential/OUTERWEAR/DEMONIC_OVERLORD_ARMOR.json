@@ -1,0 +1,66 @@
+{
+  "id": "DEMONIC_OVERLORD_ARMOR",
+  "type": "OUTERWEAR",
+  "displayNames": {
+    "en_us": "Demonic Armor"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_DEVIL",
+    "THEME_DEMON"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/76ee37f0bcf695a001f5161959d881f29d9efeedccf49858b2254d51ed299b10",
+      "checksum": "76ee37f0bcf695a001f5161959d881f29d9efeedccf49858b2254d51ed299b10"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/5881b3992e775abdd36466e53bc2c3bc85bc389f5ef068b0faf4a6d088964d7c",
+      "checksum": "5881b3992e775abdd36466e53bc2c3bc85bc389f5ef068b0faf4a6d088964d7c"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/63b9c7a3771fdb4f20c0bc442c9ff760710f3ffb2c1189140631ea8ad46f2802",
+      "checksum": "63b9c7a3771fdb4f20c0bc442c9ff760710f3ffb2c1189140631ea8ad46f2802"
+    },
+    "variants/black/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/40c154f3763941b4d76ad128b44e248d6ed7aed8c0b1d79f305d4975e2474dad",
+      "checksum": "40c154f3763941b4d76ad128b44e248d6ed7aed8c0b1d79f305d4975e2474dad"
+    },
+    "variants/red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/609b2806a4b2a3d6b6f594e3d331499789a8380098f9e00d482b0a5797ce9c2e",
+      "checksum": "609b2806a4b2a3d6b6f594e3d331499789a8380098f9e00d482b0a5797ce9c2e"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/e95d7d5c5bae43d017b44d836ea1947218e6153dbfce58e21dc8c94b72c5b5d6",
+      "checksum": "e95d7d5c5bae43d017b44d836ea1947218e6153dbfce58e21dc8c94b72c5b5d6"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2178eccb443c65f480f73d63bd31d5ca61273aa5c4b79f0957cb895f274b66d8",
+      "checksum": "2178eccb443c65f480f73d63bd31d5ca61273aa5c4b79f0957cb895f274b66d8"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/11a9d3c376f19893f3d6c3481cb04e1e70bf42483dbea8e44169bbd66c6267de",
+      "checksum": "11a9d3c376f19893f3d6c3481cb04e1e70bf42483dbea8e44169bbd66c6267de"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/b6901e23ce07787a53f7db01884d3cb1abf4a296e0ae2c42f41f7b3c39faac4d",
+      "checksum": "b6901e23ce07787a53f7db01884d3cb1abf4a296e0ae2c42f41f7b3c39faac4d"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/4ce88e33bab124057047ceca62a556ba4720a5495ae983e8396cd9c94c3274f9",
+      "checksum": "4ce88e33bab124057047ceca62a556ba4720a5495ae983e8396cd9c94c3274f9"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/f10d3e78939870cbab2a83522209750bfd2affc69f22b68e99a2e7f397a56de9",
+      "checksum": "f10d3e78939870cbab2a83522209750bfd2affc69f22b68e99a2e7f397a56de9"
+    }
+  }
+}

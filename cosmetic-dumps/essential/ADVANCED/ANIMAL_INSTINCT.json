@@ -1,0 +1,44 @@
+{
+  "id": "ANIMAL_INSTINCT",
+  "type": "ADVANCED",
+  "displayNames": {
+    "en_us": "Animal Instincts"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL",
+    "COLLECTION_NOVEMBER2025",
+    "THEME_CUTE",
+    "THEME_FURRY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BASIC": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/464f74539edd8761d3e8459a555d9a09aae17fff00f41dcfb234ca91d44d181e",
+      "checksum": "464f74539edd8761d3e8459a555d9a09aae17fff00f41dcfb234ca91d44d181e"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/abaf20c752cf4a5f8e7c43e447c76f0060999cc3a1ae032815fce4ca10df2489",
+      "checksum": "abaf20c752cf4a5f8e7c43e447c76f0060999cc3a1ae032815fce4ca10df2489"
+    },
+    "sounds/em_animal_instinct.ogg": {
+      "url": "https://cdn.essential.gg/assets/ab5e1b29e1fe51c780ba0c955787c7fc364fb2d166508268e31db5680c536047",
+      "checksum": "ab5e1b29e1fe51c780ba0c955787c7fc364fb2d166508268e31db5680c536047"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/928307b1d1ea9bb03ee5d5c835a2b65dc765ae8bacf5422284a55bcdda5710d8",
+      "checksum": "928307b1d1ea9bb03ee5d5c835a2b65dc765ae8bacf5422284a55bcdda5710d8"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/84a8f7e86a5befcc8f7d91d28f54116ebcfd08efe48c32884a74d01417256b4a",
+      "checksum": "84a8f7e86a5befcc8f7d91d28f54116ebcfd08efe48c32884a74d01417256b4a"
+    }
+  }
+}

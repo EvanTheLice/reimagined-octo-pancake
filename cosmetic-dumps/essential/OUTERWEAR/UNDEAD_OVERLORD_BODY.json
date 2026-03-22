@@ -1,0 +1,86 @@
+{
+  "id": "UNDEAD_OVERLORD_BODY",
+  "type": "OUTERWEAR",
+  "displayNames": {
+    "en_us": "Undead Overlord Body"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_OCTOBER2025",
+    "THEME_DEMON"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/bone/texture.png": {
+      "url": "https://cdn.essential.gg/assets/9f941fb48ade05df4d5196b433930190f161fea36a70da1aab97123fa08afd8e",
+      "checksum": "9f941fb48ade05df4d5196b433930190f161fea36a70da1aab97123fa08afd8e"
+    },
+    "variants/red_black_purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/34845c19a4c2c3289b322049ef407bef63ebb1c6e52a8e8060f3c28a4dc9b860",
+      "checksum": "34845c19a4c2c3289b322049ef407bef63ebb1c6e52a8e8060f3c28a4dc9b860"
+    },
+    "variants/purple_green/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/0fcc87c61f54b82d3f2e6ab7989f1cbae2fcc29daaa4ffc99bd5cbf8320c5521",
+      "checksum": "0fcc87c61f54b82d3f2e6ab7989f1cbae2fcc29daaa4ffc99bd5cbf8320c5521"
+    },
+    "variants/purple_green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/bcaf1b29f8bab54d417bb01c3be7f13251ecc418f72654eb4f8ad65facfb36b2",
+      "checksum": "bcaf1b29f8bab54d417bb01c3be7f13251ecc418f72654eb4f8ad65facfb36b2"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/9d78fec5839d654f953abe32babbde0cb103cde5a508b3ee7b7aa641e21a9877",
+      "checksum": "9d78fec5839d654f953abe32babbde0cb103cde5a508b3ee7b7aa641e21a9877"
+    },
+    "variants/bone/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/cc7069dae87a0e609ed3fb2b85d503c7287736e47f78565ff0eb6f5e767e32c6",
+      "checksum": "cc7069dae87a0e609ed3fb2b85d503c7287736e47f78565ff0eb6f5e767e32c6"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/2163bb2be439e520985e6705354f20a7f17ad697a9f2ebc0e84fca586f90bfc7",
+      "checksum": "2163bb2be439e520985e6705354f20a7f17ad697a9f2ebc0e84fca586f90bfc7"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/5adc676e8c3a1b627bbbd40b59f5755f6e9eed96aeed852e1d6bb6d41b177b35",
+      "checksum": "5adc676e8c3a1b627bbbd40b59f5755f6e9eed96aeed852e1d6bb6d41b177b35"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/4e87146a5ad3e0f59eb9f1fc8cffe5b24a7a118c349c775d83b91c254c59eb45",
+      "checksum": "4e87146a5ad3e0f59eb9f1fc8cffe5b24a7a118c349c775d83b91c254c59eb45"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/7aec63f6dadfd5b01f6660403167a49ecc00864305124d9cb8563bcb28df49b7",
+      "checksum": "7aec63f6dadfd5b01f6660403167a49ecc00864305124d9cb8563bcb28df49b7"
+    },
+    "variants/green/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/a0ac0031c7745cc60a268cd940ff1558eedbbf81081c4bc59b57ddf753e230bc",
+      "checksum": "a0ac0031c7745cc60a268cd940ff1558eedbbf81081c4bc59b57ddf753e230bc"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/abe5e694ab8ee34a822dcbc6d9f484ca4c02f0a36457e1d55e26d5ad842a82f4",
+      "checksum": "abe5e694ab8ee34a822dcbc6d9f484ca4c02f0a36457e1d55e26d5ad842a82f4"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/4e87146a5ad3e0f59eb9f1fc8cffe5b24a7a118c349c775d83b91c254c59eb45",
+      "checksum": "4e87146a5ad3e0f59eb9f1fc8cffe5b24a7a118c349c775d83b91c254c59eb45"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/d94cbb9875b4db0004ee2854c757b81433c224a2f08174c3db7f6143ed7e7abc",
+      "checksum": "d94cbb9875b4db0004ee2854c757b81433c224a2f08174c3db7f6143ed7e7abc"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d89fa4951489cef232c877b1dcc72a9b1c51df8826a13a4a5c3dc253a11bab7f",
+      "checksum": "d89fa4951489cef232c877b1dcc72a9b1c51df8826a13a4a5c3dc253a11bab7f"
+    },
+    "variants/red_black_purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/9a223336e903c333f54c1b51d1ced2738b031a7822cdd53293ab5dc1b2a027fb",
+      "checksum": "9a223336e903c333f54c1b51d1ced2738b031a7822cdd53293ab5dc1b2a027fb"
+    }
+  }
+}

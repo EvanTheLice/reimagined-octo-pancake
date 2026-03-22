@@ -1,0 +1,56 @@
+{
+  "id": "DEER_EARS",
+  "type": "EARS",
+  "displayNames": {
+    "en_us": "Deer Ears"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL",
+    "COLLECTION_FEBRUARY2026",
+    "THEME_CUTE",
+    "THEME_SPRING",
+    "THEME_FURRY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "EARS": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 300,
+  "assetsMap": {
+    "variants/light_brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5bd23ec2fc8f82520b7171863bdfcacb0e35eeca7e9058383ed2ba86ac88fce8",
+      "checksum": "5bd23ec2fc8f82520b7171863bdfcacb0e35eeca7e9058383ed2ba86ac88fce8"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/6762430eb0b3ecbb26ea93f56a802e052f4610461a536f22a85eb54a4a2ca518",
+      "checksum": "6762430eb0b3ecbb26ea93f56a802e052f4610461a536f22a85eb54a4a2ca518"
+    },
+    "variants/dark_brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c3f479c3d49bc9529bf1aecfdc3c7a9073ccfba0097e781f04fcbdd20aad403b",
+      "checksum": "c3f479c3d49bc9529bf1aecfdc3c7a9073ccfba0097e781f04fcbdd20aad403b"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2e7e130209a7da2141a5c4bd2295421898c65285f93a6c343559e5f25501f893",
+      "checksum": "2e7e130209a7da2141a5c4bd2295421898c65285f93a6c343559e5f25501f893"
+    },
+    "variants/cream/texture.png": {
+      "url": "https://cdn.essential.gg/assets/573dc595caa91777bd80e5a14d5eb0c3cc8b612e757c05be4c851aeb32fbe0a2",
+      "checksum": "573dc595caa91777bd80e5a14d5eb0c3cc8b612e757c05be4c851aeb32fbe0a2"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/563b3e246ed1f8a4e691d9d978a386e46503cae4b8829ed0299e74f55ebb2b74",
+      "checksum": "563b3e246ed1f8a4e691d9d978a386e46503cae4b8829ed0299e74f55ebb2b74"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/e737e0a4a8b33c5cf3406888a6558c29ef39c6abae1119fa673e7df7a8022b4c",
+      "checksum": "e737e0a4a8b33c5cf3406888a6558c29ef39c6abae1119fa673e7df7a8022b4c"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/b7423231f1a2e9d72d86597cada80fff8b97793ad4665c5c2da9239a5fe93fc1",
+      "checksum": "b7423231f1a2e9d72d86597cada80fff8b97793ad4665c5c2da9239a5fe93fc1"
+    }
+  }
+}

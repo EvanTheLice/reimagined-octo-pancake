@@ -1,0 +1,59 @@
+{
+  "id": "DEMONIC_OVERLORD_HELMET",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Demonic Helmet"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FANTASY",
+    "THEME_DEVIL",
+    "THEME_DEMON"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/de4479cb2bd69d5a35fc7bf2e55871aec1192ef352a0f3f191fde1461ab80935",
+      "checksum": "de4479cb2bd69d5a35fc7bf2e55871aec1192ef352a0f3f191fde1461ab80935"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/8e7c0bc6ca8f3be6e865042fcfca3d61b27d4880f3147b08a1d465731775c447",
+      "checksum": "8e7c0bc6ca8f3be6e865042fcfca3d61b27d4880f3147b08a1d465731775c447"
+    },
+    "variants/black/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/53f7b2b69886707a11aacdbf26ed9893d55f9cac468bf41be0c998e9be1569b5",
+      "checksum": "53f7b2b69886707a11aacdbf26ed9893d55f9cac468bf41be0c998e9be1569b5"
+    },
+    "variants/red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/db1f8db4450db40f10a34bb7cacd0f79c2c869626070d37b21f92859002fa260",
+      "checksum": "db1f8db4450db40f10a34bb7cacd0f79c2c869626070d37b21f92859002fa260"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/72f94ce35907e6a73ca14e431c49358ffa1397468fd68c77e75ca8a098c01de9",
+      "checksum": "72f94ce35907e6a73ca14e431c49358ffa1397468fd68c77e75ca8a098c01de9"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/345da841af4daf953565c370a206b53dbb690a7c5e8491031ef64babebec2cd2",
+      "checksum": "345da841af4daf953565c370a206b53dbb690a7c5e8491031ef64babebec2cd2"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/38e62fd0806bab42e792ae1bee91358de412c75b9eae95af9334a5b44b31a779",
+      "checksum": "38e62fd0806bab42e792ae1bee91358de412c75b9eae95af9334a5b44b31a779"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/828ae273d7784b3f6f9f9b5a940eaf0fd22280f471c6c32fb857e7e32b0106e9",
+      "checksum": "828ae273d7784b3f6f9f9b5a940eaf0fd22280f471c6c32fb857e7e32b0106e9"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    }
+  }
+}

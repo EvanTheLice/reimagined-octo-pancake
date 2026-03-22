@@ -1,0 +1,36 @@
+{
+  "id": "PIROUETTE",
+  "type": "DANCE",
+  "displayNames": {
+    "en_us": "Pirouette"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_PRETTY",
+    "THEME_FAIRY",
+    "THEME_SPRING",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "DANCE": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/d5c68fcc27bdba3cfa0e848b7b4315daa70cc39017eafe8027e1788f9d5cac62",
+      "checksum": "d5c68fcc27bdba3cfa0e848b7b4315daa70cc39017eafe8027e1788f9d5cac62"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/fc378ec5c85fee6488c70226a2adebfe333ff84b4fb1ccf48e1d32d5b45ebdcd",
+      "checksum": "fc378ec5c85fee6488c70226a2adebfe333ff84b4fb1ccf48e1d32d5b45ebdcd"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e",
+      "checksum": "7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "SLEEP",
+  "type": "ADVANCED",
+  "displayNames": {
+    "en_us": "Sleep"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ROLEPLAY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BASIC": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/bce3f68d3acd6c56ef63844d829d3a71aed3fe5d741ee9feb2a815a3ea98df15",
+      "checksum": "bce3f68d3acd6c56ef63844d829d3a71aed3fe5d741ee9feb2a815a3ea98df15"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/72aa0e0263fb5c68c50af630a1cda5e83a04b1b43b47767d0289fb7675464694",
+      "checksum": "72aa0e0263fb5c68c50af630a1cda5e83a04b1b43b47767d0289fb7675464694"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e",
+      "checksum": "7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e"
+    }
+  }
+}

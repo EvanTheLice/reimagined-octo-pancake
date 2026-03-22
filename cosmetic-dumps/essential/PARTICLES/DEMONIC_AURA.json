@@ -1,0 +1,58 @@
+{
+  "id": "DEMONIC_AURA",
+  "type": "PARTICLES",
+  "displayNames": {
+    "en_us": "Demonic Energy"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_DEVIL",
+    "THEME_DEMON"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 1200,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "particles/demonic_aura_streaks.particle.json": {
+      "url": "https://cdn.essential.gg/assets/9c114908cac1546e329dac65cfd62f32e264b1663c01504bd13d5aa129c80812",
+      "checksum": "9c114908cac1546e329dac65cfd62f32e264b1663c01504bd13d5aa129c80812"
+    },
+    "particles/demonic_aura_lines.particle.json": {
+      "url": "https://cdn.essential.gg/assets/34cde937cb49730792206efb860b361063a53be70199c1b1891d3c543b3c2cf1",
+      "checksum": "34cde937cb49730792206efb860b361063a53be70199c1b1891d3c543b3c2cf1"
+    },
+    "particles/demonic_aura_trail.particle.json": {
+      "url": "https://cdn.essential.gg/assets/0ee86eeb50ff35b58267c5ae6155be6190b6f10d3375c601de643b26cd1d863e",
+      "checksum": "0ee86eeb50ff35b58267c5ae6155be6190b6f10d3375c601de643b26cd1d863e"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/a4a23357ed612f664b91bbd032029b2960db4fe351836e1b2ce9abce99cf7e3f",
+      "checksum": "a4a23357ed612f664b91bbd032029b2960db4fe351836e1b2ce9abce99cf7e3f"
+    },
+    "particles/demonic_aura_smoke.particle.json": {
+      "url": "https://cdn.essential.gg/assets/07018dbb3d0db81c67be41bb573ed7ae74f4dba2124d2f76582360141f3a6fa4",
+      "checksum": "07018dbb3d0db81c67be41bb573ed7ae74f4dba2124d2f76582360141f3a6fa4"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/3ba451c42ec93b33788738823a424af776831471e059c595472df5fbce97937f",
+      "checksum": "3ba451c42ec93b33788738823a424af776831471e059c595472df5fbce97937f"
+    },
+    "particles/demonic_aura_discs.particle.json": {
+      "url": "https://cdn.essential.gg/assets/15457d18414ac5ea658423ff87b5c252a5994293f124498eec71c66cb9323038",
+      "checksum": "15457d18414ac5ea658423ff87b5c252a5994293f124498eec71c66cb9323038"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/ed9e2c3ef83f2769846a1e0291d8f6635e204aba22af9cc06231c65f400af412",
+      "checksum": "ed9e2c3ef83f2769846a1e0291d8f6635e204aba22af9cc06231c65f400af412"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/c129d9ef643fdaa3344e2b5bb008e90ca3c3bf63385c3aa7f12c6cc75e0dc9de",
+      "checksum": "c129d9ef643fdaa3344e2b5bb008e90ca3c3bf63385c3aa7f12c6cc75e0dc9de"
+    }
+  }
+}

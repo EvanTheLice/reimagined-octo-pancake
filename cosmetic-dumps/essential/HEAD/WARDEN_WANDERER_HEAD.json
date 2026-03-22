@@ -1,0 +1,71 @@
+{
+  "id": "WARDEN_WANDERER_HEAD",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Warden Wanderer Head"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_WARDEN",
+    "SET_WARDEN",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/587be019b3ca392c09a44cb778042b820d220c8b703cd3ed73994eb0d4a299c3",
+      "checksum": "587be019b3ca392c09a44cb778042b820d220c8b703cd3ed73994eb0d4a299c3"
+    },
+    "variants/pink/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/865fc750822b23c00bfb1f8897a33fa8b40442fefce26bf8ad05b981aaf46d9c",
+      "checksum": "865fc750822b23c00bfb1f8897a33fa8b40442fefce26bf8ad05b981aaf46d9c"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/a2ed36cd6ae5d81c0f2827a4c2112c0273b11b24efc2cb8be2a1b79c56faa117",
+      "checksum": "a2ed36cd6ae5d81c0f2827a4c2112c0273b11b24efc2cb8be2a1b79c56faa117"
+    },
+    "variants/red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/17df2defb43af3362db757197bf5f891b83db71670b2fd47bb1a342ae6407c65",
+      "checksum": "17df2defb43af3362db757197bf5f891b83db71670b2fd47bb1a342ae6407c65"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/43de31b13732a274b5458a423a5bdd775596bd916b7ed4bd047b2906b104d139",
+      "checksum": "43de31b13732a274b5458a423a5bdd775596bd916b7ed4bd047b2906b104d139"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ca5618f59e0d20b8db483d743ab8014d6a76007d12e6b4d0962c6efc69fc5649",
+      "checksum": "ca5618f59e0d20b8db483d743ab8014d6a76007d12e6b4d0962c6efc69fc5649"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/caeb07230a363a2596044ec6a8412108b322702ff49301e08eecf6771fd6e7ca",
+      "checksum": "caeb07230a363a2596044ec6a8412108b322702ff49301e08eecf6771fd6e7ca"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/aa0a3b4e4c147f9227c796486cf5cfb736359805d4d070c8a176d70fe787181b",
+      "checksum": "aa0a3b4e4c147f9227c796486cf5cfb736359805d4d070c8a176d70fe787181b"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/b925985054feddd3b7b9785078e884a8d9b161be91b6f35c11ae8dbdc21222b1",
+      "checksum": "b925985054feddd3b7b9785078e884a8d9b161be91b6f35c11ae8dbdc21222b1"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/5ab23e5557115e5f72380f8d073bab43470179b8050101a9a7984ee1ef2bd250",
+      "checksum": "5ab23e5557115e5f72380f8d073bab43470179b8050101a9a7984ee1ef2bd250"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/98486781e9075753ba264e9fae0eade6f5d8c3d8dd8e7f5205dbfc7c1844b906",
+      "checksum": "98486781e9075753ba264e9fae0eade6f5d8c3d8dd8e7f5205dbfc7c1844b906"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a8e47c4a64c9eda0d5e80134dcbb381724bbe5ef923bf2605f41416cb12c9706",
+      "checksum": "a8e47c4a64c9eda0d5e80134dcbb381724bbe5ef923bf2605f41416cb12c9706"
+    }
+  }
+}

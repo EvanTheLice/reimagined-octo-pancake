@@ -1,0 +1,55 @@
+{
+  "id": "DANCING_DRAGON_BODY",
+  "type": "OUTERWEAR",
+  "displayNames": {
+    "en_us": "Dancing Dragon Body"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_LUNAR",
+    "COLLECTION_FEBRUARY2026"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 10,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/0816dbf1afa677a256e093ead401ad49cfb2861c8b937a93fba66d97ce851493",
+      "checksum": "0816dbf1afa677a256e093ead401ad49cfb2861c8b937a93fba66d97ce851493"
+    },
+    "variants/blue_gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/1baac6e516b9b4dcfef3b4159617a3b5035c50c8f89c4f56ab385bb158a3bfbc",
+      "checksum": "1baac6e516b9b4dcfef3b4159617a3b5035c50c8f89c4f56ab385bb158a3bfbc"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/f81026222f92d61a1bb28d588b4f7bf785a3c3c5c04c4eefbcd65c60ee99022e",
+      "checksum": "f81026222f92d61a1bb28d588b4f7bf785a3c3c5c04c4eefbcd65c60ee99022e"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/e95d7d5c5bae43d017b44d836ea1947218e6153dbfce58e21dc8c94b72c5b5d6",
+      "checksum": "e95d7d5c5bae43d017b44d836ea1947218e6153dbfce58e21dc8c94b72c5b5d6"
+    },
+    "variants/red_gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c6aa6e4915f963efa4ffe9825246486fcc66c8a9bc34debf6f2c1bca2479bcea",
+      "checksum": "c6aa6e4915f963efa4ffe9825246486fcc66c8a9bc34debf6f2c1bca2479bcea"
+    },
+    "variants/green_gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/1ea0715773d31fbda739dabda312b3310c17c41e2c79a7646d4f0d8bbb8ddddc",
+      "checksum": "1ea0715773d31fbda739dabda312b3310c17c41e2c79a7646d4f0d8bbb8ddddc"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/354dec7e5ca297c1437e55a045346c097b0179c27002dc2aa38a3e35ff28fcd3",
+      "checksum": "354dec7e5ca297c1437e55a045346c097b0179c27002dc2aa38a3e35ff28fcd3"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/f10d3e78939870cbab2a83522209750bfd2affc69f22b68e99a2e7f397a56de9",
+      "checksum": "f10d3e78939870cbab2a83522209750bfd2affc69f22b68e99a2e7f397a56de9"
+    }
+  }
+}

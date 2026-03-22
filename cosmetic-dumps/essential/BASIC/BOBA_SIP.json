@@ -1,0 +1,46 @@
+{
+  "id": "BOBA_SIP",
+  "type": "BASIC",
+  "displayNames": {
+    "en_us": "Boba Sip"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_COZY",
+    "THEME_CUTE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "ADVANCED": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "sounds/boba_sip.ogg": {
+      "url": "https://cdn.essential.gg/assets/8af943fc7b30576770c026641db6c0b963db350643fb7d359f6c062fc7745f60",
+      "checksum": "8af943fc7b30576770c026641db6c0b963db350643fb7d359f6c062fc7745f60"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/7db92c3957b744c76ae772d03368512746138f25836d1a55440c1fe9c7d5cb1f",
+      "checksum": "7db92c3957b744c76ae772d03368512746138f25836d1a55440c1fe9c7d5cb1f"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/2e85fae13cd33259894b550ddee31f22fb3893f54f45c9da700a5393d7f8e87d",
+      "checksum": "2e85fae13cd33259894b550ddee31f22fb3893f54f45c9da700a5393d7f8e87d"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/dca219ad67c417bc5bbdb929dae221f43a90cef0b008fe522e5fc92ec4300d0b",
+      "checksum": "dca219ad67c417bc5bbdb929dae221f43a90cef0b008fe522e5fc92ec4300d0b"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/158dc531a3c8e8ddaf6948650dfc3b58ab0989eb3ca676e93040626c7ddaf2e9",
+      "checksum": "158dc531a3c8e8ddaf6948650dfc3b58ab0989eb3ca676e93040626c7ddaf2e9"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/789c702aa3ec824228f9cda39c127c06bca590ca16e3bef020e32f10e9c3370a",
+      "checksum": "789c702aa3ec824228f9cda39c127c06bca590ca16e3bef020e32f10e9c3370a"
+    }
+  }
+}

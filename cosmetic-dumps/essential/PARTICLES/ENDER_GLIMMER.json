@@ -1,0 +1,50 @@
+{
+  "id": "ENDER_GLIMMER",
+  "type": "PARTICLES",
+  "displayNames": {
+    "en_us": "Ender Glyphs"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ENDER",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/a4a23357ed612f664b91bbd032029b2960db4fe351836e1b2ce9abce99cf7e3f",
+      "checksum": "a4a23357ed612f664b91bbd032029b2960db4fe351836e1b2ce9abce99cf7e3f"
+    },
+    "particles/ender_glimmer_trail.particle.json": {
+      "url": "https://cdn.essential.gg/assets/ce7b50fb2a1659f300cff7a9b0de5ad761a773f0018011158871beb5624b9181",
+      "checksum": "ce7b50fb2a1659f300cff7a9b0de5ad761a773f0018011158871beb5624b9181"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/5b437426e5763e42fa44b9428e99c87ab069bee79073f0b9e49e088fa3e4eb14",
+      "checksum": "5b437426e5763e42fa44b9428e99c87ab069bee79073f0b9e49e088fa3e4eb14"
+    },
+    "particles/ender_glimmer.particle.json": {
+      "url": "https://cdn.essential.gg/assets/b63a5f0eb3b228b8eb3051364d8041b20683b13176dee9f046e98b7329f7ca51",
+      "checksum": "b63a5f0eb3b228b8eb3051364d8041b20683b13176dee9f046e98b7329f7ca51"
+    },
+    "particles/ender_aura.particle.json": {
+      "url": "https://cdn.essential.gg/assets/84c0ceccea20b2e0f5ea51aad1a4d5c62a434a2a0f0c5e8e7fb3a64786827699",
+      "checksum": "84c0ceccea20b2e0f5ea51aad1a4d5c62a434a2a0f0c5e8e7fb3a64786827699"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/1f02d9226835da70faa14bf9f197be88181f74d459fce4a1b55c24c7465f5bf4",
+      "checksum": "1f02d9226835da70faa14bf9f197be88181f74d459fce4a1b55c24c7465f5bf4"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/47ae9afdf5fa7bd8852c4bb243f1f21c575f8fe368fb87f7a427ac6e4fb85101",
+      "checksum": "47ae9afdf5fa7bd8852c4bb243f1f21c575f8fe368fb87f7a427ac6e4fb85101"
+    }
+  }
+}

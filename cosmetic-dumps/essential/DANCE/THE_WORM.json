@@ -1,0 +1,33 @@
+{
+  "id": "THE_WORM",
+  "type": "DANCE",
+  "displayNames": {
+    "en_us": "The Worm"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SILLY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "DANCE": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 1200,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/30ce41ba2a64f595387dc94bab34c31ad007fd1e81b4fc7593314ada0d407d72",
+      "checksum": "30ce41ba2a64f595387dc94bab34c31ad007fd1e81b4fc7593314ada0d407d72"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/179714c732e2a62dc27e1997c752556e2c85f3abcb3da78c16276423e6f55de6",
+      "checksum": "179714c732e2a62dc27e1997c752556e2c85f3abcb3da78c16276423e6f55de6"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e",
+      "checksum": "7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e"
+    }
+  }
+}

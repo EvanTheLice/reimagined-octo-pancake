@@ -1,0 +1,46 @@
+{
+  "id": "HEADSET",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Headset"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 8,
+  "priceCoins": 300,
+  "assetsMap": {
+    "variants/gray/texture.png": {
+      "url": "https://cdn.essential.gg/assets/101cee9ea6ccc029041f3a05e5da10573e1c773178afdd8b6405f733337daaf2",
+      "checksum": "101cee9ea6ccc029041f3a05e5da10573e1c773178afdd8b6405f733337daaf2"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/e805fa28166ab651021bfb88969e62e770bfce08a47028198db02eda9ec6c38d",
+      "checksum": "e805fa28166ab651021bfb88969e62e770bfce08a47028198db02eda9ec6c38d"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/fa7d9287b23945371d0cc65efaf0b7ca71cc8ed6dc1636249fb23c0a342dab35",
+      "checksum": "fa7d9287b23945371d0cc65efaf0b7ca71cc8ed6dc1636249fb23c0a342dab35"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0507dd6ff25a80fe013b382bebde57093c563b4b31bdf2eb9da8a2a0b45bd81e",
+      "checksum": "0507dd6ff25a80fe013b382bebde57093c563b4b31bdf2eb9da8a2a0b45bd81e"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/3e877b9db9eccb45c1812c9cd26bf8cef1f16f94d2a5e38fd10a21c42051bc39",
+      "checksum": "3e877b9db9eccb45c1812c9cd26bf8cef1f16f94d2a5e38fd10a21c42051bc39"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0af3cf33593c3f0ab01727bbad8da96885a0bbc17694910bfe646b6fb156ae15",
+      "checksum": "0af3cf33593c3f0ab01727bbad8da96885a0bbc17694910bfe646b6fb156ae15"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7c37904f1c86546dbf485f843e16d136d31058d6e1b63f53bc249038e2176d1f",
+      "checksum": "7c37904f1c86546dbf485f843e16d136d31058d6e1b63f53bc249038e2176d1f"
+    }
+  }
+}

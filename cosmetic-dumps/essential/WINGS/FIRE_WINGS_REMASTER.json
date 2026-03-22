@@ -1,0 +1,86 @@
+{
+  "id": "FIRE_WINGS_REMASTER",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Fire Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FIRE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "variants/pink/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/fea3f8fa441db4194582dd7919cc4616b0f230c2e35d8df1820c90405b2810ba",
+      "checksum": "fea3f8fa441db4194582dd7919cc4616b0f230c2e35d8df1820c90405b2810ba"
+    },
+    "variants/soulfire/texture.png": {
+      "url": "https://cdn.essential.gg/assets/90aa2ae7b2f6346ff4b1a21a0cfea65b6c798f343097e054f519ae4143c92341",
+      "checksum": "90aa2ae7b2f6346ff4b1a21a0cfea65b6c798f343097e054f519ae4143c92341"
+    },
+    "variants/soulfire/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/a7e5a8e17d621a892521f9ad906a4144d8df7d5722780871fb26ab1bde800d89",
+      "checksum": "a7e5a8e17d621a892521f9ad906a4144d8df7d5722780871fb26ab1bde800d89"
+    },
+    "particles/wings_ember.particle.json": {
+      "url": "https://cdn.essential.gg/assets/e3223d5c13d7fe8a88babd4521d200c426b169fc86c2ca66f9204e194e2df010",
+      "checksum": "e3223d5c13d7fe8a88babd4521d200c426b169fc86c2ca66f9204e194e2df010"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/636acf0538e6324c53dadec1a26b2cf2b62ecbebd6327ae25ec7b4449cb056ef",
+      "checksum": "636acf0538e6324c53dadec1a26b2cf2b62ecbebd6327ae25ec7b4449cb056ef"
+    },
+    "particles/wings_smoke_burst.particle.json": {
+      "url": "https://cdn.essential.gg/assets/3d74fbdcd941f0a541031b4afac633e00db0ca6dd81a1cdf26de5b77ba6b58a9",
+      "checksum": "3d74fbdcd941f0a541031b4afac633e00db0ca6dd81a1cdf26de5b77ba6b58a9"
+    },
+    "variants/fire/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/f6e1a373edc15d649b82a3c2f5e9db929ac1d2a507fd55dc366220ae1fabc995",
+      "checksum": "f6e1a373edc15d649b82a3c2f5e9db929ac1d2a507fd55dc366220ae1fabc995"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/f200b9dbbc10f8518868cfdef6ae97b475004bf59e988aa0e16bf7bc2404dd49",
+      "checksum": "f200b9dbbc10f8518868cfdef6ae97b475004bf59e988aa0e16bf7bc2404dd49"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b2a2bdde61cc1261e87c5b58e34f734541ac93506710a3ba871179e3d125a1a4",
+      "checksum": "b2a2bdde61cc1261e87c5b58e34f734541ac93506710a3ba871179e3d125a1a4"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/6e0b116ff349f33120af34c1fdb4c778832b18e994915bdfdf78c36d8eea46bf",
+      "checksum": "6e0b116ff349f33120af34c1fdb4c778832b18e994915bdfdf78c36d8eea46bf"
+    },
+    "variants/fire/texture.png": {
+      "url": "https://cdn.essential.gg/assets/aa3f2c439beef8c7b77fc8f559f65ddd1484843ee90421fbd99c983fb4b60dba",
+      "checksum": "aa3f2c439beef8c7b77fc8f559f65ddd1484843ee90421fbd99c983fb4b60dba"
+    },
+    "particles/wings_ember_burst.particle.json": {
+      "url": "https://cdn.essential.gg/assets/196772c14df691cd5b55000e4c539be390200aa5df802a5da1be9b673835692e",
+      "checksum": "196772c14df691cd5b55000e4c539be390200aa5df802a5da1be9b673835692e"
+    },
+    "variants/green/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/0cb7b3fd86dd86c066f584c153ce095069390197fc9ac52014b8310be69db1e7",
+      "checksum": "0cb7b3fd86dd86c066f584c153ce095069390197fc9ac52014b8310be69db1e7"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/1f8dd3bb19680ee33a6adcf816adec2ee72585f3f9aa62741f59d773fa588057",
+      "checksum": "1f8dd3bb19680ee33a6adcf816adec2ee72585f3f9aa62741f59d773fa588057"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/3bd0149acd2fa30436d6f887e9909dbd8bb5a2c20c8b39bfedc21436942f9506",
+      "checksum": "3bd0149acd2fa30436d6f887e9909dbd8bb5a2c20c8b39bfedc21436942f9506"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4a654c5ef3fdbc8b5f371becbc738680a831c7ac4a5ad836f686c75d8aa1f512",
+      "checksum": "4a654c5ef3fdbc8b5f371becbc738680a831c7ac4a5ad836f686c75d8aa1f512"
+    }
+  }
+}

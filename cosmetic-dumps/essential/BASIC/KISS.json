@@ -1,0 +1,52 @@
+{
+  "id": "KISS",
+  "type": "BASIC",
+  "displayNames": {
+    "en_us": "Blow A Kiss"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "NEW",
+    "THEME_VALENTINES",
+    "THEME_CUTE",
+    "THEME_FAIRY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BASIC": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/8c1a7dd26da92d9e66f4349a50c94317f05eb7d1059430441e13114424fe8d7a",
+      "checksum": "8c1a7dd26da92d9e66f4349a50c94317f05eb7d1059430441e13114424fe8d7a"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/7100280efc3c0071c9417696ca3ee47da55a5446604a826cac2d4c7e45b6597f",
+      "checksum": "7100280efc3c0071c9417696ca3ee47da55a5446604a826cac2d4c7e45b6597f"
+    },
+    "particles/main_heart.particle.json": {
+      "url": "https://cdn.essential.gg/assets/317d20e1a958fbbdcde862798839d1a229ec3d31cd1674747549d2f8a0fe89e9",
+      "checksum": "317d20e1a958fbbdcde862798839d1a229ec3d31cd1674747549d2f8a0fe89e9"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/879897aaba213bccf631f20db3978ddbe7776d7a1de7be46fdbe4db6429ffd9e",
+      "checksum": "879897aaba213bccf631f20db3978ddbe7776d7a1de7be46fdbe4db6429ffd9e"
+    },
+    "sounds/blow_a_kiss.ogg": {
+      "url": "https://cdn.essential.gg/assets/5ac1ca68c1459f7529b46f01d0148730a25713193a13cd95c25fda922b34490d",
+      "checksum": "5ac1ca68c1459f7529b46f01d0148730a25713193a13cd95c25fda922b34490d"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/26a216e18ed2a05001c8f5b4cd41e15d42195f5e65091eecbff3ddc1f87ec11e",
+      "checksum": "26a216e18ed2a05001c8f5b4cd41e15d42195f5e65091eecbff3ddc1f87ec11e"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/1ab74cbc321b00c54be9e1755ff2b3218aee61de1ede73a85a57efd3cf06a17b",
+      "checksum": "1ab74cbc321b00c54be9e1755ff2b3218aee61de1ede73a85a57efd3cf06a17b"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DOUBLE_ANGEL_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Double Angel Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANGEL"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 1500,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f19546c7860c5ad4f0fece1c4379dec1dc9b3140f63767e9f4c035b38c83e16f",
+      "checksum": "f19546c7860c5ad4f0fece1c4379dec1dc9b3140f63767e9f4c035b38c83e16f"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/1c044d225b66329ec488ed710d4d11ab3b6a8f9d311fe7b1ad4ba42022e16bf8",
+      "checksum": "1c044d225b66329ec488ed710d4d11ab3b6a8f9d311fe7b1ad4ba42022e16bf8"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/fe95a11469a5dceb62c712e43576f23210f2c7031f72c3bb1ced0f26a32e7e06",
+      "checksum": "fe95a11469a5dceb62c712e43576f23210f2c7031f72c3bb1ced0f26a32e7e06"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7ee5b3edcb08a39c9b8125706901329c3e47256743fa7ef35f7b642a74562768",
+      "checksum": "7ee5b3edcb08a39c9b8125706901329c3e47256743fa7ef35f7b642a74562768"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/1c27f513de665d9b9728410bed4f02173481beaf7527ec48beda163da20cce58",
+      "checksum": "1c27f513de665d9b9728410bed4f02173481beaf7527ec48beda163da20cce58"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/07f9c5397a3be94880a215d05c4e439d9e3282db5977b3e0ba3afc306460e501",
+      "checksum": "07f9c5397a3be94880a215d05c4e439d9e3282db5977b3e0ba3afc306460e501"
+    }
+  }
+}

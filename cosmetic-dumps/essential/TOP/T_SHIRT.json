@@ -1,0 +1,58 @@
+{
+  "id": "T_SHIRT",
+  "type": "TOP",
+  "displayNames": {
+    "en_us": "T-Shirt"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "TOP": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/70059729bbbcb9275a0c289943c191ae382e263e7b95dd30feaf299c4bf89a0a",
+      "checksum": "70059729bbbcb9275a0c289943c191ae382e263e7b95dd30feaf299c4bf89a0a"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/9ac07b314f657281de51eff9dc4365a870f0f26bad61bd86f70a9a15a6935d9d",
+      "checksum": "9ac07b314f657281de51eff9dc4365a870f0f26bad61bd86f70a9a15a6935d9d"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/5ce68f62e02461be54aba28f75109d68f704b3d202643641168f841efe44592b",
+      "checksum": "5ce68f62e02461be54aba28f75109d68f704b3d202643641168f841efe44592b"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/30c9656fdf2e7e42e5d9c7185cefc7bbb8b9b797fd845474f9003dbd1300f972",
+      "checksum": "30c9656fdf2e7e42e5d9c7185cefc7bbb8b9b797fd845474f9003dbd1300f972"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2ecce433fd1f7283ad3e13d3da974c2b537c2da4af26a0c39d5d34d0cf30eeda",
+      "checksum": "2ecce433fd1f7283ad3e13d3da974c2b537c2da4af26a0c39d5d34d0cf30eeda"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d38a905a963f08b120e43a062d312c270cc9dce441ec5e82a42a0dfaf9a6fd25",
+      "checksum": "d38a905a963f08b120e43a062d312c270cc9dce441ec5e82a42a0dfaf9a6fd25"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/dcb1464b604b0590771182ec23b0a3bd47d7755ff500c98e88afb5a23b00a0c1",
+      "checksum": "dcb1464b604b0590771182ec23b0a3bd47d7755ff500c98e88afb5a23b00a0c1"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/72189480892c7d5c918e693fc8c177e91fb2c594e6ef9f7577e733460507ddb2",
+      "checksum": "72189480892c7d5c918e693fc8c177e91fb2c594e6ef9f7577e733460507ddb2"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/880692406b026abf7b16b8941bee8e356bff5748599dfa87bd330fab617487ce",
+      "checksum": "880692406b026abf7b16b8941bee8e356bff5748599dfa87bd330fab617487ce"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d7142b185f8cf450f2ad28ef54c4802a578c18e7983e474b5abf1fec9a639aef",
+      "checksum": "d7142b185f8cf450f2ad28ef54c4802a578c18e7983e474b5abf1fec9a639aef"
+    }
+  }
+}

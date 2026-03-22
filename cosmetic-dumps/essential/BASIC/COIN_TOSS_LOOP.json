@@ -1,0 +1,62 @@
+{
+  "id": "COIN_TOSS_LOOP",
+  "type": "BASIC",
+  "displayNames": {
+    "en_us": "Coin Flippin\u0027"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FANTASY",
+    "COLLECTION_DECEMBER2025"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BASIC": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "sounds/coin_toss_loop3.ogg": {
+      "url": "https://cdn.essential.gg/assets/ebf692a484cb591ba4d968f892dee2a16c4267c7d5c76eb7fc88e3277747d28c",
+      "checksum": "ebf692a484cb591ba4d968f892dee2a16c4267c7d5c76eb7fc88e3277747d28c"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/a14fd0d68fb6f5d4183e80d5de3331477cb0a426e244b98227eb96c18e682391",
+      "checksum": "a14fd0d68fb6f5d4183e80d5de3331477cb0a426e244b98227eb96c18e682391"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/bae6db9874bab5e303d32c83889f0a96197105b7da5449dcff1aedb9121d2a39",
+      "checksum": "bae6db9874bab5e303d32c83889f0a96197105b7da5449dcff1aedb9121d2a39"
+    },
+    "sounds/coin_toss_start.ogg": {
+      "url": "https://cdn.essential.gg/assets/20e74afeffd5db40a1cd9be5b2ee190e6ba7f92556d856ce560d6d6c75f36b0b",
+      "checksum": "20e74afeffd5db40a1cd9be5b2ee190e6ba7f92556d856ce560d6d6c75f36b0b"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/ee7c36b589f66470726e9546f49bce010859dae1b37d2a84ed0174df04cb237d",
+      "checksum": "ee7c36b589f66470726e9546f49bce010859dae1b37d2a84ed0174df04cb237d"
+    },
+    "sounds/coin_toss_loop4.ogg": {
+      "url": "https://cdn.essential.gg/assets/7190e82414063abfb2f2ac045afdefff76516da39da46363982c0234c184b737",
+      "checksum": "7190e82414063abfb2f2ac045afdefff76516da39da46363982c0234c184b737"
+    },
+    "sounds/coin_toss_loop2.ogg": {
+      "url": "https://cdn.essential.gg/assets/9389fb2a070fc734f771adee30c4bc4ba7fecb3daefe557069ac10081f217d2b",
+      "checksum": "9389fb2a070fc734f771adee30c4bc4ba7fecb3daefe557069ac10081f217d2b"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/6e75ab8f65096a506002ded3d2ee4e5d0a079b157c35a27a7a5d64aacded797a",
+      "checksum": "6e75ab8f65096a506002ded3d2ee4e5d0a079b157c35a27a7a5d64aacded797a"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/1710da883f82227b9556a58317cb775f79049de700e78225dbc430d2c754508b",
+      "checksum": "1710da883f82227b9556a58317cb775f79049de700e78225dbc430d2c754508b"
+    },
+    "sounds/coin_toss_loop1.ogg": {
+      "url": "https://cdn.essential.gg/assets/e0198dd4ebfb3e510cf4d080769ccb1df05be06953e58a05e70007b54465adab",
+      "checksum": "e0198dd4ebfb3e510cf4d080769ccb1df05be06953e58a05e70007b54465adab"
+    }
+  }
+}

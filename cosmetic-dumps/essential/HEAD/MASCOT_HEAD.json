@@ -1,0 +1,56 @@
+{
+  "id": "MASCOT_HEAD",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Minecraft Head"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 60,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/961a61021eaab780517c1964582483d5daa9a610022307cf8fa4ed0d0db64c62",
+      "checksum": "961a61021eaab780517c1964582483d5daa9a610022307cf8fa4ed0d0db64c62"
+    },
+    "variants/creeper/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6a8f40e397886b30bfd8d2709ea818c947057f3ee2ea91c8191f18a3f16d47b4",
+      "checksum": "6a8f40e397886b30bfd8d2709ea818c947057f3ee2ea91c8191f18a3f16d47b4"
+    },
+    "variants/herobrine/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/31487a891c81e42032c3a5c6043e4cb37f0508cac4d1a742826f14d6b7ae3887",
+      "checksum": "31487a891c81e42032c3a5c6043e4cb37f0508cac4d1a742826f14d6b7ae3887"
+    },
+    "variants/steve/texture.png": {
+      "url": "https://cdn.essential.gg/assets/85435e34eabed72b14476ab12c968b9d11a74aed8768ae61e6b1576ff5777afa",
+      "checksum": "85435e34eabed72b14476ab12c968b9d11a74aed8768ae61e6b1576ff5777afa"
+    },
+    "variants/zombie/texture.png": {
+      "url": "https://cdn.essential.gg/assets/652ae825eae772771b3cc770cb9fa9a0adf97e79a68eb05823f0eadbedbf455e",
+      "checksum": "652ae825eae772771b3cc770cb9fa9a0adf97e79a68eb05823f0eadbedbf455e"
+    },
+    "variants/herobrine/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7b066df8758020f014d6cf74e1cabfaf30e16cc6f9d918ff9098dd8fc3fec87b",
+      "checksum": "7b066df8758020f014d6cf74e1cabfaf30e16cc6f9d918ff9098dd8fc3fec87b"
+    },
+    "variants/pig/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a23008e5f64c465a0304cbcbb11a91825c96d280a3d756eedb1acda43b3b1288",
+      "checksum": "a23008e5f64c465a0304cbcbb11a91825c96d280a3d756eedb1acda43b3b1288"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/84349281e1e44990d3c1e2369e2f45c4251341ab2de778ab03bff5fffc511a93",
+      "checksum": "84349281e1e44990d3c1e2369e2f45c4251341ab2de778ab03bff5fffc511a93"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/98486781e9075753ba264e9fae0eade6f5d8c3d8dd8e7f5205dbfc7c1844b906",
+      "checksum": "98486781e9075753ba264e9fae0eade6f5d8c3d8dd8e7f5205dbfc7c1844b906"
+    }
+  }
+}

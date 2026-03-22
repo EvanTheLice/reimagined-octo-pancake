@@ -1,0 +1,82 @@
+{
+  "id": "WATER_FIRE_FISTS",
+  "type": "ARMS",
+  "displayNames": {
+    "en_us": "Water \u0026 Fire Fists"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_DECEMBER2025",
+    "THEME_FIRE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "ARMS": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/acid_soulfire/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/343d697d10a3a06a518b1a87ee028f12e3e432a2759179baaa3c27acb6188199",
+      "checksum": "343d697d10a3a06a518b1a87ee028f12e3e432a2759179baaa3c27acb6188199"
+    },
+    "variants/blood_purple_fire/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/804bd6c94c640ceca0d3a66b186ce44e4626f10564446f455886e91ec0de4491",
+      "checksum": "804bd6c94c640ceca0d3a66b186ce44e4626f10564446f455886e91ec0de4491"
+    },
+    "variants/acid_soulfire/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6d0e8f26317e86bdb4e10ff5664855d4cd40a1f4bf3760b3f3e63d2d221d4f11",
+      "checksum": "6d0e8f26317e86bdb4e10ff5664855d4cd40a1f4bf3760b3f3e63d2d221d4f11"
+    },
+    "variants/blood_purple_fire/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e4503eb6505a3d6c36a15ac0b525443b9c6a9e1daca475de9cc4ff95ef14b7e2",
+      "checksum": "e4503eb6505a3d6c36a15ac0b525443b9c6a9e1daca475de9cc4ff95ef14b7e2"
+    },
+    "variants/water_fire/texture.png": {
+      "url": "https://cdn.essential.gg/assets/1afaac080396a40be5e65b41c4a9baa9345eae7be6f11d60aaaa7f40b0377af2",
+      "checksum": "1afaac080396a40be5e65b41c4a9baa9345eae7be6f11d60aaaa7f40b0377af2"
+    },
+    "variants/water_fire/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/9dc180855e83513661e403c1573c254e464482d4a69a0167f3e30c05f09d5736",
+      "checksum": "9dc180855e83513661e403c1573c254e464482d4a69a0167f3e30c05f09d5736"
+    },
+    "particles/first_water_splash.particle.json": {
+      "url": "https://cdn.essential.gg/assets/b940570d96acec49869ca188d6a3a868e192bc6a458ca895e63d11f4dd7f2316",
+      "checksum": "b940570d96acec49869ca188d6a3a868e192bc6a458ca895e63d11f4dd7f2316"
+    },
+    "particles/fist_fire.particle.json": {
+      "url": "https://cdn.essential.gg/assets/3a31e98736e5ce6aed888619389f0097e13f4e1a340a1bb4b7ee248ce8c02d43",
+      "checksum": "3a31e98736e5ce6aed888619389f0097e13f4e1a340a1bb4b7ee248ce8c02d43"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/b28fcd660381c52384ea747884e32c8ef1cfe8dad9f775195aa22a4f5b326dc6",
+      "checksum": "b28fcd660381c52384ea747884e32c8ef1cfe8dad9f775195aa22a4f5b326dc6"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/b4c77ccaa5a064805d3c9b6ef0ba0d2101cdad8ab8d00123f8ff0e049774072f",
+      "checksum": "b4c77ccaa5a064805d3c9b6ef0ba0d2101cdad8ab8d00123f8ff0e049774072f"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/3794d38dda35b68d826fa63b4418821ee06d01e73a287c715a53d15005ce45f9",
+      "checksum": "3794d38dda35b68d826fa63b4418821ee06d01e73a287c715a53d15005ce45f9"
+    },
+    "particles/first_water_drops.particle.json": {
+      "url": "https://cdn.essential.gg/assets/f87699d0dbc807ef169cb2802bfed525809eb2044d795f973a511974c4895343",
+      "checksum": "f87699d0dbc807ef169cb2802bfed525809eb2044d795f973a511974c4895343"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/1321da26f1ed8a7db44dfc7831153f3b9f5bb2ab3df6aa90dfaa960e1c32c581",
+      "checksum": "1321da26f1ed8a7db44dfc7831153f3b9f5bb2ab3df6aa90dfaa960e1c32c581"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/bdde6f14986a58c2b59913bb0d161f7aca4689f8e8f3572db8c88ba2263f92a1",
+      "checksum": "bdde6f14986a58c2b59913bb0d161f7aca4689f8e8f3572db8c88ba2263f92a1"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/7a2044d7f0d969753b28f41e136f5044b8747a6c902d239c5d8b50d77732ac45",
+      "checksum": "7a2044d7f0d969753b28f41e136f5044b8747a6c902d239c5d8b50d77732ac45"
+    }
+  }
+}

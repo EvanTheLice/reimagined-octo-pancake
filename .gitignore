@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Misc
+misc/
+
+# Env
+.env
+!.env.example
+
+# Local database
+essential.db
+essential.db-journal
+essential.db-shm
+essential.db-wal
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Bun
+bun.lockb
+".claude/" 

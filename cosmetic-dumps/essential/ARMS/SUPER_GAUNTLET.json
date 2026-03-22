@@ -1,0 +1,70 @@
+{
+  "id": "SUPER_GAUNTLET",
+  "type": "ARMS",
+  "displayNames": {
+    "en_us": "Golden Fist"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "ARMS": 20
+  },
+  "defaultSortWeight": 10,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/95104f0fb16bb552b4d662cf1acb35f9bd0fc47a10775eb7b4642a0dd106845f",
+      "checksum": "95104f0fb16bb552b4d662cf1acb35f9bd0fc47a10775eb7b4642a0dd106845f"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/4f145c3a8e3354caf19281d46d8f63220875eac6e87d04b18fd295045ef5edff",
+      "checksum": "4f145c3a8e3354caf19281d46d8f63220875eac6e87d04b18fd295045ef5edff"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a3480077d06182b15ad603a723797b4acbe785d3f4c12dc9000417c8e80c23d9",
+      "checksum": "a3480077d06182b15ad603a723797b4acbe785d3f4c12dc9000417c8e80c23d9"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e4b15837e1aed9e775039ef296503273a1f2c1cd4bb2fb3a102fd96cc6560886",
+      "checksum": "e4b15837e1aed9e775039ef296503273a1f2c1cd4bb2fb3a102fd96cc6560886"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/878cae84732ba0abf8f22f0cf86af4569fa5678becdaff66e3f0388cdac373ea",
+      "checksum": "878cae84732ba0abf8f22f0cf86af4569fa5678becdaff66e3f0388cdac373ea"
+    },
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/44bfdb6d82a2827448c3df1249a73533d4c28cd4c1100eef7584d2271574bf97",
+      "checksum": "44bfdb6d82a2827448c3df1249a73533d4c28cd4c1100eef7584d2271574bf97"
+    },
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f2b0c13d13358fa1da2b31610e22caafa08d15aba2cdd5e6298dc5bd299b7a81",
+      "checksum": "f2b0c13d13358fa1da2b31610e22caafa08d15aba2cdd5e6298dc5bd299b7a81"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/781f638ecb5b15d11aabe7a95c3ef3202ef52d4a856a7f444aba91fd1b64db9e",
+      "checksum": "781f638ecb5b15d11aabe7a95c3ef3202ef52d4a856a7f444aba91fd1b64db9e"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/ee99f95b70a201529e172d1e10fa650e6e1b85e0cf114bc7725b5c489840a6a0",
+      "checksum": "ee99f95b70a201529e172d1e10fa650e6e1b85e0cf114bc7725b5c489840a6a0"
+    },
+    "variants/green/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/de53d9d2a66d75e7d0012dc97eeda9a57c69f54b5db323180f167c7901ae073b",
+      "checksum": "de53d9d2a66d75e7d0012dc97eeda9a57c69f54b5db323180f167c7901ae073b"
+    },
+    "variants/yellow/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/85ba824405ae2401bd5774aab539476a5f76893592d2d48beb278c9a87f55ca1",
+      "checksum": "85ba824405ae2401bd5774aab539476a5f76893592d2d48beb278c9a87f55ca1"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/8c117cc379dc8e261d48f31b28ec55d36bdbc244da96792c8dfac4e4a5341efa",
+      "checksum": "8c117cc379dc8e261d48f31b28ec55d36bdbc244da96792c8dfac4e4a5341efa"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d6ce3ddd3180c5966a4b38194fb0d214f37dbc95f7ae914c6825e188aebb2a65",
+      "checksum": "d6ce3ddd3180c5966a4b38194fb0d214f37dbc95f7ae914c6825e188aebb2a65"
+    }
+  }
+}

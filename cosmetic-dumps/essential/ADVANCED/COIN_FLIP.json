@@ -1,0 +1,45 @@
+{
+  "id": "COIN_FLIP",
+  "type": "ADVANCED",
+  "displayNames": {
+    "en_us": "Heads Or Tails"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_DECEMBER2025"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "ADVANCED": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/c947e2c31105c12cc3b05920ab59a866b87acc3534c34c232ccfd971b44c0dad",
+      "checksum": "c947e2c31105c12cc3b05920ab59a866b87acc3534c34c232ccfd971b44c0dad"
+    },
+    "particles/coin_indicator.particle.json": {
+      "url": "https://cdn.essential.gg/assets/8df31b58ce964a70ce4372afce5fd1c333fc97a6d331db5d79f4f7fadefdffa1",
+      "checksum": "8df31b58ce964a70ce4372afce5fd1c333fc97a6d331db5d79f4f7fadefdffa1"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/db463c74cc5d4181cb7cfec1f1e7d1daa152b4333183709391024ad4c26781b0",
+      "checksum": "db463c74cc5d4181cb7cfec1f1e7d1daa152b4333183709391024ad4c26781b0"
+    },
+    "sounds/coin_flip.ogg": {
+      "url": "https://cdn.essential.gg/assets/710710c73a7cf1e51217720889b4258f9a097bb802b62e5864c079f99b8cc6d0",
+      "checksum": "710710c73a7cf1e51217720889b4258f9a097bb802b62e5864c079f99b8cc6d0"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/0e6762d1d08cf8e9f1fa88303bf429cc609756ba03dd0d4f9d545565fc462b89",
+      "checksum": "0e6762d1d08cf8e9f1fa88303bf429cc609756ba03dd0d4f9d545565fc462b89"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/d7149a0a1ef837a096abc331233bd791a331942fb907b840198caffcc2e29756",
+      "checksum": "d7149a0a1ef837a096abc331233bd791a331942fb907b840198caffcc2e29756"
+    }
+  }
+}

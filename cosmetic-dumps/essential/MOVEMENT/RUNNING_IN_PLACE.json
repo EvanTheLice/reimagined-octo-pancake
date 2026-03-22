@@ -1,0 +1,26 @@
+{
+  "id": "RUNNING_IN_PLACE",
+  "type": "MOVEMENT",
+  "displayNames": {
+    "en_us": "Running"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "MOVEMENT": 20
+  },
+  "defaultSortWeight": 10,
+  "priceCoins": 0,
+  "assetsMap": {
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/a2bb6b5869bc197e4fad2986e8baac25b6253e860ec09a0c71bacea4c022eb2d",
+      "checksum": "a2bb6b5869bc197e4fad2986e8baac25b6253e860ec09a0c71bacea4c022eb2d"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e",
+      "checksum": "7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e"
+    }
+  }
+}

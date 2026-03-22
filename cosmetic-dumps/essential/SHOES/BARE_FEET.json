@@ -1,0 +1,53 @@
+{
+  "id": "BARE_FEET",
+  "type": "SHOES",
+  "displayNames": {
+    "en_us": "Bare Feet"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SILLY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "SHOES": 20
+  },
+  "defaultSortWeight": 8,
+  "priceCoins": 0,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "variants/skin5/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d156146591404537a0abf78fdd78801c621fa307edc00f701731db973d41e966",
+      "checksum": "d156146591404537a0abf78fdd78801c621fa307edc00f701731db973d41e966"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/de7f47a84a7fab18e0cf4766e27e3772a80a9ac87bf7dc6421457c521c491cbc",
+      "checksum": "de7f47a84a7fab18e0cf4766e27e3772a80a9ac87bf7dc6421457c521c491cbc"
+    },
+    "variants/skin4/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b3739840c678a9a1e63b6eaf13d5b8763df3c3d28303e57917094305e1e1ecdb",
+      "checksum": "b3739840c678a9a1e63b6eaf13d5b8763df3c3d28303e57917094305e1e1ecdb"
+    },
+    "variants/skin1/texture.png": {
+      "url": "https://cdn.essential.gg/assets/989cf0fc63172fd48e177a212d094182f2261a5f22fe69b8a3a821f69dd25a9c",
+      "checksum": "989cf0fc63172fd48e177a212d094182f2261a5f22fe69b8a3a821f69dd25a9c"
+    },
+    "variants/skin3/texture.png": {
+      "url": "https://cdn.essential.gg/assets/91f3a537a65b8d0d84d0651272dab02b1c5d553e05b6324bbbc520d0de8a6ed3",
+      "checksum": "91f3a537a65b8d0d84d0651272dab02b1c5d553e05b6324bbbc520d0de8a6ed3"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/3c181ff2ca6f3e2d991673a8086e8380f4b02f8bac0a203bc9facb0ca39e99cf",
+      "checksum": "3c181ff2ca6f3e2d991673a8086e8380f4b02f8bac0a203bc9facb0ca39e99cf"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/65a6c4a7a88ec231d87267e92e9a34e24b19caf543947eef013f9b8d7ad7e001",
+      "checksum": "65a6c4a7a88ec231d87267e92e9a34e24b19caf543947eef013f9b8d7ad7e001"
+    },
+    "variants/skin2/texture.png": {
+      "url": "https://cdn.essential.gg/assets/61fed7766a48cb0f0670e5b92286749d403e0b71b61a045a5e0023fbd35e950f",
+      "checksum": "61fed7766a48cb0f0670e5b92286749d403e0b71b61a045a5e0023fbd35e950f"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GAS_MASK",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Gas Mask"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HALLOWEEN",
+    "THEME_SURVIVAL"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/115f43f3c5f4839f295b289626c085194d35a94d520cb1fbaf099a0850d282b6",
+      "checksum": "115f43f3c5f4839f295b289626c085194d35a94d520cb1fbaf099a0850d282b6"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/f4fa774b5f2d1d4e6817ee15efe965572bbc07dd217728dcc2be9d5000216683",
+      "checksum": "f4fa774b5f2d1d4e6817ee15efe965572bbc07dd217728dcc2be9d5000216683"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/c19376d613656a39a876796968ca55bb954aab99bc5c758031570e8ace2bf620",
+      "checksum": "c19376d613656a39a876796968ca55bb954aab99bc5c758031570e8ace2bf620"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    }
+  }
+}

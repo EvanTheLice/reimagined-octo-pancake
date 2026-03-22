@@ -1,0 +1,39 @@
+{
+  "id": "MOUNTS_OF_MAYHEM_CAPE",
+  "type": "CAPE",
+  "displayNames": {
+    "en_us": "Nautilus Cape"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "CAPE": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 0,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "variants/regular/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d302822d086dd6a79bc7f99d2b87690dfb46413e03e781ae5579e0a3b1cc9015",
+      "checksum": "d302822d086dd6a79bc7f99d2b87690dfb46413e03e781ae5579e0a3b1cc9015"
+    },
+    "variants/zombie/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/cd50a6500585853b8e258822841c21b69944eb60d40c52d325c20bac6b338282",
+      "checksum": "cd50a6500585853b8e258822841c21b69944eb60d40c52d325c20bac6b338282"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/83baaa6058879f1c8ffe91fa783d1e970b07ee7331d4333b5a85baeca24147a1",
+      "checksum": "83baaa6058879f1c8ffe91fa783d1e970b07ee7331d4333b5a85baeca24147a1"
+    },
+    "variants/zombie/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5d23e0ac54ce56b5f87035b69933572c2d55977ced615e05c6c6107379fba37b",
+      "checksum": "5d23e0ac54ce56b5f87035b69933572c2d55977ced615e05c6c6107379fba37b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/1c80dc01c7034efcac83be3d69527fc9d70449c9af50ab37942ed56325c9b80d",
+      "checksum": "1c80dc01c7034efcac83be3d69527fc9d70449c9af50ab37942ed56325c9b80d"
+    }
+  }
+}

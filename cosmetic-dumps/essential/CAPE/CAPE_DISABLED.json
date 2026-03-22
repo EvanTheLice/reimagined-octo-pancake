@@ -1,0 +1,31 @@
+{
+  "id": "CAPE_DISABLED",
+  "type": "CAPE",
+  "displayNames": {
+    "en_us": "Cape Disabled"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "CAPE_UNLOCKABLE"
+  ],
+  "createdAt": {},
+  "categories": {
+    "CAPE": 20
+  },
+  "defaultSortWeight": 101,
+  "priceCoins": 0,
+  "assetsMap": {
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/0bbf01a119658839465e0281a412cd3f77cf0315c7bc5e79871a80002415bf40",
+      "checksum": "0bbf01a119658839465e0281a412cd3f77cf0315c7bc5e79871a80002415bf40"
+    },
+    "thumbnail.png": {
+      "url": "https://cdn.essential.gg/assets/0bbf01a119658839465e0281a412cd3f77cf0315c7bc5e79871a80002415bf40",
+      "checksum": "0bbf01a119658839465e0281a412cd3f77cf0315c7bc5e79871a80002415bf40"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/50e93423547ce518436e4b232a2385ecc56f2ae18b865814b9453b4c74162471",
+      "checksum": "50e93423547ce518436e4b232a2385ecc56f2ae18b865814b9453b4c74162471"
+    }
+  }
+}

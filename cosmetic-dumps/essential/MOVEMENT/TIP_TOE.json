@@ -1,0 +1,30 @@
+{
+  "id": "TIP_TOE",
+  "type": "MOVEMENT",
+  "displayNames": {
+    "en_us": "Tiptoe"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_CUTE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "MOVEMENT": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 500,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/c119486d83a4bba1afca7596f5d1049230ebe33759c773b6d8a63d966f80cfa3",
+      "checksum": "c119486d83a4bba1afca7596f5d1049230ebe33759c773b6d8a63d966f80cfa3"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e",
+      "checksum": "7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e"
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "THUNDERBOLT_BLADE",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Lightning Blade"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MAGIC",
+    "COLLECTION_JULY2025"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/29d1ea5542393246bdd201198a0a13eddb8b7b35f2cfa9b3c2e57aa01054c38d",
+      "checksum": "29d1ea5542393246bdd201198a0a13eddb8b7b35f2cfa9b3c2e57aa01054c38d"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/241ea1cce8b916d50353428fe532d42f04e32a910984195f4f053a44f693b10b",
+      "checksum": "241ea1cce8b916d50353428fe532d42f04e32a910984195f4f053a44f693b10b"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d7e6d6d71f8dc1700388f080a1b72c1c570ec5f5a5bc2b0caa9707841778c901",
+      "checksum": "d7e6d6d71f8dc1700388f080a1b72c1c570ec5f5a5bc2b0caa9707841778c901"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/16ead5b65edba790f9d02712b77b9cb269bead700ce883fcdd01aa7cf50f7ec6",
+      "checksum": "16ead5b65edba790f9d02712b77b9cb269bead700ce883fcdd01aa7cf50f7ec6"
+    },
+    "variants/white/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/07c353dba862233d57996c73a965404077e4de323eb04c29f49b8e0debd667a0",
+      "checksum": "07c353dba862233d57996c73a965404077e4de323eb04c29f49b8e0debd667a0"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/a88d550525ac68988ddc7c7cbf04f099617b2f43d7cff48d5468981b7d9ba9a8",
+      "checksum": "a88d550525ac68988ddc7c7cbf04f099617b2f43d7cff48d5468981b7d9ba9a8"
+    },
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/34ad3f131008aea8877ca7266be889db363be7437c8ad8173c10da891bda1b67",
+      "checksum": "34ad3f131008aea8877ca7266be889db363be7437c8ad8173c10da891bda1b67"
+    },
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/fb9be2bec350a72da39835144cc692bbfccbedcfe33e6ba87cb54186b9555459",
+      "checksum": "fb9be2bec350a72da39835144cc692bbfccbedcfe33e6ba87cb54186b9555459"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/c6e78982ccb7f887685a78c9a85331806ddf3fdc312144fe01e22e5d7c1c6c74",
+      "checksum": "c6e78982ccb7f887685a78c9a85331806ddf3fdc312144fe01e22e5d7c1c6c74"
+    },
+    "particles/bolts.particle.json": {
+      "url": "https://cdn.essential.gg/assets/fd2cf2dc4cd2033de3925f729059352562182b4924cf2bcee149f6fbbcb6e57d",
+      "checksum": "fd2cf2dc4cd2033de3925f729059352562182b4924cf2bcee149f6fbbcb6e57d"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/99baf00de09b813b8f32647e898c0470fef8827591270b8fd30fc3d48035f99a",
+      "checksum": "99baf00de09b813b8f32647e898c0470fef8827591270b8fd30fc3d48035f99a"
+    },
+    "variants/yellow/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/458f355295713325f26ad3de04af45d6f3935bcc37eb5b236acef3733f87e219",
+      "checksum": "458f355295713325f26ad3de04af45d6f3935bcc37eb5b236acef3733f87e219"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/336a55694104d9d3018c887bad3474e18b65e1779277001eb2af04ebb003a919",
+      "checksum": "336a55694104d9d3018c887bad3474e18b65e1779277001eb2af04ebb003a919"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/466811548d65b23b020879cea37f088cdfa03053213df303b53b9d35e7d6c281",
+      "checksum": "466811548d65b23b020879cea37f088cdfa03053213df303b53b9d35e7d6c281"
+    }
+  }
+}

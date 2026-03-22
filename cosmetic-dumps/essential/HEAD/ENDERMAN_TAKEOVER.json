@@ -1,0 +1,58 @@
+{
+  "id": "ENDERMAN_TAKEOVER",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Enderman Takeover"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ENDER",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 30,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "skin_mask.steve.right.png": {
+      "url": "https://cdn.essential.gg/assets/0fd04ea2e71d9c4f3f0db5b8033280799572b3c58c4643117c7a9ced65ebcaae",
+      "checksum": "0fd04ea2e71d9c4f3f0db5b8033280799572b3c58c4643117c7a9ced65ebcaae"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/e3e4f6d99db50066b25a73397027d501bb5292232314f9433fb4d61fc9633559",
+      "checksum": "e3e4f6d99db50066b25a73397027d501bb5292232314f9433fb4d61fc9633559"
+    },
+    "skin_mask.steve.left.png": {
+      "url": "https://cdn.essential.gg/assets/cb8c7731fe79c65209ff59a5b96ff5713250696d8ac480562bfcd18e6f84211a",
+      "checksum": "cb8c7731fe79c65209ff59a5b96ff5713250696d8ac480562bfcd18e6f84211a"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/ef4fd33fc3650f5f123de88bd6999e31c460bc330453e12c37d5aa0516036415",
+      "checksum": "ef4fd33fc3650f5f123de88bd6999e31c460bc330453e12c37d5aa0516036415"
+    },
+    "skin_mask.alex.left.png": {
+      "url": "https://cdn.essential.gg/assets/559ea00be10cd8625e895447c81087546e0af4b998ffccf50ab2c3bce8abd140",
+      "checksum": "559ea00be10cd8625e895447c81087546e0af4b998ffccf50ab2c3bce8abd140"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/9d7803f4e889eae1797c64c8fd16e046463ffdb1c30a8308b720eb87288c37ca",
+      "checksum": "9d7803f4e889eae1797c64c8fd16e046463ffdb1c30a8308b720eb87288c37ca"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/c0f79f72723457ec25c6253a17ff5799b6ec8934032a83787de83df32a170a59",
+      "checksum": "c0f79f72723457ec25c6253a17ff5799b6ec8934032a83787de83df32a170a59"
+    },
+    "skin_mask.alex.right.png": {
+      "url": "https://cdn.essential.gg/assets/8d5ac7bd74c047379b4b2318d6a9ab6bad188574afa3cf76e5efe41f00b5d40a",
+      "checksum": "8d5ac7bd74c047379b4b2318d6a9ab6bad188574afa3cf76e5efe41f00b5d40a"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/6774f53da91f257cc6da40fc1ec8ebfdb1dc2ed7c6fd0b47aa25c52e4f95091c",
+      "checksum": "6774f53da91f257cc6da40fc1ec8ebfdb1dc2ed7c6fd0b47aa25c52e4f95091c"
+    }
+  }
+}

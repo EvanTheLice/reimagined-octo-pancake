@@ -1,0 +1,33 @@
+{
+  "id": "SIT_ON_FLOOR",
+  "type": "BASIC",
+  "displayNames": {
+    "en_us": "Sit"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ROLEPLAY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BASIC": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/a1231b7b8f61d3232569e14ea23c90295e989b85ef49440cb48e442fdde05b0f",
+      "checksum": "a1231b7b8f61d3232569e14ea23c90295e989b85ef49440cb48e442fdde05b0f"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/9a7ab9ab2f96e749a257afcb3570e869e7eb469b8a315faa8b9fb100621c5bce",
+      "checksum": "9a7ab9ab2f96e749a257afcb3570e869e7eb469b8a315faa8b9fb100621c5bce"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e",
+      "checksum": "7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e"
+    }
+  }
+}

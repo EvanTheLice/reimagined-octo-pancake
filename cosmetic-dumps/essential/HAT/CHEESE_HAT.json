@@ -1,0 +1,39 @@
+{
+  "id": "CHEESE_HAT",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Cheese Hat"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SILLY",
+    "COLLECTION_DECEMBER2025"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a1d8e0e5af63b7b1a0ed928fe98e332202013b6fb431460788fe6fac7134a99f",
+      "checksum": "a1d8e0e5af63b7b1a0ed928fe98e332202013b6fb431460788fe6fac7134a99f"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/ca04a3d8939f8d2e3a6ac42de22d145749933bf6bbf91b5a0876613ed785b630",
+      "checksum": "ca04a3d8939f8d2e3a6ac42de22d145749933bf6bbf91b5a0876613ed785b630"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/6a1eac11f251977b95098fcf8bb8ec1e6c4b8fffd90d1b342a8b948ed25940dc",
+      "checksum": "6a1eac11f251977b95098fcf8bb8ec1e6c4b8fffd90d1b342a8b948ed25940dc"
+    },
+    "variants/babybell/texture.png": {
+      "url": "https://cdn.essential.gg/assets/bdc11f8fd94354e24f033f85d1496ad76d1ce5256b31fe0a8fbe09923a5d6190",
+      "checksum": "bdc11f8fd94354e24f033f85d1496ad76d1ce5256b31fe0a8fbe09923a5d6190"
+    }
+  }
+}

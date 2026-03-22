@@ -1,0 +1,42 @@
+{
+  "id": "ENDER_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Ender Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ENDER",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 1500,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/6ee0ed9b951720557ad9d6822490dd5b26cd6d1012f858ccd8bbae7ad8d97840",
+      "checksum": "6ee0ed9b951720557ad9d6822490dd5b26cd6d1012f858ccd8bbae7ad8d97840"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/568d235d662ad0f8cb7a29bc83031048f3a509fd8230447e72f6a2163fe73932",
+      "checksum": "568d235d662ad0f8cb7a29bc83031048f3a509fd8230447e72f6a2163fe73932"
+    },
+    "particles/ender_wings.particle.json": {
+      "url": "https://cdn.essential.gg/assets/a9f789cd51a3a0c7f3e236539bb21f6a6f42f55a42ab93704bb013ca31937838",
+      "checksum": "a9f789cd51a3a0c7f3e236539bb21f6a6f42f55a42ab93704bb013ca31937838"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/0eb835f1ea340a3b200f51c53ae5dc7f271fedd28b78522ba76b8e21670dde33",
+      "checksum": "0eb835f1ea340a3b200f51c53ae5dc7f271fedd28b78522ba76b8e21670dde33"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/60e0f274b8b67a4b7c13021907ee58ef6cb25052f1a9c23ebc553e9566aee3f4",
+      "checksum": "60e0f274b8b67a4b7c13021907ee58ef6cb25052f1a9c23ebc553e9566aee3f4"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "AXOLOTL_ONESIE",
+  "type": "OUTERWEAR",
+  "displayNames": {
+    "en_us": "Axolotl Onesie"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL",
+    "THEME_CUTE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e63351b429a2fe4db5c8a6179e66a2cfd9a75fb5681dcdb8c7ec930041a77ed1",
+      "checksum": "e63351b429a2fe4db5c8a6179e66a2cfd9a75fb5681dcdb8c7ec930041a77ed1"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/602de717345ddcd94431d6e2a6fa2a0e1df48a7819de0f1b3b24309d00c62f25",
+      "checksum": "602de717345ddcd94431d6e2a6fa2a0e1df48a7819de0f1b3b24309d00c62f25"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/9edb4b9950866c4fec55fb3d8999f94c6fc588c0b5c07b0dee1fdb453e57cd63",
+      "checksum": "9edb4b9950866c4fec55fb3d8999f94c6fc588c0b5c07b0dee1fdb453e57cd63"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/d9b7c668798b98f2d7e349e964e3774c6f51b7b91b67e112a1873c189b6a3c3b",
+      "checksum": "d9b7c668798b98f2d7e349e964e3774c6f51b7b91b67e112a1873c189b6a3c3b"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/37ed8bd7efb48b384ce93e0cf41973cfc1053bf928453df472a7151bf87b7c2a",
+      "checksum": "37ed8bd7efb48b384ce93e0cf41973cfc1053bf928453df472a7151bf87b7c2a"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/dd20c8f64d0251321f48cff7faa292c274e41e1177d6bba90101c477d62618d6",
+      "checksum": "dd20c8f64d0251321f48cff7faa292c274e41e1177d6bba90101c477d62618d6"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/32e760de867d82fd3a9ac5ef975c42f19356ba361d466fa304ea5b43a32bc89e",
+      "checksum": "32e760de867d82fd3a9ac5ef975c42f19356ba361d466fa304ea5b43a32bc89e"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/6577f9aad3f52a7e5b9421053ede9aee6acb71de8b44c6a481c2b1f109daedaa",
+      "checksum": "6577f9aad3f52a7e5b9421053ede9aee6acb71de8b44c6a481c2b1f109daedaa"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/d1f88b1d0a2296e3267dda19a571d5ba8f767024e709d9d3931b28cd4f366baf",
+      "checksum": "d1f88b1d0a2296e3267dda19a571d5ba8f767024e709d9d3931b28cd4f366baf"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/aa32aaba01efc466bd24bca6ceacc3d125e0d5577718efadc2911e19ba769bce",
+      "checksum": "aa32aaba01efc466bd24bca6ceacc3d125e0d5577718efadc2911e19ba769bce"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/61dae640a6c2de87f082057864cc7cde66be988bef8fc195d4365c1bb5c8c502",
+      "checksum": "61dae640a6c2de87f082057864cc7cde66be988bef8fc195d4365c1bb5c8c502"
+    }
+  }
+}

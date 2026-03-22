@@ -1,0 +1,33 @@
+{
+  "id": "5e6f3193e74cd16cdd6637d9bae5484e3a37ff2a14c2d157c659a07810b1bdca",
+  "type": "CAPE",
+  "displayNames": {
+    "en_us": "Copper Cape"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "CAPE_UNLOCKABLE"
+  ],
+  "createdAt": {},
+  "categories": {
+    "CAPE": 20
+  },
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/9d36875baf61887aa37816de2cf3ffacdef008445b35a26709e918a1e3de2f82",
+      "checksum": "9d36875baf61887aa37816de2cf3ffacdef008445b35a26709e918a1e3de2f82"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/5e6f3193e74cd16cdd6637d9bae5484e3a37ff2a14c2d157c659a07810b1bdca",
+      "checksum": "5e6f3193e74cd16cdd6637d9bae5484e3a37ff2a14c2d157c659a07810b1bdca"
+    },
+    "thumbnail.png": {
+      "url": "https://cdn.essential.gg/assets/5e6f3193e74cd16cdd6637d9bae5484e3a37ff2a14c2d157c659a07810b1bdca",
+      "checksum": "5e6f3193e74cd16cdd6637d9bae5484e3a37ff2a14c2d157c659a07810b1bdca"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/c16758b90fe15e6ef24300cf8c057fe7f01c9515d68d2a3b1fbdbaa0ae84cb77",
+      "checksum": "c16758b90fe15e6ef24300cf8c057fe7f01c9515d68d2a3b1fbdbaa0ae84cb77"
+    }
+  }
+}

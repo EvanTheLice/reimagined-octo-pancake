@@ -1,0 +1,75 @@
+{
+  "id": "ENDER_ENTITY_BODY",
+  "type": "OUTERWEAR",
+  "displayNames": {
+    "en_us": "Ender Entity Body"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ENDER",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/pink/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/c0c584adb0475fee56b4aed6688e4fcb722cd15e9346a0ecb464a8d00a16a077",
+      "checksum": "c0c584adb0475fee56b4aed6688e4fcb722cd15e9346a0ecb464a8d00a16a077"
+    },
+    "variants/red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/e944218f1a7ac44a57c5a7efb432d3e34eb80121d655daa92a8f59e1cf116f5d",
+      "checksum": "e944218f1a7ac44a57c5a7efb432d3e34eb80121d655daa92a8f59e1cf116f5d"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/15d1107ecd3415289173b10008283adc4026c75483268470e57c2140f09f1e0d",
+      "checksum": "15d1107ecd3415289173b10008283adc4026c75483268470e57c2140f09f1e0d"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f76bfbfc9181924702a0a02b32de46620565e27a15f98f909147bbaa0ec087f6",
+      "checksum": "f76bfbfc9181924702a0a02b32de46620565e27a15f98f909147bbaa0ec087f6"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f1cad892c29828bf13b24c310e138b0ef48acd9bc2af641d740c8de8377bdb05",
+      "checksum": "f1cad892c29828bf13b24c310e138b0ef48acd9bc2af641d740c8de8377bdb05"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/6f841e975bc66f5ab5fdec474505e0c57c75f7bb686673f47c87245fd5efb746",
+      "checksum": "6f841e975bc66f5ab5fdec474505e0c57c75f7bb686673f47c87245fd5efb746"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/17b4420175cbd126543c3525d596622468f5373205af62e3c8d71e00943559bf",
+      "checksum": "17b4420175cbd126543c3525d596622468f5373205af62e3c8d71e00943559bf"
+    },
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f2fd97914f8726afe26a584ac75b9cde929a8a5ebc438fe73e6efc6c57009196",
+      "checksum": "f2fd97914f8726afe26a584ac75b9cde929a8a5ebc438fe73e6efc6c57009196"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/821eccfe536342ed3cb1dced616061aef3bce201e5f13e7818a705f7c80245b9",
+      "checksum": "821eccfe536342ed3cb1dced616061aef3bce201e5f13e7818a705f7c80245b9"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/c5d5c97959bdea2fdde041b4fd1fdbdec146fc47618927263c451d43a6dcfec0",
+      "checksum": "c5d5c97959bdea2fdde041b4fd1fdbdec146fc47618927263c451d43a6dcfec0"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/9dabe5e2abd6f0692937a4984a41d1d0d955a4ee2b24ac7abc70ebfb53fb0bb3",
+      "checksum": "9dabe5e2abd6f0692937a4984a41d1d0d955a4ee2b24ac7abc70ebfb53fb0bb3"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/c5d5c97959bdea2fdde041b4fd1fdbdec146fc47618927263c451d43a6dcfec0",
+      "checksum": "c5d5c97959bdea2fdde041b4fd1fdbdec146fc47618927263c451d43a6dcfec0"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/f1dc3420305d9f4229189bc9569bd2a947c4547766907d24eec9d288789534d5",
+      "checksum": "f1dc3420305d9f4229189bc9569bd2a947c4547766907d24eec9d288789534d5"
+    }
+  }
+}

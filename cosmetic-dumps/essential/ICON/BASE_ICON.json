@@ -1,0 +1,23 @@
+{
+  "id": "BASE_ICON",
+  "type": "ICON",
+  "displayNames": {
+    "en_us": "Base"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {},
+  "priceCoins": 0,
+  "assetsMap": {
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/1565274760d05c6559c72ef8ba3b12b97f7a13393d7175434d2f83cd1c9aab0d",
+      "checksum": "1565274760d05c6559c72ef8ba3b12b97f7a13393d7175434d2f83cd1c9aab0d"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/2aa75dad4865323672edea422c24763b5ea954c3b0cbbc7435c1f3138e9a5708",
+      "checksum": "2aa75dad4865323672edea422c24763b5ea954c3b0cbbc7435c1f3138e9a5708"
+    }
+  }
+}

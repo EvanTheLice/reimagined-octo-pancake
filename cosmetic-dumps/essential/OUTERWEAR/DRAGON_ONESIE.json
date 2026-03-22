@@ -1,0 +1,59 @@
+{
+  "id": "DRAGON_ONESIE",
+  "type": "OUTERWEAR",
+  "displayNames": {
+    "en_us": "Dragon Onesie"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/9d9eef45586b6e77f4fab71c3979d463dd707f04273a01ab6cfec3fdd7b48f7a",
+      "checksum": "9d9eef45586b6e77f4fab71c3979d463dd707f04273a01ab6cfec3fdd7b48f7a"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/da3ee3b695dbe3f077e5941ef6d13d645396df66169e71f81993376b1319edd9",
+      "checksum": "da3ee3b695dbe3f077e5941ef6d13d645396df66169e71f81993376b1319edd9"
+    },
+    "variants/orange/texture.png": {
+      "url": "https://cdn.essential.gg/assets/702f9d1db7973c93dea82d358c1b0d868ab07527479ab256236789f745d13026",
+      "checksum": "702f9d1db7973c93dea82d358c1b0d868ab07527479ab256236789f745d13026"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/a81f4b1b1f0d07dd22927b7dc9d2554744c1fd84f1d4017b962d7dd9090ffc06",
+      "checksum": "a81f4b1b1f0d07dd22927b7dc9d2554744c1fd84f1d4017b962d7dd9090ffc06"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/bbfa35368297c4635b9a4ad539c73332f79941a60d11a05dd71229feac2b3330",
+      "checksum": "bbfa35368297c4635b9a4ad539c73332f79941a60d11a05dd71229feac2b3330"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ae7adf188764e6e2d8b2c213f09e6bddfe93f301bdc02b3ab5416ab25a57ef1f",
+      "checksum": "ae7adf188764e6e2d8b2c213f09e6bddfe93f301bdc02b3ab5416ab25a57ef1f"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/a06a9dc7be9147b04a87054867de21a6b967801e552de93771a46547574a55e8",
+      "checksum": "a06a9dc7be9147b04a87054867de21a6b967801e552de93771a46547574a55e8"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/c580cdae6f48632ca0b915b214f8102af993a7f33a1079bb27a3a6c6903f37f9",
+      "checksum": "c580cdae6f48632ca0b915b214f8102af993a7f33a1079bb27a3a6c6903f37f9"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/39506ff37d61c1a21bb0ab839417444a3131282936f6f02ace25dc52b000e1e6",
+      "checksum": "39506ff37d61c1a21bb0ab839417444a3131282936f6f02ace25dc52b000e1e6"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/fc5bfaecf46f18241af753434b89de3994a880931e4b61f1452382b4342bd620",
+      "checksum": "fc5bfaecf46f18241af753434b89de3994a880931e4b61f1452382b4342bd620"
+    }
+  }
+}

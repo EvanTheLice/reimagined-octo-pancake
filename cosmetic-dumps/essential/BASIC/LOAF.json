@@ -1,0 +1,64 @@
+{
+  "id": "LOAF",
+  "type": "BASIC",
+  "displayNames": {
+    "en_us": "Loaf Mode"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MEME",
+    "COLLECTION_NOVEMBER2025",
+    "THEME_CUTE",
+    "THEME_FURRY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BASIC": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 900,
+  "tier": "EPIC",
+  "assetsMap": {
+    "sounds/em_loaf_mode_loop5.ogg": {
+      "url": "https://cdn.essential.gg/assets/73e04649f791d206af6dc864a2402fc9a1f5ebf83e6040225acca2918f9afbae",
+      "checksum": "73e04649f791d206af6dc864a2402fc9a1f5ebf83e6040225acca2918f9afbae"
+    },
+    "sounds/em_loaf_mode_loop4.ogg": {
+      "url": "https://cdn.essential.gg/assets/ef58d178e02e60e28452d49d9ce885a4875afa7c88dcb5c63df63c1cd4626171",
+      "checksum": "ef58d178e02e60e28452d49d9ce885a4875afa7c88dcb5c63df63c1cd4626171"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/143cc204e67ae141e488b10dcbfe873211bf0b4775fe50ad4a227e43215203bb",
+      "checksum": "143cc204e67ae141e488b10dcbfe873211bf0b4775fe50ad4a227e43215203bb"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/92c36307654a38168f94f2cd221e33034f923d981f845650a7dc44368e75b1ea",
+      "checksum": "92c36307654a38168f94f2cd221e33034f923d981f845650a7dc44368e75b1ea"
+    },
+    "sounds/em_loaf_mode_loop1.ogg": {
+      "url": "https://cdn.essential.gg/assets/596d3407c9415c4e896ed5f4b0ba18ce975e17dee6346ff087d3ad1969137e66",
+      "checksum": "596d3407c9415c4e896ed5f4b0ba18ce975e17dee6346ff087d3ad1969137e66"
+    },
+    "sounds/em_loaf_mode_loop2.ogg": {
+      "url": "https://cdn.essential.gg/assets/4e804cdc50f53633cc6213525f89abbcb26d06df120569b9685205b544eb7ea7",
+      "checksum": "4e804cdc50f53633cc6213525f89abbcb26d06df120569b9685205b544eb7ea7"
+    },
+    "sounds/em_loaf_mode_loop3.ogg": {
+      "url": "https://cdn.essential.gg/assets/65b3e0c73a551f988629acd2e87547dbec99ca89cd58858c54cb24199458806b",
+      "checksum": "65b3e0c73a551f988629acd2e87547dbec99ca89cd58858c54cb24199458806b"
+    },
+    "sounds/em_loaf_mode_start.ogg": {
+      "url": "https://cdn.essential.gg/assets/a1e677b942f1b1a24536aaf2cf2e29a1b01837e7c844b82aa2c2f22cf692909d",
+      "checksum": "a1e677b942f1b1a24536aaf2cf2e29a1b01837e7c844b82aa2c2f22cf692909d"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/603dd3d356d0480177b08f594faa8626a7e497bd8b337917c816811b26eb0c67",
+      "checksum": "603dd3d356d0480177b08f594faa8626a7e497bd8b337917c816811b26eb0c67"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/84a8f7e86a5befcc8f7d91d28f54116ebcfd08efe48c32884a74d01417256b4a",
+      "checksum": "84a8f7e86a5befcc8f7d91d28f54116ebcfd08efe48c32884a74d01417256b4a"
+    }
+  }
+}

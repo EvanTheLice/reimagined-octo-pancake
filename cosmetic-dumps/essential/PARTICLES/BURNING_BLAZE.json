@@ -1,0 +1,49 @@
+{
+  "id": "BURNING_BLAZE",
+  "type": "PARTICLES",
+  "displayNames": {
+    "en_us": "Fire Footsteps"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FIRE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "particles/blaze_sand.particle.json": {
+      "url": "https://cdn.essential.gg/assets/cc42ccebaca70bf438c1adc1027899530fd21a9f9e29ca863305f8908b2c8db0",
+      "checksum": "cc42ccebaca70bf438c1adc1027899530fd21a9f9e29ca863305f8908b2c8db0"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/13c781d9ba1d7c1be3ea864cf1c175d0fc39115047515dd94aa7d903c73dd723",
+      "checksum": "13c781d9ba1d7c1be3ea864cf1c175d0fc39115047515dd94aa7d903c73dd723"
+    },
+    "particles/blaze_fire.particle.json": {
+      "url": "https://cdn.essential.gg/assets/28c44ee79b03bf826c293d25fb91b37b95c2bbe6356bd0c85cb7028a66524250",
+      "checksum": "28c44ee79b03bf826c293d25fb91b37b95c2bbe6356bd0c85cb7028a66524250"
+    },
+    "particles/blaze_smoke.particle.json": {
+      "url": "https://cdn.essential.gg/assets/7dcf5c77ac59b72e1e764282ddf4506b11972cd4e0be4ba081dfa09e12fc8a41",
+      "checksum": "7dcf5c77ac59b72e1e764282ddf4506b11972cd4e0be4ba081dfa09e12fc8a41"
+    },
+    "particles/blaze_flame.particle.json": {
+      "url": "https://cdn.essential.gg/assets/efb73b8ca55803e8a6cf9d06c1b4c9b365e5dee17df9a4163d3b0755cb859a67",
+      "checksum": "efb73b8ca55803e8a6cf9d06c1b4c9b365e5dee17df9a4163d3b0755cb859a67"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/fa7249610f9ffd3317997c8d5731a0a295a094eea4036f6eeb4caf8ee9ac9152",
+      "checksum": "fa7249610f9ffd3317997c8d5731a0a295a094eea4036f6eeb4caf8ee9ac9152"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/6ad09ae3d8e9b5f2fd32efff3c624cf46cbd8ee50f1140ba478075b6b16b368d",
+      "checksum": "6ad09ae3d8e9b5f2fd32efff3c624cf46cbd8ee50f1140ba478075b6b16b368d"
+    }
+  }
+}

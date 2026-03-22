@@ -1,0 +1,39 @@
+{
+  "id": "NITRO_GEM",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Nitro Boost Gem"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 0,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/453fbeba4bc5d8832b7883ccdd189a96ea31c0ea534d7ca03e0672549cd9ce22",
+      "checksum": "453fbeba4bc5d8832b7883ccdd189a96ea31c0ea534d7ca03e0672549cd9ce22"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/fc9a46694dc08cc0bbe14f9052d05f99d72a42091c51c00bbe6ccb339062d1b4",
+      "checksum": "fc9a46694dc08cc0bbe14f9052d05f99d72a42091c51c00bbe6ccb339062d1b4"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/4268906095022125a666a78f2d70d819105eb157cbe2c2286b899a2eafc76679",
+      "checksum": "4268906095022125a666a78f2d70d819105eb157cbe2c2286b899a2eafc76679"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/532c2d254f8811ef6d8b4b7008fd3bb9aff795ac727e88298c3c7327155dd99d",
+      "checksum": "532c2d254f8811ef6d8b4b7008fd3bb9aff795ac727e88298c3c7327155dd99d"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/e1b1c4dc661f1702a18f08becaa3df53ca12212518d688f7923d560006529f43",
+      "checksum": "e1b1c4dc661f1702a18f08becaa3df53ca12212518d688f7923d560006529f43"
+    }
+  }
+}

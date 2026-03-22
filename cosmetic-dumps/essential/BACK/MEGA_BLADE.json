@@ -1,0 +1,52 @@
+{
+  "id": "MEGA_BLADE",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Mega Blade"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FANTASY",
+    "COLLECTION_SEPTEMBER2025",
+    "SET_ANIME",
+    "THEME_ANIME"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6e0fb3891b2febdbc266c05ba5f62e52922a367e5069053d53ed2089f2b19b3c",
+      "checksum": "6e0fb3891b2febdbc266c05ba5f62e52922a367e5069053d53ed2089f2b19b3c"
+    },
+    "variants/light_silver/texture.png": {
+      "url": "https://cdn.essential.gg/assets/49cc90af356cfa808013ae30bb319f646b5b0fbeb0f98be0ec0e4f7972ad3205",
+      "checksum": "49cc90af356cfa808013ae30bb319f646b5b0fbeb0f98be0ec0e4f7972ad3205"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/82f7bf5a9008adb1930f69acd9ceab57c34e9891fab39f899727e7bcc98eeed2",
+      "checksum": "82f7bf5a9008adb1930f69acd9ceab57c34e9891fab39f899727e7bcc98eeed2"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/209c5696884df3a8012a8ab33270202ff576701707e05c0cf308447b239dd972",
+      "checksum": "209c5696884df3a8012a8ab33270202ff576701707e05c0cf308447b239dd972"
+    },
+    "variants/gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f8ae6197cf409bef868daf09402dd8b70ae282685eb8cef580b99e315815b9df",
+      "checksum": "f8ae6197cf409bef868daf09402dd8b70ae282685eb8cef580b99e315815b9df"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/76f8f77f3f8d5fa25fc2d6cd6820aba8111187e7e27cc91440507c059c5b97f0",
+      "checksum": "76f8f77f3f8d5fa25fc2d6cd6820aba8111187e7e27cc91440507c059c5b97f0"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/105e601b1adbc11ad6263a86ead71ce843a5a5d1a61eb2cb831a7c72a8de0d79",
+      "checksum": "105e601b1adbc11ad6263a86ead71ce843a5a5d1a61eb2cb831a7c72a8de0d79"
+    }
+  }
+}

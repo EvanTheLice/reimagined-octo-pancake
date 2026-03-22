@@ -1,0 +1,74 @@
+{
+  "id": "UNDEAD_OVERLORD_HEAD",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Undead Overlord Head"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_OCTOBER2025",
+    "THEME_DEMON"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/bone/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7345c0520cbaaef4b5990e8af3a7ad70ddfab7daed38b2a7c85c6f2019474d88",
+      "checksum": "7345c0520cbaaef4b5990e8af3a7ad70ddfab7daed38b2a7c85c6f2019474d88"
+    },
+    "variants/red_black_purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/2d66ff302591f5595f9fab56d33d0757ff4f02c0f8b10ebd9cdfdfb33ad8ab5a",
+      "checksum": "2d66ff302591f5595f9fab56d33d0757ff4f02c0f8b10ebd9cdfdfb33ad8ab5a"
+    },
+    "variants/purple_green/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/c597e5b0e93fdfff17af247e117822c9a7e6af74794a1f3d89b786c7d83a78ba",
+      "checksum": "c597e5b0e93fdfff17af247e117822c9a7e6af74794a1f3d89b786c7d83a78ba"
+    },
+    "variants/purple_green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7d0e5743dad8a8b7d063dda7cd25dd6521fa2f9fb4a99528d6564601325ced7d",
+      "checksum": "7d0e5743dad8a8b7d063dda7cd25dd6521fa2f9fb4a99528d6564601325ced7d"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/671fa9ba9fb3460fbaac83918bd6f4d5b1cf10538be310e07e0c337fd17019a8",
+      "checksum": "671fa9ba9fb3460fbaac83918bd6f4d5b1cf10538be310e07e0c337fd17019a8"
+    },
+    "variants/bone/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/85f248dd3b464d7fa03b30bad051cf852d5826ce5be5fb8643224f87cd6f64e9",
+      "checksum": "85f248dd3b464d7fa03b30bad051cf852d5826ce5be5fb8643224f87cd6f64e9"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/b674ee46ed0e923a752b65b932ea515feb7c30bd900f6ee42793155de11b9080",
+      "checksum": "b674ee46ed0e923a752b65b932ea515feb7c30bd900f6ee42793155de11b9080"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/fca786723ed06a5f9292b3cc40d91b099377cb60422edb67a02cdfd6dbf44c0c",
+      "checksum": "fca786723ed06a5f9292b3cc40d91b099377cb60422edb67a02cdfd6dbf44c0c"
+    },
+    "variants/green/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/f50bd1564ce27b03032a76fde3c39dcc7ee7b04a60e0624acb3a5f6a37919598",
+      "checksum": "f50bd1564ce27b03032a76fde3c39dcc7ee7b04a60e0624acb3a5f6a37919598"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/401862f0d86f5b3a7a5bf37b2540a0b2a7bdfe5478fba4e5f91917a7e4733c24",
+      "checksum": "401862f0d86f5b3a7a5bf37b2540a0b2a7bdfe5478fba4e5f91917a7e4733c24"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/40bac42724e4ffe372ac22c52f6957b5fcaf99a4f6c6c96a438135d5819167ec",
+      "checksum": "40bac42724e4ffe372ac22c52f6957b5fcaf99a4f6c6c96a438135d5819167ec"
+    },
+    "variants/red_black_purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/483d7b742752ce1f070c8d5e278408bc7aff69628673b337a010dd8e5ab176c4",
+      "checksum": "483d7b742752ce1f070c8d5e278408bc7aff69628673b337a010dd8e5ab176c4"
+    }
+  }
+}

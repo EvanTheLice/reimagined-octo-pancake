@@ -1,0 +1,62 @@
+{
+  "id": "MUSCLE_ARMS",
+  "type": "ARMS",
+  "displayNames": {
+    "en_us": "Muscle Arms"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SILLY",
+    "COLLECTION_DECEMBER2025"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "ARMS": 0
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/skin_2/texture.png": {
+      "url": "https://cdn.essential.gg/assets/46c1714869750bc798826f51772dd26f0e20fc8c8dacee3bfb7ef99a75ac1aef",
+      "checksum": "46c1714869750bc798826f51772dd26f0e20fc8c8dacee3bfb7ef99a75ac1aef"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/c9eb32f24eb6cf7fcafa6eb19f43b3e181747fad942335c13119fc23084b2846",
+      "checksum": "c9eb32f24eb6cf7fcafa6eb19f43b3e181747fad942335c13119fc23084b2846"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/59a5ed83d81be63aad2746dfe1232881a157d5f7abbb339e35f9c1a9dc9b4f79",
+      "checksum": "59a5ed83d81be63aad2746dfe1232881a157d5f7abbb339e35f9c1a9dc9b4f79"
+    },
+    "variants/skin_3/texture.png": {
+      "url": "https://cdn.essential.gg/assets/1dd0b5b74e1346b0205404ac735e0857c7fd8e919c4e96fb3e4a2bb40e60b406",
+      "checksum": "1dd0b5b74e1346b0205404ac735e0857c7fd8e919c4e96fb3e4a2bb40e60b406"
+    },
+    "variants/skin_4/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f246a02d05e3f4a226f183c9fe69e9c33e389f6cd50526ce9a62aba74ec7e505",
+      "checksum": "f246a02d05e3f4a226f183c9fe69e9c33e389f6cd50526ce9a62aba74ec7e505"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/bd19f6c93fa11b44ab5448d6b5c2f1d55a03ef4c4faef49630ccdc64ddb924c2",
+      "checksum": "bd19f6c93fa11b44ab5448d6b5c2f1d55a03ef4c4faef49630ccdc64ddb924c2"
+    },
+    "variants/skin_1/texture.png": {
+      "url": "https://cdn.essential.gg/assets/feb0714fc5a393c5d3b68a4ea597da452c8e8539473870b8dd697b74c2151405",
+      "checksum": "feb0714fc5a393c5d3b68a4ea597da452c8e8539473870b8dd697b74c2151405"
+    },
+    "variants/skin_5/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a1ced276cd4549ed4b70f15cff4fa05ef5eec374a7e47a708675a7934c32ed8c",
+      "checksum": "a1ced276cd4549ed4b70f15cff4fa05ef5eec374a7e47a708675a7934c32ed8c"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/59a5ed83d81be63aad2746dfe1232881a157d5f7abbb339e35f9c1a9dc9b4f79",
+      "checksum": "59a5ed83d81be63aad2746dfe1232881a157d5f7abbb339e35f9c1a9dc9b4f79"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/7023da8f5539467a55ed4008de7cb9a70f15e97198e5104e3d8e20b528d43c90",
+      "checksum": "7023da8f5539467a55ed4008de7cb9a70f15e97198e5104e3d8e20b528d43c90"
+    }
+  }
+}

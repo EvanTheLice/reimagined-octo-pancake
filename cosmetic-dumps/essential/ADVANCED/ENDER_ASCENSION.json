@@ -1,0 +1,62 @@
+{
+  "id": "ENDER_ASCENSION",
+  "type": "ADVANCED",
+  "displayNames": {
+    "en_us": "Ender Flight"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ENDER",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "MOVEMENT": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 1500,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "sounds/ender_ascension_first.ogg": {
+      "url": "https://cdn.essential.gg/assets/d747638eb233016f1c4a4d936ccab4f6774d74492f4df07d48a69b24b6f7e214",
+      "checksum": "d747638eb233016f1c4a4d936ccab4f6774d74492f4df07d48a69b24b6f7e214"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/6cfd3a7b2a9b6189a97b4dd5f5b76e684b2e774c08670b98feaa12e29bb48cef",
+      "checksum": "6cfd3a7b2a9b6189a97b4dd5f5b76e684b2e774c08670b98feaa12e29bb48cef"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/c622c763425221cf23c6317a70dc39d1b65277a9e4f5ca3078772339a9aed7ac",
+      "checksum": "c622c763425221cf23c6317a70dc39d1b65277a9e4f5ca3078772339a9aed7ac"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/9ab7b17d58dabecb2ce35677a7b7a78a42edfc3fc3b1516d94b28c56976d4148",
+      "checksum": "9ab7b17d58dabecb2ce35677a7b7a78a42edfc3fc3b1516d94b28c56976d4148"
+    },
+    "particles/ender_release.particle.json": {
+      "url": "https://cdn.essential.gg/assets/6c2891a6e28187ee6075be86a57284264d108a525d5885348e63d4f7df1dbef4",
+      "checksum": "6c2891a6e28187ee6075be86a57284264d108a525d5885348e63d4f7df1dbef4"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/0146393c4d86a1e4ce5dd35250f62fd12cff2493f2737ebbdd73666a54f5af80",
+      "checksum": "0146393c4d86a1e4ce5dd35250f62fd12cff2493f2737ebbdd73666a54f5af80"
+    },
+    "sounds/ender_ascension_loop.ogg": {
+      "url": "https://cdn.essential.gg/assets/0aa682eb1cbb16f64cb3f97802dd06e247edb82666808f4fc6fde796554f023a",
+      "checksum": "0aa682eb1cbb16f64cb3f97802dd06e247edb82666808f4fc6fde796554f023a"
+    },
+    "particles/ender_charge.particle.json": {
+      "url": "https://cdn.essential.gg/assets/7aa65c003ce851948283f7ad14f65b11b39d0ce03809d8d53f93d86ef3d1d1cd",
+      "checksum": "7aa65c003ce851948283f7ad14f65b11b39d0ce03809d8d53f93d86ef3d1d1cd"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/8d8f642b78013522f2a02809d0ac56dd9e7028257ea5c1f33911b6a5e7a26801",
+      "checksum": "8d8f642b78013522f2a02809d0ac56dd9e7028257ea5c1f33911b6a5e7a26801"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/c916675217bfff189dcd92477d24e0c8d40ff1c53f8ba28d0a6f768fb24aedd0",
+      "checksum": "c916675217bfff189dcd92477d24e0c8d40ff1c53f8ba28d0a6f768fb24aedd0"
+    }
+  }
+}

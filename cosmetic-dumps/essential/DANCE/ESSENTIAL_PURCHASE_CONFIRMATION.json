@@ -1,0 +1,23 @@
+{
+  "id": "ESSENTIAL_PURCHASE_CONFIRMATION",
+  "type": "DANCE",
+  "displayNames": {
+    "en_us": "Purchase Confirmation"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "categories": {
+    "ADVANCED": 20
+  },
+  "assetsMap": {
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/f18e9f516fc3ec5d3b86c18d8a7cafa0479a30f366c3d60c93ca8a0fcd291ef5",
+      "checksum": "f18e9f516fc3ec5d3b86c18d8a7cafa0479a30f366c3d60c93ca8a0fcd291ef5"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e",
+      "checksum": "7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e"
+    }
+  }
+}

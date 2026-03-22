@@ -1,0 +1,50 @@
+{
+  "id": "LONG_BEARD",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Long Beard"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "HAIR": 20
+  },
+  "defaultSortWeight": 9,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/ginger/texture.png": {
+      "url": "https://cdn.essential.gg/assets/cbb45ed66a3d3f5a2bd77014dab3a29b62fdfbb68a3321cba559f808b532832e",
+      "checksum": "cbb45ed66a3d3f5a2bd77014dab3a29b62fdfbb68a3321cba559f808b532832e"
+    },
+    "variants/brunette/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a8570762fba4246a19b228b5472cd51e2b1db97197e80c87ce9628e491732231",
+      "checksum": "a8570762fba4246a19b228b5472cd51e2b1db97197e80c87ce9628e491732231"
+    },
+    "variants/blonde/texture.png": {
+      "url": "https://cdn.essential.gg/assets/81ef2348b2c5f9fa4b928fee8414d6b6159e95a745dd77d9a6f3653de9e714ab",
+      "checksum": "81ef2348b2c5f9fa4b928fee8414d6b6159e95a745dd77d9a6f3653de9e714ab"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/24b2d10e51b1b9d50e46ee83beac925011f99d22258e6597951a64411a02b4ad",
+      "checksum": "24b2d10e51b1b9d50e46ee83beac925011f99d22258e6597951a64411a02b4ad"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e54e798910c11343afd180241d5bc38d1c81eda364cd3fad4de72c93115b2f41",
+      "checksum": "e54e798910c11343afd180241d5bc38d1c81eda364cd3fad4de72c93115b2f41"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/99285511aa0f3281794d44fc665c90162f90047f528a774ca64793ad12e8e0e0",
+      "checksum": "99285511aa0f3281794d44fc665c90162f90047f528a774ca64793ad12e8e0e0"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/0d95085756cbe6f109dbbb9839c158fa973633a1be6609bc940d0fe9686347f0",
+      "checksum": "0d95085756cbe6f109dbbb9839c158fa973633a1be6609bc940d0fe9686347f0"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/17b4af542ea93a8ab360ae96a330004d033d9b5db776216a1c5b66b6c55c6476",
+      "checksum": "17b4af542ea93a8ab360ae96a330004d033d9b5db776216a1c5b66b6c55c6476"
+    }
+  }
+}

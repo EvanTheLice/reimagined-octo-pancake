@@ -1,0 +1,54 @@
+{
+  "id": "LEG_PAWS",
+  "type": "SHOES",
+  "displayNames": {
+    "en_us": "Paw Feet"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_NOVEMBER2025",
+    "THEME_FURRY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "SHOES": 20
+  },
+  "defaultSortWeight": 6,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/ginger/texture.png": {
+      "url": "https://cdn.essential.gg/assets/05372ec31b9587557d0fad8d6928e22d5d828369fac33cdb1eb8557bede59014",
+      "checksum": "05372ec31b9587557d0fad8d6928e22d5d828369fac33cdb1eb8557bede59014"
+    },
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ed057508d02d8a4b4ef102cc899549c8d5ce7a361d5a28c47066502032c02671",
+      "checksum": "ed057508d02d8a4b4ef102cc899549c8d5ce7a361d5a28c47066502032c02671"
+    },
+    "variants/gray/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2a9b573efea7fef51635f0b70b4c8bbed29f31681219fb6971012d18babe61e0",
+      "checksum": "2a9b573efea7fef51635f0b70b4c8bbed29f31681219fb6971012d18babe61e0"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/5edd339f237e0d90d47e95157e7f97622b3b492e3489f0f888360ff61dafbcfd",
+      "checksum": "5edd339f237e0d90d47e95157e7f97622b3b492e3489f0f888360ff61dafbcfd"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b3253309d31d4d72831147c393b2bd7efcbad516748760b81e6bd9f0254c9a3b",
+      "checksum": "b3253309d31d4d72831147c393b2bd7efcbad516748760b81e6bd9f0254c9a3b"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6a71fdbae2c1ee6c81d6d1469efb860454b5d1199469e93d6bce480b1d7aac45",
+      "checksum": "6a71fdbae2c1ee6c81d6d1469efb860454b5d1199469e93d6bce480b1d7aac45"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/4294e48fc44aa13fb6dadffdf9e9290c86cac591ef8f10d687e3a5843c10a61c",
+      "checksum": "4294e48fc44aa13fb6dadffdf9e9290c86cac591ef8f10d687e3a5843c10a61c"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/c0eea7c4ff015e7368bbcebbcf8892680368f4d76a831b781b694cd50d21a356",
+      "checksum": "c0eea7c4ff015e7368bbcebbcf8892680368f4d76a831b781b694cd50d21a356"
+    }
+  }
+}

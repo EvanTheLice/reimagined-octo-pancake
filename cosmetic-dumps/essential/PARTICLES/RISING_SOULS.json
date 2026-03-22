@@ -1,0 +1,86 @@
+{
+  "id": "RISING_SOULS",
+  "type": "PARTICLES",
+  "displayNames": {
+    "en_us": "Rising Souls"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MAGIC",
+    "COLLECTION_OCTOBER2025"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "particles/rising_souls_base.particle.json": {
+      "url": "https://cdn.essential.gg/assets/65e824255c50edf3bc177fb19bd4e86ffca12b1b4e2ee31d0d94571ab816506e",
+      "checksum": "65e824255c50edf3bc177fb19bd4e86ffca12b1b4e2ee31d0d94571ab816506e"
+    },
+    "particles/rising_souls_mist.particle.json": {
+      "url": "https://cdn.essential.gg/assets/fabb661dc975781887ac770988c15c34f6fc783c316c62a76f6a60db11abd93b",
+      "checksum": "fabb661dc975781887ac770988c15c34f6fc783c316c62a76f6a60db11abd93b"
+    },
+    "variants/bone/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a1be346df94e8a195b7b020e1a082327b7ffba2307db0f4ea549348973929817",
+      "checksum": "a1be346df94e8a195b7b020e1a082327b7ffba2307db0f4ea549348973929817"
+    },
+    "variants/red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/7c15912904bffa7771211b22b869ee6060e3f87aa6f23bf3a0ebac0f1c95220a",
+      "checksum": "7c15912904bffa7771211b22b869ee6060e3f87aa6f23bf3a0ebac0f1c95220a"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/304fc2f9876b28583b7a083ca4ef6d8432e355a251640a465d2ae983cc6f9ee1",
+      "checksum": "304fc2f9876b28583b7a083ca4ef6d8432e355a251640a465d2ae983cc6f9ee1"
+    },
+    "variants/bone/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/653b42cde45a7d8026fd9138261cd18e15f2752bbf45de045fec577921707691",
+      "checksum": "653b42cde45a7d8026fd9138261cd18e15f2752bbf45de045fec577921707691"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7196b49df199f58ba17b0321cfe36ad6893ea560187d53de208ba8e107ddcbe1",
+      "checksum": "7196b49df199f58ba17b0321cfe36ad6893ea560187d53de208ba8e107ddcbe1"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/d30c836cc87955409bfa8d17033d29a2e96ae2e74e5c4ed5fd3774479f08076e",
+      "checksum": "d30c836cc87955409bfa8d17033d29a2e96ae2e74e5c4ed5fd3774479f08076e"
+    },
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/94a73950e60e4b044752789b1ce8a099f0f7f35ffc5b864a6d8d995049ea31ae",
+      "checksum": "94a73950e60e4b044752789b1ce8a099f0f7f35ffc5b864a6d8d995049ea31ae"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/1c072551badd63320fa5065e1d272597b772264478a44d3c25db28b6e7fde2a4",
+      "checksum": "1c072551badd63320fa5065e1d272597b772264478a44d3c25db28b6e7fde2a4"
+    },
+    "variants/black/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/ecb96c38595c040fd97f8f60297bb28a6ebd0bf27601b9bf54fa4cf8808c1432",
+      "checksum": "ecb96c38595c040fd97f8f60297bb28a6ebd0bf27601b9bf54fa4cf8808c1432"
+    },
+    "particles/rising_souls_cloudy_skulls.particle.json": {
+      "url": "https://cdn.essential.gg/assets/09c754f0dfa8d4cabf3d82361a97ec4ff72b9c9ecbbc341abf5d58b9923b2390",
+      "checksum": "09c754f0dfa8d4cabf3d82361a97ec4ff72b9c9ecbbc341abf5d58b9923b2390"
+    },
+    "variants/green/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/4bb05ecb2acb2603ab758bcfe5324415609379a0c0541424837340bd7be7c17f",
+      "checksum": "4bb05ecb2acb2603ab758bcfe5324415609379a0c0541424837340bd7be7c17f"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/b4f262bf7fea5e8fc94ccf9f17a48f93c47f7cd985a615d1e28937982d2ae6b4",
+      "checksum": "b4f262bf7fea5e8fc94ccf9f17a48f93c47f7cd985a615d1e28937982d2ae6b4"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/1a3b9a73cceb8b36bdc5d871f711fcd24e8347de80998639e119d5c3f1969c0a",
+      "checksum": "1a3b9a73cceb8b36bdc5d871f711fcd24e8347de80998639e119d5c3f1969c0a"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/bc35140cf207df7d365755a40f4bd6c9b62ae7dabf791a481a32fceeae6ba490",
+      "checksum": "bc35140cf207df7d365755a40f4bd6c9b62ae7dabf791a481a32fceeae6ba490"
+    }
+  }
+}

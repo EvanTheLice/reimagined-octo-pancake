@@ -1,0 +1,49 @@
+{
+  "id": "LONG_HAIR",
+  "type": "HAIR",
+  "displayNames": {
+    "en_us": "Long Hair"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "HAIR": 20
+  },
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/ginger/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e6d39d3cce777e2c3b1ac3acb6c2ec58a78764805f2dbedc85b3e87f8d3fd6ea",
+      "checksum": "e6d39d3cce777e2c3b1ac3acb6c2ec58a78764805f2dbedc85b3e87f8d3fd6ea"
+    },
+    "variants/brunette/texture.png": {
+      "url": "https://cdn.essential.gg/assets/353a3880c96dbb9a03770bc72ab10892982c1e20b2d4a7ed79b51009478556b5",
+      "checksum": "353a3880c96dbb9a03770bc72ab10892982c1e20b2d4a7ed79b51009478556b5"
+    },
+    "variants/blonde/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0999033f69d423b814f45949983a30c03214314ca906fc3de49087cd17cde004",
+      "checksum": "0999033f69d423b814f45949983a30c03214314ca906fc3de49087cd17cde004"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/05b2fa7a85718f269edcd0acc177da5cc7edc2b8ecf705d38199fba00e8eb430",
+      "checksum": "05b2fa7a85718f269edcd0acc177da5cc7edc2b8ecf705d38199fba00e8eb430"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/cfbdd4d26d9fbd6a6c56a3b9d4ca6331c43cfcb732a0524cd363d5d9d5101612",
+      "checksum": "cfbdd4d26d9fbd6a6c56a3b9d4ca6331c43cfcb732a0524cd363d5d9d5101612"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/79f31cc3e10b33d7b4dd2d9a949989c53c4cef61e7b3ea9a2fffd1357eb79fbb",
+      "checksum": "79f31cc3e10b33d7b4dd2d9a949989c53c4cef61e7b3ea9a2fffd1357eb79fbb"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/4b3c6daefd2812885813c3f0d86cf693f3fc919d6615b36e3ed84c5e408e7cb6",
+      "checksum": "4b3c6daefd2812885813c3f0d86cf693f3fc919d6615b36e3ed84c5e408e7cb6"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    }
+  }
+}

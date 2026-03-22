@@ -1,0 +1,79 @@
+{
+  "id": "UNDEAD_SCYTHE",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Undead Scythe"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_OCTOBER2025",
+    "THEME_HALLOWEEN",
+    "THEME_DEMON"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "particles/undead_scythe.particle.json": {
+      "url": "https://cdn.essential.gg/assets/eea5de4ab7c4022e5760b741787be1272b2a0d43bf3e3e05d20dc16ccf1d0259",
+      "checksum": "eea5de4ab7c4022e5760b741787be1272b2a0d43bf3e3e05d20dc16ccf1d0259"
+    },
+    "variants/bone/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8aaa91e69da0aa85065b7ea136cc6febb7993629af9e28dfb25e39a4484b3d93",
+      "checksum": "8aaa91e69da0aa85065b7ea136cc6febb7993629af9e28dfb25e39a4484b3d93"
+    },
+    "variants/red_black_purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/69598b30a8ae2cb3e247009e12e38e32a676c0a67e03ea55163b116110ef15ed",
+      "checksum": "69598b30a8ae2cb3e247009e12e38e32a676c0a67e03ea55163b116110ef15ed"
+    },
+    "variants/purple_green/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/7f956e4a21663dfdae5c7753e6747d006295c0908d6c217720b06331279903e5",
+      "checksum": "7f956e4a21663dfdae5c7753e6747d006295c0908d6c217720b06331279903e5"
+    },
+    "variants/purple_green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ed9bd17d298e3a684f74a5e5aa40fc7f1218432aeaa904fcf18196502c259ec3",
+      "checksum": "ed9bd17d298e3a684f74a5e5aa40fc7f1218432aeaa904fcf18196502c259ec3"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/38d90c2e7e4584e622918cd58409bb9cc7477007ce01540f913b4dd95962ea59",
+      "checksum": "38d90c2e7e4584e622918cd58409bb9cc7477007ce01540f913b4dd95962ea59"
+    },
+    "variants/bone/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/ce6996d625b26c7354f43053ff5ee3e78f03329befa6c36c3339930b29a742c5",
+      "checksum": "ce6996d625b26c7354f43053ff5ee3e78f03329befa6c36c3339930b29a742c5"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/d89162b50dc4797441fe12f767c2fafa6dd7e910612479b9e35e7f30a152ee26",
+      "checksum": "d89162b50dc4797441fe12f767c2fafa6dd7e910612479b9e35e7f30a152ee26"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/5a8c35313576d912a696977e2855d1704a2af754f97e5dc5f2fa14e4a8f6a343",
+      "checksum": "5a8c35313576d912a696977e2855d1704a2af754f97e5dc5f2fa14e4a8f6a343"
+    },
+    "variants/green/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/659bdc932833d497cbcb560569c3c9ad50d790105bdcf0d63ba894df076c8f6c",
+      "checksum": "659bdc932833d497cbcb560569c3c9ad50d790105bdcf0d63ba894df076c8f6c"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/f6865f2c385d1b63626b2fb9cca051920a867a0d3882892a8303eff6dd06cf9c",
+      "checksum": "f6865f2c385d1b63626b2fb9cca051920a867a0d3882892a8303eff6dd06cf9c"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/3ff99ef69c6274e377a19737538ea40b1d84f6f246fc05b8c67d91b20adf5db2",
+      "checksum": "3ff99ef69c6274e377a19737538ea40b1d84f6f246fc05b8c67d91b20adf5db2"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/1b80befc324bed56520bc859d35e2391ffea460724a628d22d084e7030841dc1",
+      "checksum": "1b80befc324bed56520bc859d35e2391ffea460724a628d22d084e7030841dc1"
+    },
+    "variants/red_black_purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/321f585d49315a3a33e748bc238ead9a048601316b20c8d22b7826e8c8ccf575",
+      "checksum": "321f585d49315a3a33e748bc238ead9a048601316b20c8d22b7826e8c8ccf575"
+    }
+  }
+}

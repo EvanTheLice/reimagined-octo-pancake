@@ -1,0 +1,54 @@
+{
+  "id": "COZY_PJS_FEMININE",
+  "type": "OUTERWEAR",
+  "displayNames": {
+    "en_us": "Pretty Silk PJs"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_VALENTINES",
+    "COLLECTION_FEBRUARY2026"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/c8f6458b65aaf66f57f805c3eba7d3bd971d660186911d4b2d7469598f904137",
+      "checksum": "c8f6458b65aaf66f57f805c3eba7d3bd971d660186911d4b2d7469598f904137"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/0fc4b871cc7d1700cb9f469a083b78e33b5f939d3c6a5fa48963f6acad5636ef",
+      "checksum": "0fc4b871cc7d1700cb9f469a083b78e33b5f939d3c6a5fa48963f6acad5636ef"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/c7ec321adc0c6b87e7984c0b7e10378644b8c852f3344f0f1614ed55daabde33",
+      "checksum": "c7ec321adc0c6b87e7984c0b7e10378644b8c852f3344f0f1614ed55daabde33"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6a3885b07589481b4af7fc236802457ae2bf09c8bff1ab599ea20c5529f74046",
+      "checksum": "6a3885b07589481b4af7fc236802457ae2bf09c8bff1ab599ea20c5529f74046"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/fe6f90e05bb6c1dddd226942f77a78588a28fe40795fd621ca25c4285918b600",
+      "checksum": "fe6f90e05bb6c1dddd226942f77a78588a28fe40795fd621ca25c4285918b600"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/be7d53edd67e0a2d18eaa37c0ecba8f1a9b6683bd0c7e6e30cbdca628b7cb30e",
+      "checksum": "be7d53edd67e0a2d18eaa37c0ecba8f1a9b6683bd0c7e6e30cbdca628b7cb30e"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/21c887ea8cd64f7b994e5461e975b1fac7369ed4cc99901124bb2dae41888f1a",
+      "checksum": "21c887ea8cd64f7b994e5461e975b1fac7369ed4cc99901124bb2dae41888f1a"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/45bfe7048c3bef2dbb701be730d65a6244fb590fa9a7ee05494416faa6e938c9",
+      "checksum": "45bfe7048c3bef2dbb701be730d65a6244fb590fa9a7ee05494416faa6e938c9"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "KNUCKLE_WALKING",
+  "type": "MOVEMENT",
+  "displayNames": {
+    "en_us": "Knuckle Running"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HORROR",
+    "THEME_HALLOWEEN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "MOVEMENT": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 1200,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "sounds/knuckle_walking_loop1.ogg": {
+      "url": "https://cdn.essential.gg/assets/7879b87a1668f20cb2e7a271b70d3c75ecbdd291d2d10bdfa6b0392c284203b5",
+      "checksum": "7879b87a1668f20cb2e7a271b70d3c75ecbdd291d2d10bdfa6b0392c284203b5"
+    },
+    "sounds/knuckle_walking_loop3.ogg": {
+      "url": "https://cdn.essential.gg/assets/67aaa8b200d45d3be1e4ee87ac40afb1a98218725e30b9bc27f0ea70cf116bec",
+      "checksum": "67aaa8b200d45d3be1e4ee87ac40afb1a98218725e30b9bc27f0ea70cf116bec"
+    },
+    "sounds/knuckle_walking_first.ogg": {
+      "url": "https://cdn.essential.gg/assets/ebd04337eafed6a45d0b56a3fb8804a688bc75b750a23b83c6e716bcf0127313",
+      "checksum": "ebd04337eafed6a45d0b56a3fb8804a688bc75b750a23b83c6e716bcf0127313"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/ab1a720c0a9eee3db8341c231aff7568cbb374370c025770af9e0710b2372f4a",
+      "checksum": "ab1a720c0a9eee3db8341c231aff7568cbb374370c025770af9e0710b2372f4a"
+    },
+    "sounds/knuckle_walking_loop4.ogg": {
+      "url": "https://cdn.essential.gg/assets/72ee82b09c29384005d3b72dcaee717f54957691285ba3aeb984119f8d5fc388",
+      "checksum": "72ee82b09c29384005d3b72dcaee717f54957691285ba3aeb984119f8d5fc388"
+    },
+    "sounds/knuckle_walking_loop6.ogg": {
+      "url": "https://cdn.essential.gg/assets/bf5a8ee788b744b83f85066b7dcbfa80821f2dd8d3b0f2a8b06994f469586e00",
+      "checksum": "bf5a8ee788b744b83f85066b7dcbfa80821f2dd8d3b0f2a8b06994f469586e00"
+    },
+    "sounds/knuckle_walking_loop2.ogg": {
+      "url": "https://cdn.essential.gg/assets/16eaae4ad8189027e2e9f99867d0924b8a6b05e9dff0a644cb29ce54ccca59a5",
+      "checksum": "16eaae4ad8189027e2e9f99867d0924b8a6b05e9dff0a644cb29ce54ccca59a5"
+    },
+    "particles/stomp_dust.particle.json": {
+      "url": "https://cdn.essential.gg/assets/df07c4026220ab8cf4f7df513358f8b6fc8684738b82d5f203fec0fdae2ec57f",
+      "checksum": "df07c4026220ab8cf4f7df513358f8b6fc8684738b82d5f203fec0fdae2ec57f"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/1406540df121b60d5b11d195bb42891f8ab0499be395a7fa84a72212f7f1f051",
+      "checksum": "1406540df121b60d5b11d195bb42891f8ab0499be395a7fa84a72212f7f1f051"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/efed259d407a3b0e4d013e870577743b31ab73484c83d4d8e63be3ed05a3c1d9",
+      "checksum": "efed259d407a3b0e4d013e870577743b31ab73484c83d4d8e63be3ed05a3c1d9"
+    },
+    "sounds/knuckle_walking_loop5.ogg": {
+      "url": "https://cdn.essential.gg/assets/581b312f817ff574d960fa4cba44a4957953ff9aad8709bc54e9d157f2f150ba",
+      "checksum": "581b312f817ff574d960fa4cba44a4957953ff9aad8709bc54e9d157f2f150ba"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/5c11201b68dddd3b021381c303aadc5dad5c2722babf80dfe2c56aad826ef549",
+      "checksum": "5c11201b68dddd3b021381c303aadc5dad5c2722babf80dfe2c56aad826ef549"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/937bef16e3351a8e523c02bef69ba247b3f540564741803b999a3cf29bed1474",
+      "checksum": "937bef16e3351a8e523c02bef69ba247b3f540564741803b999a3cf29bed1474"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MAID_OUTFIT",
+  "type": "OUTERWEAR",
+  "displayNames": {
+    "en_us": "Maid Outfit"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ROLEPLAY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 19,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/a0d8ea324323dd518a6b98b777efa0d52ed3c2f031871e2dbd7da5aa34978613",
+      "checksum": "a0d8ea324323dd518a6b98b777efa0d52ed3c2f031871e2dbd7da5aa34978613"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/9728571e4a4ab21bc7313ffa0d8620798cc81dc7de15e99e8b7eacfda61a82c4",
+      "checksum": "9728571e4a4ab21bc7313ffa0d8620798cc81dc7de15e99e8b7eacfda61a82c4"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/e9f0cbeb7756f53f8395e7160d63b3477ea6d6494a41074f419d8e2430835063",
+      "checksum": "e9f0cbeb7756f53f8395e7160d63b3477ea6d6494a41074f419d8e2430835063"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/b6d72094eee962bfdbd3a8b3d010aba7b4941e20c51c483882701065ebdf1492",
+      "checksum": "b6d72094eee962bfdbd3a8b3d010aba7b4941e20c51c483882701065ebdf1492"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/47369ed7afafbade78fe3c28f0f96b359e9d7454e9b1e977bf99fd9524330614",
+      "checksum": "47369ed7afafbade78fe3c28f0f96b359e9d7454e9b1e977bf99fd9524330614"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/1180017d5fb8effeb9f2631af29d606a1658fcf443b0357902648e17b021feba",
+      "checksum": "1180017d5fb8effeb9f2631af29d606a1658fcf443b0357902648e17b021feba"
+    }
+  }
+}

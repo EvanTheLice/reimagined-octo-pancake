@@ -1,0 +1,62 @@
+{
+  "id": "ARM_PAWS",
+  "type": "ARMS",
+  "displayNames": {
+    "en_us": "Paw Hands"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_NOVEMBER2025",
+    "THEME_FURRY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "ARMS": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/ginger/texture.png": {
+      "url": "https://cdn.essential.gg/assets/fb908c3aa110657a6b42727e74f4d7099f40246fda7ae4b8cdc04041f300cd9b",
+      "checksum": "fb908c3aa110657a6b42727e74f4d7099f40246fda7ae4b8cdc04041f300cd9b"
+    },
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/82e2e4615700b74b6787302f0db272950ee62675491a977ad7b948d006846747",
+      "checksum": "82e2e4615700b74b6787302f0db272950ee62675491a977ad7b948d006846747"
+    },
+    "variants/gray/texture.png": {
+      "url": "https://cdn.essential.gg/assets/57fedf008b0ed72226d2ca68c8c4fa16cbe2bfaeb795de670b6bd12a13913b0c",
+      "checksum": "57fedf008b0ed72226d2ca68c8c4fa16cbe2bfaeb795de670b6bd12a13913b0c"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/845bb3d30b4dfc83a5bec21a43ae9573bc23d9dfa6fe596e11ea7767bc1b29a2",
+      "checksum": "845bb3d30b4dfc83a5bec21a43ae9573bc23d9dfa6fe596e11ea7767bc1b29a2"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/8eafbc690d1f7718f8d8e44f0ca1e1f074de6b0eeebc40168c6131a4e2a01050",
+      "checksum": "8eafbc690d1f7718f8d8e44f0ca1e1f074de6b0eeebc40168c6131a4e2a01050"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/fbecae008e0560d5db065fcbe7de127cf7322e5ae65c4dfbd978456f59964614",
+      "checksum": "fbecae008e0560d5db065fcbe7de127cf7322e5ae65c4dfbd978456f59964614"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/25a7b428ef547f722e9a8ec91e1cba76bd604c02f185c623e44c98693ba9333e",
+      "checksum": "25a7b428ef547f722e9a8ec91e1cba76bd604c02f185c623e44c98693ba9333e"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/73dab5206074f567553b73ad92e0950dbfe9765dc1fd293fbbf3c395880f4a61",
+      "checksum": "73dab5206074f567553b73ad92e0950dbfe9765dc1fd293fbbf3c395880f4a61"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/2d4613705f60f0623c36780a92269d1c32c37085bf3ecbc7baea3a7312b23a75",
+      "checksum": "2d4613705f60f0623c36780a92269d1c32c37085bf3ecbc7baea3a7312b23a75"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/cfb12358b6c8aba62fcba46b15748f39a73b1e70884406507a8b94ecf2e317df",
+      "checksum": "cfb12358b6c8aba62fcba46b15748f39a73b1e70884406507a8b94ecf2e317df"
+    }
+  }
+}

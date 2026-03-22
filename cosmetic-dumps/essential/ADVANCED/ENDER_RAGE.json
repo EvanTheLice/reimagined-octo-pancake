@@ -1,0 +1,68 @@
+{
+  "id": "ENDER_RAGE",
+  "type": "ADVANCED",
+  "displayNames": {
+    "en_us": "Ender Rage"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ENDER",
+    "THEME_MINECRAFT",
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "ADVANCED": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 900,
+  "tier": "EPIC",
+  "assetsMap": {
+    "particles/ender_explode.particle.json": {
+      "url": "https://cdn.essential.gg/assets/d5e3a630380e9564b9b3b6ad31b4429ab894dc1d06d1067590380dc50dc74465",
+      "checksum": "d5e3a630380e9564b9b3b6ad31b4429ab894dc1d06d1067590380dc50dc74465"
+    },
+    "particles/ender_implode.particle.json": {
+      "url": "https://cdn.essential.gg/assets/466fb44fc5c7d29f33796f44acd35685bf8c9a7de1a6d84b195c3b5c6b2965fb",
+      "checksum": "466fb44fc5c7d29f33796f44acd35685bf8c9a7de1a6d84b195c3b5c6b2965fb"
+    },
+    "particles/ender_stripes.particle.json": {
+      "url": "https://cdn.essential.gg/assets/054d6b5a83a951b92c0ac26020ee0c26456f675322632a43778e6d897b84ad38",
+      "checksum": "054d6b5a83a951b92c0ac26020ee0c26456f675322632a43778e6d897b84ad38"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/7f52ff164a84600445f3229da4f1aa31e1f06d5afca29798c9327e8aea7946fa",
+      "checksum": "7f52ff164a84600445f3229da4f1aa31e1f06d5afca29798c9327e8aea7946fa"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/01da1eb7300be047f9ec26fe517ed7719212f5c3e65751cd2a98cc8aae8cf04e",
+      "checksum": "01da1eb7300be047f9ec26fe517ed7719212f5c3e65751cd2a98cc8aae8cf04e"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/42e459e012b55ebfce1d3fe195f2046385a16338ff1c1e25b1cc45e2fe6140e1",
+      "checksum": "42e459e012b55ebfce1d3fe195f2046385a16338ff1c1e25b1cc45e2fe6140e1"
+    },
+    "sounds/ender_rage.ogg": {
+      "url": "https://cdn.essential.gg/assets/681f35b61ccced5cdfabd662ae924066688bdee91432ffed7e63c9d81df57c88",
+      "checksum": "681f35b61ccced5cdfabd662ae924066688bdee91432ffed7e63c9d81df57c88"
+    },
+    "particles/ender_burst.particle.json": {
+      "url": "https://cdn.essential.gg/assets/7b899f2fd68f24a8e411df4e7b3fbfad8c824df137fb67ab3ad8fd842b7f63fe",
+      "checksum": "7b899f2fd68f24a8e411df4e7b3fbfad8c824df137fb67ab3ad8fd842b7f63fe"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/884e657ae300e7fcd47b00594e0d9be52ee7087e4b3ba5aca61dda1b506ac328",
+      "checksum": "884e657ae300e7fcd47b00594e0d9be52ee7087e4b3ba5aca61dda1b506ac328"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/94c43ed8dca13ad6b702b65ca0bc35c8e29cc75f304af423b9d25dbbda039ad0",
+      "checksum": "94c43ed8dca13ad6b702b65ca0bc35c8e29cc75f304af423b9d25dbbda039ad0"
+    },
+    "particles/ender_wave.particle.json": {
+      "url": "https://cdn.essential.gg/assets/40f14afb224aae4e8188a0480f2350fb671fa39402a3500435652a25cc318fcb",
+      "checksum": "40f14afb224aae4e8188a0480f2350fb671fa39402a3500435652a25cc318fcb"
+    }
+  }
+}

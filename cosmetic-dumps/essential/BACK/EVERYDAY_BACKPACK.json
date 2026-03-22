@@ -1,0 +1,46 @@
+{
+  "id": "EVERYDAY_BACKPACK",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Everyday Backpack"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 24,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0cfcb43dfbe13b8e31ac8ff57114984de6641dbee709437fca01fc65fc520913",
+      "checksum": "0cfcb43dfbe13b8e31ac8ff57114984de6641dbee709437fca01fc65fc520913"
+    },
+    "variants/gray/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7afe673b9f71d78efc66af60cc8406ba1831d785472bbe60c592899c0dd591b0",
+      "checksum": "7afe673b9f71d78efc66af60cc8406ba1831d785472bbe60c592899c0dd591b0"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/4e7887ee5a7a130c5cfe25e0867e8b31dffede4def96faa425fc89aa582bcbbe",
+      "checksum": "4e7887ee5a7a130c5cfe25e0867e8b31dffede4def96faa425fc89aa582bcbbe"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/79a5ba36de90edf311297d1bd0ee38b1e131b4719548fc06ab296a11c6dd7962",
+      "checksum": "79a5ba36de90edf311297d1bd0ee38b1e131b4719548fc06ab296a11c6dd7962"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d53856c6ffb05f6a272c125933f5ef51a037e1baea6d71a6744e98b76644eb1a",
+      "checksum": "d53856c6ffb05f6a272c125933f5ef51a037e1baea6d71a6744e98b76644eb1a"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/ac460bc62a9f3d26535d1c736e74b133fc182faca85fe4acbba7207962cdf823",
+      "checksum": "ac460bc62a9f3d26535d1c736e74b133fc182faca85fe4acbba7207962cdf823"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/ad44530b4667882cc7ca23d7aa1f99d7f6e1068fc3f8a829f9a77f0c96655ef3",
+      "checksum": "ad44530b4667882cc7ca23d7aa1f99d7f6e1068fc3f8a829f9a77f0c96655ef3"
+    }
+  }
+}

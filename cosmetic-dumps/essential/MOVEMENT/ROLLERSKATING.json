@@ -1,0 +1,70 @@
+{
+  "id": "ROLLERSKATING",
+  "type": "MOVEMENT",
+  "displayNames": {
+    "en_us": "Rollerskatin\u0027"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_JUNE2025",
+    "THEME_Y2K"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "MOVEMENT": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 1200,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "sounds/rollerskating_loop.ogg": {
+      "url": "https://cdn.essential.gg/assets/57a23b69f76ab3c3dc7378f947fbfd635e53002cb27d9abdd342cf78236dcdc3",
+      "checksum": "57a23b69f76ab3c3dc7378f947fbfd635e53002cb27d9abdd342cf78236dcdc3"
+    },
+    "sounds/rollerskating_pre.ogg": {
+      "url": "https://cdn.essential.gg/assets/68c3bc4b0ad29fbac3fc82bf3fbe28074f121897223d35415a7f24d93ca3dde5",
+      "checksum": "68c3bc4b0ad29fbac3fc82bf3fbe28074f121897223d35415a7f24d93ca3dde5"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/d3b156e353efd6df12a4b9adfc082ed8953c3aa9d23b4cca5af1ec10530d63cc",
+      "checksum": "d3b156e353efd6df12a4b9adfc082ed8953c3aa9d23b4cca5af1ec10530d63cc"
+    },
+    "particles/poof_cloud.particle.json": {
+      "url": "https://cdn.essential.gg/assets/79e83fdec65cc431f692c3b6a83e22ac611a976ab4521b8cc267c69cf9e9c930",
+      "checksum": "79e83fdec65cc431f692c3b6a83e22ac611a976ab4521b8cc267c69cf9e9c930"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/efed259d407a3b0e4d013e870577743b31ab73484c83d4d8e63be3ed05a3c1d9",
+      "checksum": "efed259d407a3b0e4d013e870577743b31ab73484c83d4d8e63be3ed05a3c1d9"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/69317ac6fcc2b84d8d492b5cd6693a1333bd1c5247e18fc7aaf8da1ccc65173d",
+      "checksum": "69317ac6fcc2b84d8d492b5cd6693a1333bd1c5247e18fc7aaf8da1ccc65173d"
+    },
+    "particles/poof_stars.particle.json": {
+      "url": "https://cdn.essential.gg/assets/d63632c600777eccb2cdd7fee359c96eb0bb459f695543005bd41b8879f071ea",
+      "checksum": "d63632c600777eccb2cdd7fee359c96eb0bb459f695543005bd41b8879f071ea"
+    },
+    "particles/trail_cloud.particle.json": {
+      "url": "https://cdn.essential.gg/assets/20deba3de7921f12ec60989640b0851b7486d33dd9f5c5c9729f832b3f888117",
+      "checksum": "20deba3de7921f12ec60989640b0851b7486d33dd9f5c5c9729f832b3f888117"
+    },
+    "particles/trail_stars.particle.json": {
+      "url": "https://cdn.essential.gg/assets/d6dda8687e33dab4a3e0d968dc0519b785be20da91572715cc56f47d4c4ce46d",
+      "checksum": "d6dda8687e33dab4a3e0d968dc0519b785be20da91572715cc56f47d4c4ce46d"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/9fc6f4892a3366ebc11b474dc06f0650cebe2602674d8bbba6ac5af9424a21d1",
+      "checksum": "9fc6f4892a3366ebc11b474dc06f0650cebe2602674d8bbba6ac5af9424a21d1"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/8b1e316ea458be3fd561a74d780af5984c885ef3b81841f7d49d2c415488c81c",
+      "checksum": "8b1e316ea458be3fd561a74d780af5984c885ef3b81841f7d49d2c415488c81c"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/db31b2133cc3f129b1ff9c6ae41e053f0ae6ca4f55210daa5637bf26eac92148",
+      "checksum": "db31b2133cc3f129b1ff9c6ae41e053f0ae6ca4f55210daa5637bf26eac92148"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "LIGHTNING_HANDS",
+  "type": "ARMS",
+  "displayNames": {
+    "en_us": "Lightning Arms"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "ARMS": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5ede276d107071f00d04549c589420fec3805a11bfccb37399696794aa5cd573",
+      "checksum": "5ede276d107071f00d04549c589420fec3805a11bfccb37399696794aa5cd573"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/88f2e08640db048178b580b0a99f3ef5daeb858df0755435f1664ad992694b93",
+      "checksum": "88f2e08640db048178b580b0a99f3ef5daeb858df0755435f1664ad992694b93"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/4954a033689de73395ca806ad29b94551a030b7497fd545f21ac1c1863e081e4",
+      "checksum": "4954a033689de73395ca806ad29b94551a030b7497fd545f21ac1c1863e081e4"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/c6c968a0317dc526c40d4a9ace65a542106ef961836253e56beb8f900e2ba9de",
+      "checksum": "c6c968a0317dc526c40d4a9ace65a542106ef961836253e56beb8f900e2ba9de"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c6c968a0317dc526c40d4a9ace65a542106ef961836253e56beb8f900e2ba9de",
+      "checksum": "c6c968a0317dc526c40d4a9ace65a542106ef961836253e56beb8f900e2ba9de"
+    },
+    "variants/yellow/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/5ede276d107071f00d04549c589420fec3805a11bfccb37399696794aa5cd573",
+      "checksum": "5ede276d107071f00d04549c589420fec3805a11bfccb37399696794aa5cd573"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/8c6e07dd07a2d16f6342c702ced9e69576bf09fe459657333e139b6034b0b228",
+      "checksum": "8c6e07dd07a2d16f6342c702ced9e69576bf09fe459657333e139b6034b0b228"
+    }
+  }
+}

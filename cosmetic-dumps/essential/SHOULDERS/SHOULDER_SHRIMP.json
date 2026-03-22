@@ -1,0 +1,52 @@
+{
+  "id": "SHOULDER_SHRIMP",
+  "type": "SHOULDERS",
+  "displayNames": {
+    "en_us": "Shoulder Shrimp"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SILLY",
+    "THEME_MEME",
+    "THEME_AQUATIC",
+    "COLLECTION_DECEMBER2025"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "SHOULDERS": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/b34f546341599204d1f5a0ebf312e8cee225fcad5471777287e5ad371044bdcb",
+      "checksum": "b34f546341599204d1f5a0ebf312e8cee225fcad5471777287e5ad371044bdcb"
+    },
+    "variants/orange/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6794dac629e37bc5606ee634c4a2048794fbc3dbeac5cdd979f25797effbd7e3",
+      "checksum": "6794dac629e37bc5606ee634c4a2048794fbc3dbeac5cdd979f25797effbd7e3"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/0380c6cc7c5be1555f1c5a91323d66ebd02c4e95d729f6caf3cbf203bbcedc0d",
+      "checksum": "0380c6cc7c5be1555f1c5a91323d66ebd02c4e95d729f6caf3cbf203bbcedc0d"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/22952817c85672b801a479094d2ee3692cff5c8f35d4c75361c1e539d985cdbd",
+      "checksum": "22952817c85672b801a479094d2ee3692cff5c8f35d4c75361c1e539d985cdbd"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5d895346b956911ed070c2f94de4f9427f1920a49c1e6ca8fb903b82c5f5ae9d",
+      "checksum": "5d895346b956911ed070c2f94de4f9427f1920a49c1e6ca8fb903b82c5f5ae9d"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/0380c6cc7c5be1555f1c5a91323d66ebd02c4e95d729f6caf3cbf203bbcedc0d",
+      "checksum": "0380c6cc7c5be1555f1c5a91323d66ebd02c4e95d729f6caf3cbf203bbcedc0d"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/a2703fcc9b64e72b1f3e927c1d7ccc500a7ff78b63f6386c87a63261b9ceaf3c",
+      "checksum": "a2703fcc9b64e72b1f3e927c1d7ccc500a7ff78b63f6386c87a63261b9ceaf3c"
+    }
+  }
+}

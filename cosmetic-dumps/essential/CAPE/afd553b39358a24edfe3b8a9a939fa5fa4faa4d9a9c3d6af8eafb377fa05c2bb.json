@@ -1,0 +1,33 @@
+{
+  "id": "afd553b39358a24edfe3b8a9a939fa5fa4faa4d9a9c3d6af8eafb377fa05c2bb",
+  "type": "CAPE",
+  "displayNames": {
+    "en_us": "Cherry Blossom Cape"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "CAPE_UNLOCKABLE"
+  ],
+  "createdAt": {},
+  "categories": {
+    "CAPE": 20
+  },
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/9d36875baf61887aa37816de2cf3ffacdef008445b35a26709e918a1e3de2f82",
+      "checksum": "9d36875baf61887aa37816de2cf3ffacdef008445b35a26709e918a1e3de2f82"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/be05a2d92dd043034c9ae6d7c8415e8bc990080ba4dc4c70e9ea92cf9a89705c",
+      "checksum": "be05a2d92dd043034c9ae6d7c8415e8bc990080ba4dc4c70e9ea92cf9a89705c"
+    },
+    "thumbnail.png": {
+      "url": "https://cdn.essential.gg/assets/be05a2d92dd043034c9ae6d7c8415e8bc990080ba4dc4c70e9ea92cf9a89705c",
+      "checksum": "be05a2d92dd043034c9ae6d7c8415e8bc990080ba4dc4c70e9ea92cf9a89705c"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/c16758b90fe15e6ef24300cf8c057fe7f01c9515d68d2a3b1fbdbaa0ae84cb77",
+      "checksum": "c16758b90fe15e6ef24300cf8c057fe7f01c9515d68d2a3b1fbdbaa0ae84cb77"
+    }
+  }
+}

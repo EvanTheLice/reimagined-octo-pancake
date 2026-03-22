@@ -1,0 +1,47 @@
+{
+  "id": "DEEP_DARK_DUST",
+  "type": "PARTICLES",
+  "displayNames": {
+    "en_us": "Deep Dark Dust"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_WARDEN",
+    "SET_WARDEN",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/3d951ed309cf533b1560f0281e38d4f523572254b2bb3694e965aa137490d8e3",
+      "checksum": "3d951ed309cf533b1560f0281e38d4f523572254b2bb3694e965aa137490d8e3"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/cf71af0e29512c844ffe72749d012f597d05f42d9650528b09c23c4b9ff6dfc7",
+      "checksum": "cf71af0e29512c844ffe72749d012f597d05f42d9650528b09c23c4b9ff6dfc7"
+    },
+    "particles/deep_dark_dust.particle.json": {
+      "url": "https://cdn.essential.gg/assets/2776228e2f5b01f47b01cf3545890e6519efce26c3e181d6114b6ea3224fae1f",
+      "checksum": "2776228e2f5b01f47b01cf3545890e6519efce26c3e181d6114b6ea3224fae1f"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/5af5b215a9656b99527910dbd7236d248ff5813ee626e8a942cefab02fd6a33e",
+      "checksum": "5af5b215a9656b99527910dbd7236d248ff5813ee626e8a942cefab02fd6a33e"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/4bafe5f15270ce34486babf7ffd3798a6982b0f1a9c75529c88e92f9eaf2477b",
+      "checksum": "4bafe5f15270ce34486babf7ffd3798a6982b0f1a9c75529c88e92f9eaf2477b"
+    },
+    "particles/deep_dark_souls.particle.json": {
+      "url": "https://cdn.essential.gg/assets/613def4e1522964dd36684b26003f15a32dc0805ee6d9ada1f3ab01ec08b7d05",
+      "checksum": "613def4e1522964dd36684b26003f15a32dc0805ee6d9ada1f3ab01ec08b7d05"
+    }
+  }
+}

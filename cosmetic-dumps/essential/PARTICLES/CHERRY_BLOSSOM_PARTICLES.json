@@ -1,0 +1,38 @@
+{
+  "id": "CHERRY_BLOSSOM_PARTICLES",
+  "type": "PARTICLES",
+  "displayNames": {
+    "en_us": "Cherry Blossoms"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_VALENTINES",
+    "THEME_PRETTY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "particles/cherry_blossom_particles.particle.json": {
+      "url": "https://cdn.essential.gg/assets/f6b7aced62aded33b1b4f67893f3640b6c8d2841198f1516e946ff257a49979e",
+      "checksum": "f6b7aced62aded33b1b4f67893f3640b6c8d2841198f1516e946ff257a49979e"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/c061c62b76875842fce9a48130c2bbeee172d96fbefe9e175fd39551f5eb48fb",
+      "checksum": "c061c62b76875842fce9a48130c2bbeee172d96fbefe9e175fd39551f5eb48fb"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/a9818b43716a4cb9710a3584868538e8bd32fc6ac8235bb632d56e1f9de601ae",
+      "checksum": "a9818b43716a4cb9710a3584868538e8bd32fc6ac8235bb632d56e1f9de601ae"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/b669d820fcffdae878087c148f4e1ac8efd8ab4bb6d2d7c5f4f6398e82d38e08",
+      "checksum": "b669d820fcffdae878087c148f4e1ac8efd8ab4bb6d2d7c5f4f6398e82d38e08"
+    }
+  }
+}

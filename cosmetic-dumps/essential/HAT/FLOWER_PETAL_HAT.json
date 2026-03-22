@@ -1,0 +1,54 @@
+{
+  "id": "FLOWER_PETAL_HAT",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Tulip Hat"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_VALENTINES",
+    "THEME_COZY",
+    "COLLECTION_FEBRUARY2026",
+    "THEME_CUTE",
+    "THEME_SPRING"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0dd6b0700c0c8d1b0e03d971ae3566ed3b6b5f6e86170b8deca5dc5e7e815317",
+      "checksum": "0dd6b0700c0c8d1b0e03d971ae3566ed3b6b5f6e86170b8deca5dc5e7e815317"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/cc5922a9f8d0b966361fd8de9d423c6ec31039d15daf24abcb3eaedbe7ff412f",
+      "checksum": "cc5922a9f8d0b966361fd8de9d423c6ec31039d15daf24abcb3eaedbe7ff412f"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d0dce9e18f7f8bc4d597fb34c0417860f06b7d22c97af1c707fc8b167a6a9682",
+      "checksum": "d0dce9e18f7f8bc4d597fb34c0417860f06b7d22c97af1c707fc8b167a6a9682"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2f8da62956dec851ead062ebeda2e9050801902df5d4e3da8756a0e45ad260f8",
+      "checksum": "2f8da62956dec851ead062ebeda2e9050801902df5d4e3da8756a0e45ad260f8"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/9c5f666db6243fa58fad08a95c8dbc2663c0045f1904d16807b06315647bf19e",
+      "checksum": "9c5f666db6243fa58fad08a95c8dbc2663c0045f1904d16807b06315647bf19e"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/cd3f43cb0ba2998ad993ce8cc4300b336fd12bce872d9894f8ff86c140a62142",
+      "checksum": "cd3f43cb0ba2998ad993ce8cc4300b336fd12bce872d9894f8ff86c140a62142"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/27f180f5537e4d04ed0884965a341a80afceb6011a2ef607200837190c94d813",
+      "checksum": "27f180f5537e4d04ed0884965a341a80afceb6011a2ef607200837190c94d813"
+    }
+  }
+}

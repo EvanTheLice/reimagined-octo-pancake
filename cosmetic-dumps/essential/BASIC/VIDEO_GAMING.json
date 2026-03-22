@@ -1,0 +1,57 @@
+{
+  "id": "VIDEO_GAMING",
+  "type": "BASIC",
+  "displayNames": {
+    "en_us": "Cozy Gaming"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_JUNE2025"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "ADVANCED": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "sounds/video_gaming_loop.ogg": {
+      "url": "https://cdn.essential.gg/assets/65f28b21164a8a562378b964bd45870fde2942afb1dd5ddd74e04a29433afd4d",
+      "checksum": "65f28b21164a8a562378b964bd45870fde2942afb1dd5ddd74e04a29433afd4d"
+    },
+    "particles/video_game.particle.json": {
+      "url": "https://cdn.essential.gg/assets/5801baf6cb046e85e981d350595f5527c44dec9ad0328cf75b9dae01f6779b0a",
+      "checksum": "5801baf6cb046e85e981d350595f5527c44dec9ad0328cf75b9dae01f6779b0a"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/3b2788d6f975518df4a62e3d81605bfcac2fdfeff9a53fc63a931b0c1203fea5",
+      "checksum": "3b2788d6f975518df4a62e3d81605bfcac2fdfeff9a53fc63a931b0c1203fea5"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/199d123d54df9af1b84053fb9feec8505209b4b493ebda45135d745ec1f35f5b",
+      "checksum": "199d123d54df9af1b84053fb9feec8505209b4b493ebda45135d745ec1f35f5b"
+    },
+    "sounds/video_gaming_pre.ogg": {
+      "url": "https://cdn.essential.gg/assets/7171beb27659ced59831950fab46fc6491a61a3535a8901bfb9ed0275e08e364",
+      "checksum": "7171beb27659ced59831950fab46fc6491a61a3535a8901bfb9ed0275e08e364"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/29a1bc7555851eca7715fcebc467ad5a44f5ed0dec4d6aac94eef209b6549a3c",
+      "checksum": "29a1bc7555851eca7715fcebc467ad5a44f5ed0dec4d6aac94eef209b6549a3c"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/de02f6656b8d7901295fcd47f3e4a90895aeb21730fd26abe5e65b4ac9e6f218",
+      "checksum": "de02f6656b8d7901295fcd47f3e4a90895aeb21730fd26abe5e65b4ac9e6f218"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/770dfd33cbc6882d43cd00624c7e3eb4c3a67bf4a5e89ae6b9f81eae5aa34c59",
+      "checksum": "770dfd33cbc6882d43cd00624c7e3eb4c3a67bf4a5e89ae6b9f81eae5aa34c59"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/2304e89c23108b87319e7cf0c4f3a8287a1edd4a0cdb52855232841b5d461ee6",
+      "checksum": "2304e89c23108b87319e7cf0c4f3a8287a1edd4a0cdb52855232841b5d461ee6"
+    }
+  }
+}

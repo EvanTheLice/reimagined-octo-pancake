@@ -1,0 +1,52 @@
+{
+  "id": "BRAIDED_PONYTAIL_HAIR",
+  "type": "HAIR",
+  "displayNames": {
+    "en_us": "Braided Ponytail"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_FEBRUARY2026"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "HAIR": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 300,
+  "assetsMap": {
+    "variants/ginger/texture.png": {
+      "url": "https://cdn.essential.gg/assets/295187ac8286c0bf81ae2f238835d110cd2980f885700f16040b3ccca3a5c366",
+      "checksum": "295187ac8286c0bf81ae2f238835d110cd2980f885700f16040b3ccca3a5c366"
+    },
+    "variants/brunette/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d5c1d94b4800e190b09932afc9b638dc117ad9e1b7a02f91942919814b442709",
+      "checksum": "d5c1d94b4800e190b09932afc9b638dc117ad9e1b7a02f91942919814b442709"
+    },
+    "variants/blonde/texture.png": {
+      "url": "https://cdn.essential.gg/assets/3c8736ac2b499413343073cd608827afef8d21326340ba4c614ed4a6e10b59c6",
+      "checksum": "3c8736ac2b499413343073cd608827afef8d21326340ba4c614ed4a6e10b59c6"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/4cba5afc81817904c462bce03b9ce9440f0d80766b3b9c51c9ba42d9a4509e3c",
+      "checksum": "4cba5afc81817904c462bce03b9ce9440f0d80766b3b9c51c9ba42d9a4509e3c"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6c779a185981e640a2507c529dfbe588797613539dea75d01e39b7828110291e",
+      "checksum": "6c779a185981e640a2507c529dfbe588797613539dea75d01e39b7828110291e"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a0c6e33dbc838a41351e35223bbe394b8a11f3e77f756f7c70eef0323ab77b5a",
+      "checksum": "a0c6e33dbc838a41351e35223bbe394b8a11f3e77f756f7c70eef0323ab77b5a"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/a82b102a7adfdebe0026ce3fb3e6b2a42f85f3a52fbb2330834755a19f848cdf",
+      "checksum": "a82b102a7adfdebe0026ce3fb3e6b2a42f85f3a52fbb2330834755a19f848cdf"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    }
+  }
+}

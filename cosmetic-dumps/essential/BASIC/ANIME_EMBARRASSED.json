@@ -1,0 +1,60 @@
+{
+  "id": "ANIME_EMBARRASSED",
+  "type": "BASIC",
+  "displayNames": {
+    "en_us": "Anime Blush"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_SEPTEMBER2025",
+    "SET_ANIME",
+    "THEME_CUTE",
+    "THEME_ANIME"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BASIC": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 500,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/d17aaf0400221cfdbcdbca1395fc9d910318d6ba470aa7af6eabd2e1613e72d1",
+      "checksum": "d17aaf0400221cfdbcdbca1395fc9d910318d6ba470aa7af6eabd2e1613e72d1"
+    },
+    "sounds/em_anime_embarassed_start.ogg": {
+      "url": "https://cdn.essential.gg/assets/51ee7d02c75552454afaa5711941c0316a2ac31fdbf1106ac2079c4442e11da8",
+      "checksum": "51ee7d02c75552454afaa5711941c0316a2ac31fdbf1106ac2079c4442e11da8"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/92c36307654a38168f94f2cd221e33034f923d981f845650a7dc44368e75b1ea",
+      "checksum": "92c36307654a38168f94f2cd221e33034f923d981f845650a7dc44368e75b1ea"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/48967be89c414433978ac3517e9d3de5f756329cb7581ff94f9e7c19c7a50aeb",
+      "checksum": "48967be89c414433978ac3517e9d3de5f756329cb7581ff94f9e7c19c7a50aeb"
+    },
+    "particles/anime_sweat_drop.particle.json": {
+      "url": "https://cdn.essential.gg/assets/ff0a82aa6bbbde27c35b2bda8dbfc27de6ae38a505ab8b8bf1fd73ba6d5073d3",
+      "checksum": "ff0a82aa6bbbde27c35b2bda8dbfc27de6ae38a505ab8b8bf1fd73ba6d5073d3"
+    },
+    "particles/anime_static_blush.particle.json": {
+      "url": "https://cdn.essential.gg/assets/8240011fbec06323b4b40f99e913696dae63f05d7070a975743369f2cd7f0ccb",
+      "checksum": "8240011fbec06323b4b40f99e913696dae63f05d7070a975743369f2cd7f0ccb"
+    },
+    "sounds/em_anime_embarassed_loop.ogg": {
+      "url": "https://cdn.essential.gg/assets/63857dbfb036f50925230da68f7a1e052bfd95cd35832f60fd7d4299113d1b54",
+      "checksum": "63857dbfb036f50925230da68f7a1e052bfd95cd35832f60fd7d4299113d1b54"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/af0d63712d0706cf4ed332d7db9fc9b01dfaef92e5cd28b7d986ae07f4abdbc8",
+      "checksum": "af0d63712d0706cf4ed332d7db9fc9b01dfaef92e5cd28b7d986ae07f4abdbc8"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/53e5e8cce65b82b476ab7051692d603b50ee3f521fc19632ae595df44f59edb3",
+      "checksum": "53e5e8cce65b82b476ab7051692d603b50ee3f521fc19632ae595df44f59edb3"
+    }
+  }
+}

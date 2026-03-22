@@ -1,0 +1,55 @@
+{
+  "id": "USHANKA_HAT",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Ushanka Hat"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SILLY",
+    "THEME_HOLIDAY",
+    "COLLECTION_DECEMBER2025"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/2edbc050e0e6e04846bff2828f86485665eda22207157213bef4ee59800cc34d",
+      "checksum": "2edbc050e0e6e04846bff2828f86485665eda22207157213bef4ee59800cc34d"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4ee910b2d7d3d586b3ec2afe36865f57a244a788b08d34ff25b734f4b4005440",
+      "checksum": "4ee910b2d7d3d586b3ec2afe36865f57a244a788b08d34ff25b734f4b4005440"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e4d6cd7aeb8b5d92dcade7cdc16cc9495fa1332ec2392a224119ef8a0a5f90eb",
+      "checksum": "e4d6cd7aeb8b5d92dcade7cdc16cc9495fa1332ec2392a224119ef8a0a5f90eb"
+    },
+    "variants/cream/texture.png": {
+      "url": "https://cdn.essential.gg/assets/91778d2eed4814fee1cc0e5451205abb4488586cdc1a9e5add709c6a419249ad",
+      "checksum": "91778d2eed4814fee1cc0e5451205abb4488586cdc1a9e5add709c6a419249ad"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/3cf4e609d391ef0dd4d6678277a1e02246623927aed65290c9493ce6a6f3347d",
+      "checksum": "3cf4e609d391ef0dd4d6678277a1e02246623927aed65290c9493ce6a6f3347d"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/252ac68fdcf10e9acb3f029bdabe8b57e5b4a6b1e4f713e881ac9933a28a7dc9",
+      "checksum": "252ac68fdcf10e9acb3f029bdabe8b57e5b4a6b1e4f713e881ac9933a28a7dc9"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5a6f894668a530888ef50872ae5c25eb89d3f33d194adf58728565c63a44cde0",
+      "checksum": "5a6f894668a530888ef50872ae5c25eb89d3f33d194adf58728565c63a44cde0"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4fc807cb9b6f0ee3dd28f80e3cabeedce4209e5f3af4e734108d1f95b3340407",
+      "checksum": "4fc807cb9b6f0ee3dd28f80e3cabeedce4209e5f3af4e734108d1f95b3340407"
+    }
+  }
+}

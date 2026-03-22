@@ -1,0 +1,64 @@
+{
+  "id": "FIRECRACKER",
+  "type": "ADVANCED",
+  "displayNames": {
+    "en_us": "Firecracker"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_LUNAR",
+    "COLLECTION_FEBRUARY2026",
+    "THEME_NEWYEARS"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "ADVANCED": 20
+  },
+  "defaultSortWeight": 10,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "particles/fuse.particle.json": {
+      "url": "https://cdn.essential.gg/assets/e5a8b666a2ef9aedd54220fbd13cc404258ee311ef10d1cf3a8646e5f56aae74",
+      "checksum": "e5a8b666a2ef9aedd54220fbd13cc404258ee311ef10d1cf3a8646e5f56aae74"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/40b993a8aed56c9511fc2efa0d463e0844be4fefe1e0d9d2dbf40b5a7798d54a",
+      "checksum": "40b993a8aed56c9511fc2efa0d463e0844be4fefe1e0d9d2dbf40b5a7798d54a"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/d6ab15f4ed033abf8d349500e4b1dcb71aaf2439745089665138652fd36ef43d",
+      "checksum": "d6ab15f4ed033abf8d349500e4b1dcb71aaf2439745089665138652fd36ef43d"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/d726da0263a21c03a6ff9800d6ef1b6fd4ab9b68a1fbcea1c7a528622d5fddc8",
+      "checksum": "d726da0263a21c03a6ff9800d6ef1b6fd4ab9b68a1fbcea1c7a528622d5fddc8"
+    },
+    "particles/fireworks.particle.json": {
+      "url": "https://cdn.essential.gg/assets/765e6b01185234f2024318156d8c65d9095cc42c579d78497da28d2a1f6ccccf",
+      "checksum": "765e6b01185234f2024318156d8c65d9095cc42c579d78497da28d2a1f6ccccf"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/0ff504216301cdd5f456cf38c39a9e8c311d8cba40ecf80fda5840bc1002dee8",
+      "checksum": "0ff504216301cdd5f456cf38c39a9e8c311d8cba40ecf80fda5840bc1002dee8"
+    },
+    "particles/firecracker_smoke.particle.json": {
+      "url": "https://cdn.essential.gg/assets/8cb8b5f2f8bac2bb3cbbd731f7576895882141f062f5371d8f517fafe5f49e23",
+      "checksum": "8cb8b5f2f8bac2bb3cbbd731f7576895882141f062f5371d8f517fafe5f49e23"
+    },
+    "sounds/em_firecracker.ogg": {
+      "url": "https://cdn.essential.gg/assets/3aabc35ee6dcd168906fc28fdbe32e54ff6df5d99297380d3b4dbc580bb489e9",
+      "checksum": "3aabc35ee6dcd168906fc28fdbe32e54ff6df5d99297380d3b4dbc580bb489e9"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/3d23251a024e72cb0304976ec98cdd2d41abcaad458cf6f1c86c1302b53233c2",
+      "checksum": "3d23251a024e72cb0304976ec98cdd2d41abcaad458cf6f1c86c1302b53233c2"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/ba61efee3fdd88591522e7ac2046f96dce21827a91ee04c3b37127eda13f3b29",
+      "checksum": "ba61efee3fdd88591522e7ac2046f96dce21827a91ee04c3b37127eda13f3b29"
+    }
+  }
+}

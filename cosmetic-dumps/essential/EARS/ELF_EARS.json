@@ -1,0 +1,48 @@
+{
+  "id": "ELF_EARS",
+  "type": "EARS",
+  "displayNames": {
+    "en_us": "Elf Ears"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FANTASY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "EARS": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 300,
+  "assetsMap": {
+    "variants/tan/texture.png": {
+      "url": "https://cdn.essential.gg/assets/9a2b669b4913a26a6aa202540ff17be36ea24b0741f1e4cbfe59452d0a91ed27",
+      "checksum": "9a2b669b4913a26a6aa202540ff17be36ea24b0741f1e4cbfe59452d0a91ed27"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/5c9293e1536eda310625928c29671cebed14d0fd362786539acfa49f954faa1f",
+      "checksum": "5c9293e1536eda310625928c29671cebed14d0fd362786539acfa49f954faa1f"
+    },
+    "variants/light/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6ff5275b63790fb0511d196cb3800ce884745bd8a726446cb15bf423f1e9e9ae",
+      "checksum": "6ff5275b63790fb0511d196cb3800ce884745bd8a726446cb15bf423f1e9e9ae"
+    },
+    "variants/dark/texture.png": {
+      "url": "https://cdn.essential.gg/assets/990cecce3d6003634f42cddb6061a3099ae2e06a70dbd88160ffca5e34376e07",
+      "checksum": "990cecce3d6003634f42cddb6061a3099ae2e06a70dbd88160ffca5e34376e07"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c2a39f16ed31faba9df49c3af1ef46e617328c1c19d5f3f42b68dc953b9982bd",
+      "checksum": "c2a39f16ed31faba9df49c3af1ef46e617328c1c19d5f3f42b68dc953b9982bd"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/abc2814232c9b69d9e8fd5f73697f310546b03cdd8d7c08e3b79559d4c937836",
+      "checksum": "abc2814232c9b69d9e8fd5f73697f310546b03cdd8d7c08e3b79559d4c937836"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/85545a4b78554868f8d1e1af7b9ec013bbc16383cc22cf76d64bcbd1172d5c3d",
+      "checksum": "85545a4b78554868f8d1e1af7b9ec013bbc16383cc22cf76d64bcbd1172d5c3d"
+    }
+  }
+}

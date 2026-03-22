@@ -1,0 +1,33 @@
+{
+  "id": "BREAKDANCE",
+  "type": "DANCE",
+  "displayNames": {
+    "en_us": "Breakdance"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_PUNK"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "DANCE": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 900,
+  "tier": "EPIC",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/d6ab15f4ed033abf8d349500e4b1dcb71aaf2439745089665138652fd36ef43d",
+      "checksum": "d6ab15f4ed033abf8d349500e4b1dcb71aaf2439745089665138652fd36ef43d"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/cd1a5b3da647068832eb99a478cbb1bb8e74b42e688a75476a295e54b3a771e2",
+      "checksum": "cd1a5b3da647068832eb99a478cbb1bb8e74b42e688a75476a295e54b3a771e2"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/609b3d88f467dfcfc8b1269d59ab3ddaf1fa6b8e3201a9742978ecfc1ed56fc0",
+      "checksum": "609b3d88f467dfcfc8b1269d59ab3ddaf1fa6b8e3201a9742978ecfc1ed56fc0"
+    }
+  }
+}

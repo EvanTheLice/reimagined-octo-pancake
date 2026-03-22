@@ -1,0 +1,42 @@
+{
+  "id": "COWBOY_HAT",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Cowboy Hat"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 9,
+  "priceCoins": 300,
+  "assetsMap": {
+    "variants/beige/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8703398dcd20dfc5c73b5c80e16e21f1b76e5f2cddc72909ef8ed9aecb75ef61",
+      "checksum": "8703398dcd20dfc5c73b5c80e16e21f1b76e5f2cddc72909ef8ed9aecb75ef61"
+    },
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/add1532349d750bfe54632a38adfb5f80f9e6d3ea1a10c076a5a572b533ac876",
+      "checksum": "add1532349d750bfe54632a38adfb5f80f9e6d3ea1a10c076a5a572b533ac876"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/bb266cd76b80ae3368bfb882bcce7727be74333a6a5f742f5afae9ec1c9ed9e7",
+      "checksum": "bb266cd76b80ae3368bfb882bcce7727be74333a6a5f742f5afae9ec1c9ed9e7"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/62bea1cb769d598f2358d43813d4581998ed36a3f818c245d6648cbca28e04e5",
+      "checksum": "62bea1cb769d598f2358d43813d4581998ed36a3f818c245d6648cbca28e04e5"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/bd21e7c3452f219b1ea543269fd7488e67dad68b799a6967c605dd99d4585f4f",
+      "checksum": "bd21e7c3452f219b1ea543269fd7488e67dad68b799a6967c605dd99d4585f4f"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/af7de0e0ffe3acf85542ccf57d44ecc039a47248269d99208df66b429986513f",
+      "checksum": "af7de0e0ffe3acf85542ccf57d44ecc039a47248269d99208df66b429986513f"
+    }
+  }
+}

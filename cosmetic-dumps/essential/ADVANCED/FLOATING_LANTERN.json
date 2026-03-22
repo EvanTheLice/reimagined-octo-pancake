@@ -1,0 +1,51 @@
+{
+  "id": "FLOATING_LANTERN",
+  "type": "ADVANCED",
+  "displayNames": {
+    "en_us": "Lunar Lantern"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_LUNAR",
+    "COLLECTION_FEBRUARY2026"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "ADVANCED": 20
+  },
+  "defaultSortWeight": 10,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/0dafc60e3c5736fccea11ba0d9fba66bfb909b4ad50fcb516de1fa814f9a0e60",
+      "checksum": "0dafc60e3c5736fccea11ba0d9fba66bfb909b4ad50fcb516de1fa814f9a0e60"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/4ddbd437b3b90ebfd6a7e5f116128bb91b147b57b416df9ba7833f59b53eac20",
+      "checksum": "4ddbd437b3b90ebfd6a7e5f116128bb91b147b57b416df9ba7833f59b53eac20"
+    },
+    "sounds/em_floating_lantern.ogg": {
+      "url": "https://cdn.essential.gg/assets/eec8e12dc5c59d02308ad6f9ffa95f0d95cedd8e6b584840b8059d92b02ff078",
+      "checksum": "eec8e12dc5c59d02308ad6f9ffa95f0d95cedd8e6b584840b8059d92b02ff078"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/1246c45f1b34bf04fcb53c2c2fba562ea45ec68b1f4417e0429b28824a111e3e",
+      "checksum": "1246c45f1b34bf04fcb53c2c2fba562ea45ec68b1f4417e0429b28824a111e3e"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/33fd6c069bf9b10e9f6cc38dcce64de0acae303dd5303e84613f79c415f010d4",
+      "checksum": "33fd6c069bf9b10e9f6cc38dcce64de0acae303dd5303e84613f79c415f010d4"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/9457219a8969a18ebb5e7d9fd35daf1887bd5351a9f14c30317fcf23ad06dbba",
+      "checksum": "9457219a8969a18ebb5e7d9fd35daf1887bd5351a9f14c30317fcf23ad06dbba"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/db0bae3debea5a3a1ec3ad730e5c7f8476b70c567d39388c73046d5201fb3cf7",
+      "checksum": "db0bae3debea5a3a1ec3ad730e5c7f8476b70c567d39388c73046d5201fb3cf7"
+    }
+  }
+}

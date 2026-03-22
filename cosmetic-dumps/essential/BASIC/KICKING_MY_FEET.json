@@ -1,0 +1,62 @@
+{
+  "id": "KICKING_MY_FEET",
+  "type": "BASIC",
+  "displayNames": {
+    "en_us": "Kicking My Feet"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_VALENTINES",
+    "COLLECTION_JUNE2025",
+    "THEME_Y2K",
+    "THEME_CUTE",
+    "THEME_FAIRY",
+    "THEME_SPRING"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BASIC": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 1200,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "sounds/kicking_my_feet_loop.ogg": {
+      "url": "https://cdn.essential.gg/assets/110f10fb26d9e9d74e02e49fc70c88fa8d21fd47268f53859a9b06e96e88cceb",
+      "checksum": "110f10fb26d9e9d74e02e49fc70c88fa8d21fd47268f53859a9b06e96e88cceb"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/196f89d55e2185aa29e24b4b474955280c69a64e410383f233454c0fa4b6faad",
+      "checksum": "196f89d55e2185aa29e24b4b474955280c69a64e410383f233454c0fa4b6faad"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/15dbbace326eeaa78d9233ec6640305225aeffdcebf42a6b54879763b9cc0c19",
+      "checksum": "15dbbace326eeaa78d9233ec6640305225aeffdcebf42a6b54879763b9cc0c19"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/a53b44b7eb5a20a8b4aa57625f7949ded7430e66a029ec2d276cf9fe5d51263c",
+      "checksum": "a53b44b7eb5a20a8b4aa57625f7949ded7430e66a029ec2d276cf9fe5d51263c"
+    },
+    "sounds/kicking_my_feet_pre.ogg": {
+      "url": "https://cdn.essential.gg/assets/9c733de4d789577a621c8218f739cf880075bd00e1dff51480b96341869cbcb5",
+      "checksum": "9c733de4d789577a621c8218f739cf880075bd00e1dff51480b96341869cbcb5"
+    },
+    "particles/popping_hearts.particle.json": {
+      "url": "https://cdn.essential.gg/assets/3907091f11e767bc7a342a34e7ed958087dc954ebaf2eb11f90e708b00739a4e",
+      "checksum": "3907091f11e767bc7a342a34e7ed958087dc954ebaf2eb11f90e708b00739a4e"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/d4afa110409185c9ccd9fc1e1ea5a55be0157062184368750a0d6de50790c4c0",
+      "checksum": "d4afa110409185c9ccd9fc1e1ea5a55be0157062184368750a0d6de50790c4c0"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/bc1dff77edf27f03c6e54f2ee062eb8b0c388a74f6102c047e62e6098d007af3",
+      "checksum": "bc1dff77edf27f03c6e54f2ee062eb8b0c388a74f6102c047e62e6098d007af3"
+    },
+    "particles/pop.particle.json": {
+      "url": "https://cdn.essential.gg/assets/6a1565036859d1ebb5704195d4f6f0b1a4179d96f14589dfaf088c64cedc739b",
+      "checksum": "6a1565036859d1ebb5704195d4f6f0b1a4179d96f14589dfaf088c64cedc739b"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "DOUBLE_DEMONIC_OVERLORD_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Double Demonic Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_DEVIL",
+    "THEME_DEMON"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 1500,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/10ffeb3bfb024ef488530b3f12c701c4b1f290c6dc58f13a0f046c5eee178d72",
+      "checksum": "10ffeb3bfb024ef488530b3f12c701c4b1f290c6dc58f13a0f046c5eee178d72"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/d3f2c3d95d535aa18d5102740ef139e7a5e0e9cafb77e3b793e5623c2cc7cce3",
+      "checksum": "d3f2c3d95d535aa18d5102740ef139e7a5e0e9cafb77e3b793e5623c2cc7cce3"
+    },
+    "variants/black/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/3f2a9ca7fd33168c50ed51ef4e46f61d62089557567b5526eb720d9b72a519a5",
+      "checksum": "3f2a9ca7fd33168c50ed51ef4e46f61d62089557567b5526eb720d9b72a519a5"
+    },
+    "variants/red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/841ff4386aa39b36997d3b2533bdfecadf74f95fc8252fa61730292967923c6c",
+      "checksum": "841ff4386aa39b36997d3b2533bdfecadf74f95fc8252fa61730292967923c6c"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/89ab1d54736f617e425436215bb30f86bb7cbdeedd86da98c47b672ac298d4de",
+      "checksum": "89ab1d54736f617e425436215bb30f86bb7cbdeedd86da98c47b672ac298d4de"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a2dd522d866f09e564ec5509e5a3a6ec824ba14da85998fa614873d4c8120cc8",
+      "checksum": "a2dd522d866f09e564ec5509e5a3a6ec824ba14da85998fa614873d4c8120cc8"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/93273d8ba07c4b40fafd59cc700e31148eb3a34e4ffcb3fb560a64ad60e28e83",
+      "checksum": "93273d8ba07c4b40fafd59cc700e31148eb3a34e4ffcb3fb560a64ad60e28e83"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/b491a647d8a8ac8390e145d06e3b5d57bdc69de2dd9b48b50b4c710e2a267e09",
+      "checksum": "b491a647d8a8ac8390e145d06e3b5d57bdc69de2dd9b48b50b4c710e2a267e09"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/83b171b6aedb200e1cdb02903bfd2297ff509286e249fab73f8c515745f60598",
+      "checksum": "83b171b6aedb200e1cdb02903bfd2297ff509286e249fab73f8c515745f60598"
+    }
+  }
+}

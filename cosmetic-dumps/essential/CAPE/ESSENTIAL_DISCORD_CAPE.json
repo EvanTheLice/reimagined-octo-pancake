@@ -1,0 +1,30 @@
+{
+  "id": "ESSENTIAL_DISCORD_CAPE",
+  "type": "CAPE",
+  "displayNames": {
+    "en_us": "Essential Discord Cape"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "CAPE": 20
+  },
+  "defaultSortWeight": 4,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/bb351215acf7079516b93ae156a060d014194bf50dd21f11c4e4e265accc9a23",
+      "checksum": "bb351215acf7079516b93ae156a060d014194bf50dd21f11c4e4e265accc9a23"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/83fb8e5b6d5bca3ec655ce356f198c83b55cca7a83d3617f2a5ed10be1e93a29",
+      "checksum": "83fb8e5b6d5bca3ec655ce356f198c83b55cca7a83d3617f2a5ed10be1e93a29"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/c16758b90fe15e6ef24300cf8c057fe7f01c9515d68d2a3b1fbdbaa0ae84cb77",
+      "checksum": "c16758b90fe15e6ef24300cf8c057fe7f01c9515d68d2a3b1fbdbaa0ae84cb77"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "MOUSE_PET",
+  "type": "PETS",
+  "displayNames": {
+    "en_us": "Mouse"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL",
+    "COLLECTION_FEBRUARY2026",
+    "THEME_CUTE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2963dfd936e802fdea54b5f438987e0c48b7d57c0199d0246b75a03d9a4a5848",
+      "checksum": "2963dfd936e802fdea54b5f438987e0c48b7d57c0199d0246b75a03d9a4a5848"
+    },
+    "variants/gray/texture.png": {
+      "url": "https://cdn.essential.gg/assets/916370e130edd46d7a34215e1c4abca7dbf206295e70f0342c7495cc60a8495a",
+      "checksum": "916370e130edd46d7a34215e1c4abca7dbf206295e70f0342c7495cc60a8495a"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/d50554a5c37dbc5c43a76611c15dbf9d731c79a38f6d6c5d24e640f52dcf1336",
+      "checksum": "d50554a5c37dbc5c43a76611c15dbf9d731c79a38f6d6c5d24e640f52dcf1336"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e0b3f3d717009904b18874c1b88486d3019930a0ec0db8379b1288aa6cb5bbcc",
+      "checksum": "e0b3f3d717009904b18874c1b88486d3019930a0ec0db8379b1288aa6cb5bbcc"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/b895691101dbaba1e88cde1d8f0719638dfcac4f49db89f1400d069255c5f253",
+      "checksum": "b895691101dbaba1e88cde1d8f0719638dfcac4f49db89f1400d069255c5f253"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/03e76003befa17358b19d7cae1f4eed1874196a65cb767a8a0cad274e965f675",
+      "checksum": "03e76003befa17358b19d7cae1f4eed1874196a65cb767a8a0cad274e965f675"
+    }
+  }
+}

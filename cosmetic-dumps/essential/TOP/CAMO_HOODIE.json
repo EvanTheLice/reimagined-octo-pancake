@@ -1,0 +1,42 @@
+{
+  "id": "CAMO_HOODIE",
+  "type": "TOP",
+  "displayNames": {
+    "en_us": "Camo Hoodie"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "TOP": 20
+  },
+  "defaultSortWeight": 11,
+  "priceCoins": 300,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/1a3f3488a632882b50b202d3ef373aa462fa503f99e91c8530db1e8a47169966",
+      "checksum": "1a3f3488a632882b50b202d3ef373aa462fa503f99e91c8530db1e8a47169966"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/26db6627d185b00adfc807cfe66bb7a36a66f558000e89352bed5d6cc9052ab0",
+      "checksum": "26db6627d185b00adfc807cfe66bb7a36a66f558000e89352bed5d6cc9052ab0"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/3f5609ab05f4237a1a0e501f486f92503666abcf8749ac4be5abf688133aba33",
+      "checksum": "3f5609ab05f4237a1a0e501f486f92503666abcf8749ac4be5abf688133aba33"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/0348653599756b529d3d60f1d5a7a1fa000901b5955e572ddf7d2a4ff6f75f63",
+      "checksum": "0348653599756b529d3d60f1d5a7a1fa000901b5955e572ddf7d2a4ff6f75f63"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/69d7d1d853ca3bd39a02bf3dd69368f9d1fc516ba06796bd4ddcb1d25f9f4eb7",
+      "checksum": "69d7d1d853ca3bd39a02bf3dd69368f9d1fc516ba06796bd4ddcb1d25f9f4eb7"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/3facfc6ff25b01681c8c14f70c28ea4fd0ae9eb62d459db58181e413bb647d72",
+      "checksum": "3facfc6ff25b01681c8c14f70c28ea4fd0ae9eb62d459db58181e413bb647d72"
+    }
+  }
+}

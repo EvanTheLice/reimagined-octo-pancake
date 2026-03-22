@@ -1,0 +1,75 @@
+{
+  "id": "WARDEN_WANDERER_BODY",
+  "type": "OUTERWEAR",
+  "displayNames": {
+    "en_us": "Warden Wanderer Body"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_WARDEN",
+    "SET_WARDEN",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/pink/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/c9b2fda129ad52380aadb2670ff91e494590aa3d9a7455261b836849ae7afcb7",
+      "checksum": "c9b2fda129ad52380aadb2670ff91e494590aa3d9a7455261b836849ae7afcb7"
+    },
+    "variants/red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/7443c9fb9f633be10657ffc623908bbd7d27cba2b6dde0f5dd1d38cfa8b1791d",
+      "checksum": "7443c9fb9f633be10657ffc623908bbd7d27cba2b6dde0f5dd1d38cfa8b1791d"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/6baf40f322506a49fd4b10a8028bca1e8a4bd96d2424e26f980c8881360dc331",
+      "checksum": "6baf40f322506a49fd4b10a8028bca1e8a4bd96d2424e26f980c8881360dc331"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0935655533b35c8a98b64e9209623230e21349f664b9fc5268e48262a8ab0c17",
+      "checksum": "0935655533b35c8a98b64e9209623230e21349f664b9fc5268e48262a8ab0c17"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6e7580ac7ae6bed92b521c7f19bfee3b98784f6a8d5bfa8a6c7d8058e69258e8",
+      "checksum": "6e7580ac7ae6bed92b521c7f19bfee3b98784f6a8d5bfa8a6c7d8058e69258e8"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/062e54b37c827927425adb3e98afbcd44dd26a8f82f0f1af4b380793c34b1689",
+      "checksum": "062e54b37c827927425adb3e98afbcd44dd26a8f82f0f1af4b380793c34b1689"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/9123afc177931d0de9c7aea95c6e8abd32fb48f7e863daa01922113ab0effba6",
+      "checksum": "9123afc177931d0de9c7aea95c6e8abd32fb48f7e863daa01922113ab0effba6"
+    },
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4d880c470aa50845c0ee992e8965fc290ae84923e473a60d062c2838ee0ba828",
+      "checksum": "4d880c470aa50845c0ee992e8965fc290ae84923e473a60d062c2838ee0ba828"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/e4b6bfc4789eba34c6820f5f1b1521606619c97a35cb90a1aeb933ad50e358c3",
+      "checksum": "e4b6bfc4789eba34c6820f5f1b1521606619c97a35cb90a1aeb933ad50e358c3"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/f4b15873a65809b9fe7a7b21996858bc977b976a04df5d410b092d1902cda52c",
+      "checksum": "f4b15873a65809b9fe7a7b21996858bc977b976a04df5d410b092d1902cda52c"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/9dabe5e2abd6f0692937a4984a41d1d0d955a4ee2b24ac7abc70ebfb53fb0bb3",
+      "checksum": "9dabe5e2abd6f0692937a4984a41d1d0d955a4ee2b24ac7abc70ebfb53fb0bb3"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/f4b15873a65809b9fe7a7b21996858bc977b976a04df5d410b092d1902cda52c",
+      "checksum": "f4b15873a65809b9fe7a7b21996858bc977b976a04df5d410b092d1902cda52c"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/f1dc3420305d9f4229189bc9569bd2a947c4547766907d24eec9d288789534d5",
+      "checksum": "f1dc3420305d9f4229189bc9569bd2a947c4547766907d24eec9d288789534d5"
+    }
+  }
+}

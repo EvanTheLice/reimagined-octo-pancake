@@ -1,0 +1,38 @@
+{
+  "id": "3D_GLASSES",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "3D Glasses"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 21,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/da0074baa768661e7ad5f2f27a7aacad727f5592a0ad3642e0e6a21c3c55424d",
+      "checksum": "da0074baa768661e7ad5f2f27a7aacad727f5592a0ad3642e0e6a21c3c55424d"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6d19026a8337e25d68ccd096523a6c6f10218c808152af15b4a03d6e43b22619",
+      "checksum": "6d19026a8337e25d68ccd096523a6c6f10218c808152af15b4a03d6e43b22619"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/bcef18d40c0fcbfae2f8d61077751a8b53774d1c720eda95ed2470a327b16914",
+      "checksum": "bcef18d40c0fcbfae2f8d61077751a8b53774d1c720eda95ed2470a327b16914"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/37ad16cf703a73b8793d9e5e5480778cbe8e7a4c00e14cea0e57d2f8e022fbba",
+      "checksum": "37ad16cf703a73b8793d9e5e5480778cbe8e7a4c00e14cea0e57d2f8e022fbba"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/e3358561d407237204f9b12685f4dedd3d5ad3bcbb116755c5ecb5b20596fc32",
+      "checksum": "e3358561d407237204f9b12685f4dedd3d5ad3bcbb116755c5ecb5b20596fc32"
+    }
+  }
+}

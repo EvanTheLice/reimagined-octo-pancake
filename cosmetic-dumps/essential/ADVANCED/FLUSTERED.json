@@ -1,0 +1,43 @@
+{
+  "id": "FLUSTERED",
+  "type": "ADVANCED",
+  "displayNames": {
+    "en_us": "Flustered"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_VALENTINES",
+    "THEME_CUTE",
+    "THEME_FAIRY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "ADVANCED": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 1200,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/3ecbcd811e23a66562fef428f23bdcaf9ee1308c4fea1e1a0af4b73da8d3f42c",
+      "checksum": "3ecbcd811e23a66562fef428f23bdcaf9ee1308c4fea1e1a0af4b73da8d3f42c"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/43980bc144ab03f78cc48be3dd440da7ee9c84150c81ed463646359415ee5624",
+      "checksum": "43980bc144ab03f78cc48be3dd440da7ee9c84150c81ed463646359415ee5624"
+    },
+    "particles/flustered.particle.json": {
+      "url": "https://cdn.essential.gg/assets/55a5ff3b88b1fc963e03b6a44be8e73b143a2bba8226a0b3b4848fc0cb0b8d6a",
+      "checksum": "55a5ff3b88b1fc963e03b6a44be8e73b143a2bba8226a0b3b4848fc0cb0b8d6a"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/6ca8affd7217715891959d58457603234aa486869be9c8e8a64c42ebfaefaee7",
+      "checksum": "6ca8affd7217715891959d58457603234aa486869be9c8e8a64c42ebfaefaee7"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/5baf7760cc9b45abfe91dec8cb016fab7444368696a1285bcb70a82839d5d012",
+      "checksum": "5baf7760cc9b45abfe91dec8cb016fab7444368696a1285bcb70a82839d5d012"
+    }
+  }
+}

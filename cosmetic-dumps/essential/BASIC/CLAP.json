@@ -1,0 +1,62 @@
+{
+  "id": "CLAP",
+  "type": "BASIC",
+  "displayNames": {
+    "en_us": "Clap"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BASIC": 20
+  },
+  "defaultSortWeight": 6,
+  "priceCoins": 300,
+  "assetsMap": {
+    "sounds/clap5.ogg": {
+      "url": "https://cdn.essential.gg/assets/fd61a9c7d704ffcece92c5254b69bd6cb05bb833869a81dfde645adccd4e965c",
+      "checksum": "fd61a9c7d704ffcece92c5254b69bd6cb05bb833869a81dfde645adccd4e965c"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/79dad9d92e6f0c72cb91938710d7aadab6ef95ed0b2486b208315667f6a8ed12",
+      "checksum": "79dad9d92e6f0c72cb91938710d7aadab6ef95ed0b2486b208315667f6a8ed12"
+    },
+    "sounds/clap6.ogg": {
+      "url": "https://cdn.essential.gg/assets/728e7fcacc032794ed8c51fb0ab1f6ab01a8b265b3f0ab30109b7b3df98c7ab4",
+      "checksum": "728e7fcacc032794ed8c51fb0ab1f6ab01a8b265b3f0ab30109b7b3df98c7ab4"
+    },
+    "sounds/clap1.ogg": {
+      "url": "https://cdn.essential.gg/assets/dc6b5eaf42f0a6f8c9b98f82049e8aafaa1459f59166365575c5d9ed8a734f49",
+      "checksum": "dc6b5eaf42f0a6f8c9b98f82049e8aafaa1459f59166365575c5d9ed8a734f49"
+    },
+    "sounds/clap4.ogg": {
+      "url": "https://cdn.essential.gg/assets/b4c4d7809c67fb6c536801508f81cb54a983829f9f6376159e96f3505a619b08",
+      "checksum": "b4c4d7809c67fb6c536801508f81cb54a983829f9f6376159e96f3505a619b08"
+    },
+    "sounds/clap3.ogg": {
+      "url": "https://cdn.essential.gg/assets/62ef3fdf04591cd35b9620add29a871d6d8c8ee5e11e71b9f39c7f57a5e1142c",
+      "checksum": "62ef3fdf04591cd35b9620add29a871d6d8c8ee5e11e71b9f39c7f57a5e1142c"
+    },
+    "sounds/clap2.ogg": {
+      "url": "https://cdn.essential.gg/assets/8a73236a1c90a448c42b8aad6b2c80335e534171eef04b67ea67b770fda1c56a",
+      "checksum": "8a73236a1c90a448c42b8aad6b2c80335e534171eef04b67ea67b770fda1c56a"
+    },
+    "sounds/clap7.ogg": {
+      "url": "https://cdn.essential.gg/assets/0883cecd4bcb8f921b97e1fc7a7b1513fc1b80932d51f288de7a2383a34ca9d8",
+      "checksum": "0883cecd4bcb8f921b97e1fc7a7b1513fc1b80932d51f288de7a2383a34ca9d8"
+    },
+    "sounds/clap8.ogg": {
+      "url": "https://cdn.essential.gg/assets/e663a2cb4b11cacf43a40d61e283a7b3d08cb6df409ac932ee9934b624ff5a5f",
+      "checksum": "e663a2cb4b11cacf43a40d61e283a7b3d08cb6df409ac932ee9934b624ff5a5f"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/82b1f9c0f331aeee78fd918918d671df2f4843fb89845644ce9f6fbd5f5f023f",
+      "checksum": "82b1f9c0f331aeee78fd918918d671df2f4843fb89845644ce9f6fbd5f5f023f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e",
+      "checksum": "7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e"
+    }
+  }
+}

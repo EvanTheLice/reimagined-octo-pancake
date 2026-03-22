@@ -1,0 +1,45 @@
+{
+  "id": "DUCK",
+  "type": "PETS",
+  "displayNames": {
+    "en_us": "Duck"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2de41ef9fa36983908808109b1f5b6e0179182275396b326b7b611759ff46028",
+      "checksum": "2de41ef9fa36983908808109b1f5b6e0179182275396b326b7b611759ff46028"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/071f9a1450e438f6c3873a77122a93fec9ba48c0ae864738743d1ac5404f2300",
+      "checksum": "071f9a1450e438f6c3873a77122a93fec9ba48c0ae864738743d1ac5404f2300"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/45346fb2b3beccb9d3f7b632d5225b21f07a206d5f7cf3716d9515e3dbced2ba",
+      "checksum": "45346fb2b3beccb9d3f7b632d5225b21f07a206d5f7cf3716d9515e3dbced2ba"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/6dfb3996afe5a0c647ed6f1fafbfdc0fdf765ae0b09c73036456326b00fe1827",
+      "checksum": "6dfb3996afe5a0c647ed6f1fafbfdc0fdf765ae0b09c73036456326b00fe1827"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/956fa93ef59b3f68d61841b13f4ae5286fb3f0ec6072b331566bf3a92c64e9cc",
+      "checksum": "956fa93ef59b3f68d61841b13f4ae5286fb3f0ec6072b331566bf3a92c64e9cc"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ce60f4fa5741de2bd3e4d80eb7c2035f62054b7dfe07d7eea5897438a5d0c734",
+      "checksum": "ce60f4fa5741de2bd3e4d80eb7c2035f62054b7dfe07d7eea5897438a5d0c734"
+    }
+  }
+}

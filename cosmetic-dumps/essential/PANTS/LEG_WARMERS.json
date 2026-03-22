@@ -1,0 +1,54 @@
+{
+  "id": "LEG_WARMERS",
+  "type": "PANTS",
+  "displayNames": {
+    "en_us": "Leg Warmers"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HOLIDAY",
+    "COLLECTION_JUNE2025",
+    "THEME_CUTE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PANTS": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/grunge/texture.png": {
+      "url": "https://cdn.essential.gg/assets/928115add67d1a512834433204b52055af8bf4263a459d94ba104143ec19fef7",
+      "checksum": "928115add67d1a512834433204b52055af8bf4263a459d94ba104143ec19fef7"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/31f61785371f9e26c54f34ddee61fc02adffda40b3fed55bfde69b38d610b8d5",
+      "checksum": "31f61785371f9e26c54f34ddee61fc02adffda40b3fed55bfde69b38d610b8d5"
+    },
+    "variants/rainbow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b198776154f03d8b09903693897615dbefef4df639639b2b0f77d7818e636175",
+      "checksum": "b198776154f03d8b09903693897615dbefef4df639639b2b0f77d7818e636175"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d823b4c6e4535c804319cd09485af038c7c261a5d47e784433bae082b06e7e4d",
+      "checksum": "d823b4c6e4535c804319cd09485af038c7c261a5d47e784433bae082b06e7e4d"
+    },
+    "variants/cream/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4d4863789ac5b47d4c391452663f958f58069e4f74c58eb46a1a48dbde1b6e96",
+      "checksum": "4d4863789ac5b47d4c391452663f958f58069e4f74c58eb46a1a48dbde1b6e96"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/585c06eebc1aa0817fbfbd09fa12c6916365f2d38056c8ecd2e004710158b72d",
+      "checksum": "585c06eebc1aa0817fbfbd09fa12c6916365f2d38056c8ecd2e004710158b72d"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/02015f4bbf76f2fe2b52bc52c289ca74e422ec725427ad0ed161b4b7b1a3e1d0",
+      "checksum": "02015f4bbf76f2fe2b52bc52c289ca74e422ec725427ad0ed161b4b7b1a3e1d0"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e626d4e30a84b3a99182b7824841a1a7c6c98278b3cf2f69e10183ae73de5220",
+      "checksum": "e626d4e30a84b3a99182b7824841a1a7c6c98278b3cf2f69e10183ae73de5220"
+    }
+  }
+}

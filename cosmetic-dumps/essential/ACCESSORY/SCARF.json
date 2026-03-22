@@ -1,0 +1,64 @@
+{
+  "id": "SCARF",
+  "type": "ACCESSORY",
+  "displayNames": {
+    "en_us": "Striped Scarf"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HOLIDAY",
+    "THEME_COZY",
+    "COLLECTION_DECEMBER2025"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "TOP": 20
+  },
+  "defaultSortWeight": 30,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f515f4470a2beda70097f97d12ce922f5f6e0b4b9b7e76baaa8de8fa0f513aeb",
+      "checksum": "f515f4470a2beda70097f97d12ce922f5f6e0b4b9b7e76baaa8de8fa0f513aeb"
+    },
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/633aa991234d048dcd8fe18384f9eabfe4b1364c2cd39d12c97a46f0b7b3a713",
+      "checksum": "633aa991234d048dcd8fe18384f9eabfe4b1364c2cd39d12c97a46f0b7b3a713"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/7f335be6b801c823a8c3a26993c4259acffeddee855af07d20c3168cfeb7c796",
+      "checksum": "7f335be6b801c823a8c3a26993c4259acffeddee855af07d20c3168cfeb7c796"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/a4d9d8921d40c4268623468f16f37d14112004b28c5d1fd430ab9989685cc533",
+      "checksum": "a4d9d8921d40c4268623468f16f37d14112004b28c5d1fd430ab9989685cc533"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/3229d8f352dcdd3e84f7e240557f7cf2794c12a4ec4785b45e1ad0b290b78646",
+      "checksum": "3229d8f352dcdd3e84f7e240557f7cf2794c12a4ec4785b45e1ad0b290b78646"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5d47f151dbf96c3faf6ccf5f204b18c5740617291c07463bc3063cf24aaa68bf",
+      "checksum": "5d47f151dbf96c3faf6ccf5f204b18c5740617291c07463bc3063cf24aaa68bf"
+    },
+    "variants/cream/texture.png": {
+      "url": "https://cdn.essential.gg/assets/efb0e7289265f64f583ce93a5b9f0ce849003bf40e7faf281d08f7483201f3bb",
+      "checksum": "efb0e7289265f64f583ce93a5b9f0ce849003bf40e7faf281d08f7483201f3bb"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/a4d9d8921d40c4268623468f16f37d14112004b28c5d1fd430ab9989685cc533",
+      "checksum": "a4d9d8921d40c4268623468f16f37d14112004b28c5d1fd430ab9989685cc533"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/3229d8f352dcdd3e84f7e240557f7cf2794c12a4ec4785b45e1ad0b290b78646",
+      "checksum": "3229d8f352dcdd3e84f7e240557f7cf2794c12a4ec4785b45e1ad0b290b78646"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d6a3f620bd7b8629e5f9830dbaa49dd55f19d34c1c59c7ae8d9d7c4ffba41227",
+      "checksum": "d6a3f620bd7b8629e5f9830dbaa49dd55f19d34c1c59c7ae8d9d7c4ffba41227"
+    }
+  }
+}

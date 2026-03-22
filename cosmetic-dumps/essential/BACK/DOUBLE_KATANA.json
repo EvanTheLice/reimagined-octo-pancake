@@ -1,0 +1,52 @@
+{
+  "id": "DOUBLE_KATANA",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Double Katanas"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_NINJA",
+    "COLLECTION_SEPTEMBER2025",
+    "SET_ANIME",
+    "THEME_ANIME"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "variants/ender_purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8b281b6f1b106d0eb901642d28ed3b2e9aeb8104e9a5721cd32e63d74b7d25c9",
+      "checksum": "8b281b6f1b106d0eb901642d28ed3b2e9aeb8104e9a5721cd32e63d74b7d25c9"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/e4e4f3009505eb06d36d0f3c7735478d3db15b4e9e57880eaf2552017ad91398",
+      "checksum": "e4e4f3009505eb06d36d0f3c7735478d3db15b4e9e57880eaf2552017ad91398"
+    },
+    "variants/red_yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/66e2ab4b27840f9c20fcddc7493f56fede9023018a2322e0af43feafae1c7702",
+      "checksum": "66e2ab4b27840f9c20fcddc7493f56fede9023018a2322e0af43feafae1c7702"
+    },
+    "variants/black_silver/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a246367c21a2ae190d5866e176620b82e3399411ae5f54c29f690854e29f85d8",
+      "checksum": "a246367c21a2ae190d5866e176620b82e3399411ae5f54c29f690854e29f85d8"
+    },
+    "variants/black_gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/238f30709ddeef121950eef43cb3a14c41451931260eb6cd33a7db014f3e162c",
+      "checksum": "238f30709ddeef121950eef43cb3a14c41451931260eb6cd33a7db014f3e162c"
+    },
+    "variants/pastel_pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/1ce299a84e833f8ba6c52caa832f0b89e1a89a2ec560156bce8e88391afc40b2",
+      "checksum": "1ce299a84e833f8ba6c52caa832f0b89e1a89a2ec560156bce8e88391afc40b2"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/74ceced5542d0be297a3a8a649399d7454e9847b75e76898ebdbd5c611fc3146",
+      "checksum": "74ceced5542d0be297a3a8a649399d7454e9847b75e76898ebdbd5c611fc3146"
+    }
+  }
+}

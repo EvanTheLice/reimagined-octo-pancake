@@ -1,0 +1,33 @@
+{
+  "id": "SHUFFLE_DANCE",
+  "type": "DANCE",
+  "displayNames": {
+    "en_us": "Shuffle Dance"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PREVIOUSLY_UNPOPULAR"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "DANCE": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 900,
+  "tier": "EPIC",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/da8c9c4a265721fcafcc2006445f3a22f6e91d1360e944c755b749e7d719a201",
+      "checksum": "da8c9c4a265721fcafcc2006445f3a22f6e91d1360e944c755b749e7d719a201"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/e0d95c4e43179aba1207731fda65ecbfafa229b506096a28e6402ea14c3582d5",
+      "checksum": "e0d95c4e43179aba1207731fda65ecbfafa229b506096a28e6402ea14c3582d5"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e",
+      "checksum": "7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e"
+    }
+  }
+}

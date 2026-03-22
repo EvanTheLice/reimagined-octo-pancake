@@ -1,0 +1,67 @@
+{
+  "id": "ENDER_ARMS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Ender Tentacles"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ENDER",
+    "THEME_HORROR",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e507c7677a7cc3a701ba4c8087b117d321aba0b0050c5bcfddf20f9c79575e17",
+      "checksum": "e507c7677a7cc3a701ba4c8087b117d321aba0b0050c5bcfddf20f9c79575e17"
+    },
+    "variants/pink/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/67ecca45781ca2f293c6e86b28cf34b478bd1305ba9181d5dbd2de2327406db4",
+      "checksum": "67ecca45781ca2f293c6e86b28cf34b478bd1305ba9181d5dbd2de2327406db4"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/a3b5e5c802da454e13b74599f16cf61967b4f51b7599d0ade34090049e027343",
+      "checksum": "a3b5e5c802da454e13b74599f16cf61967b4f51b7599d0ade34090049e027343"
+    },
+    "variants/red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/8edb9ab89333c18177ac749ba60a445c38710123276de4546c59d84d3c03ccf2",
+      "checksum": "8edb9ab89333c18177ac749ba60a445c38710123276de4546c59d84d3c03ccf2"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/418e647f586104afaafb59231112c74a8872ce4782d4962ef64caf55af5dc3b3",
+      "checksum": "418e647f586104afaafb59231112c74a8872ce4782d4962ef64caf55af5dc3b3"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/33667b2d39ca1059e10d68617d28b8298e440694edee052b692932d845b05593",
+      "checksum": "33667b2d39ca1059e10d68617d28b8298e440694edee052b692932d845b05593"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/9015cefa351119b9d53e88bdfe5eee38ec53f883f988eda095d6b75b6de63fcd",
+      "checksum": "9015cefa351119b9d53e88bdfe5eee38ec53f883f988eda095d6b75b6de63fcd"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/d9e4d4cd4e19a952107b2412387e68a417456f1ff0a80ecc756e8cca71809d78",
+      "checksum": "d9e4d4cd4e19a952107b2412387e68a417456f1ff0a80ecc756e8cca71809d78"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/2cb3e7089a79caf73ea5dd29cf469b0f278f67ce929e26b96e1080e3a7eda280",
+      "checksum": "2cb3e7089a79caf73ea5dd29cf469b0f278f67ce929e26b96e1080e3a7eda280"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/219255ce54c8a44b5c61333c794aea3d1958293e3ea2b2046bc2db3e7d7bccd8",
+      "checksum": "219255ce54c8a44b5c61333c794aea3d1958293e3ea2b2046bc2db3e7d7bccd8"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a705f07dc7732c022799d0578a470a7229b308de31e893bb249b5837472f2545",
+      "checksum": "a705f07dc7732c022799d0578a470a7229b308de31e893bb249b5837472f2545"
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "MAGMA_ARMOR",
+  "type": "OUTERWEAR",
+  "displayNames": {
+    "en_us": "Magma Armor"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "PREVIOUSLY_UNPOPULAR",
+    "THEME_FIRE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/crying_obsidian/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/141fd32398c605ef4d00beb7f52dc2e6f698f73da9a32c145b4c1455a5a46ee6",
+      "checksum": "141fd32398c605ef4d00beb7f52dc2e6f698f73da9a32c145b4c1455a5a46ee6"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/55c0a23e6c1ef032ae754fafd1bd8b6b6c563f49a3c7b37823aeb68ac3054b3a",
+      "checksum": "55c0a23e6c1ef032ae754fafd1bd8b6b6c563f49a3c7b37823aeb68ac3054b3a"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/9cad2f7a34240bc4b3b75154cc0cff84cb7d7c41b8c980f887aa8f6e5f8f5c87",
+      "checksum": "9cad2f7a34240bc4b3b75154cc0cff84cb7d7c41b8c980f887aa8f6e5f8f5c87"
+    },
+    "particles/ember_armor.particle.json": {
+      "url": "https://cdn.essential.gg/assets/163e6388c14def2d98be4ef0bd74be05191f7681d56fb59c4e086dfb49278c2e",
+      "checksum": "163e6388c14def2d98be4ef0bd74be05191f7681d56fb59c4e086dfb49278c2e"
+    },
+    "particles/smoke_armor.particle.json": {
+      "url": "https://cdn.essential.gg/assets/9ebf825ef70737275fcba687ff12aed0876ee71b8659a47aeacdef52ec966b82",
+      "checksum": "9ebf825ef70737275fcba687ff12aed0876ee71b8659a47aeacdef52ec966b82"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/e95d7d5c5bae43d017b44d836ea1947218e6153dbfce58e21dc8c94b72c5b5d6",
+      "checksum": "e95d7d5c5bae43d017b44d836ea1947218e6153dbfce58e21dc8c94b72c5b5d6"
+    },
+    "variants/magma/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/f613c6350277f41884af59bf97102838082eb1f3e3a0985b24b620cdefca09ff",
+      "checksum": "f613c6350277f41884af59bf97102838082eb1f3e3a0985b24b620cdefca09ff"
+    },
+    "variants/crying_obsidian/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f8c3c17b2bfd8452b6bea2ca48d42a3ab141e5e155b6c792dd76ddcc9e2579a4",
+      "checksum": "f8c3c17b2bfd8452b6bea2ca48d42a3ab141e5e155b6c792dd76ddcc9e2579a4"
+    },
+    "variants/magma/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e130ad7f013819dc89cebf78c2023332c9b3fae63c4168dfe4998537db34f83a",
+      "checksum": "e130ad7f013819dc89cebf78c2023332c9b3fae63c4168dfe4998537db34f83a"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/c72cd1e7a4445c79ab6ab665cb97b43552fe21530514d56f5887bb5c45ede50c",
+      "checksum": "c72cd1e7a4445c79ab6ab665cb97b43552fe21530514d56f5887bb5c45ede50c"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/14c99c33c03fbfb0618a986e8cf696bdaf3bf1adeb8f868655217a904cdaddb5",
+      "checksum": "14c99c33c03fbfb0618a986e8cf696bdaf3bf1adeb8f868655217a904cdaddb5"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/f10d3e78939870cbab2a83522209750bfd2affc69f22b68e99a2e7f397a56de9",
+      "checksum": "f10d3e78939870cbab2a83522209750bfd2affc69f22b68e99a2e7f397a56de9"
+    }
+  }
+}

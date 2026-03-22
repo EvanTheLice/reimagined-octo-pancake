@@ -1,0 +1,57 @@
+{
+  "id": "ASTRAL_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Astral Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MAGIC"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 1500,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "variants/flame_red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/fb0aa27bfad875f9b34460fe3ca421b4f677e15ecfa66645882619f43c16d041",
+      "checksum": "fb0aa27bfad875f9b34460fe3ca421b4f677e15ecfa66645882619f43c16d041"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/ececc942ce324cc8456cf36a57e7a4f0bb1a695d932fcfaa8f63578517585222",
+      "checksum": "ececc942ce324cc8456cf36a57e7a4f0bb1a695d932fcfaa8f63578517585222"
+    },
+    "variants/swamp_green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/58846e9f830e5d6d4a1c138a9462303c0b1052a034134e72412b1b3ee72cf8ea",
+      "checksum": "58846e9f830e5d6d4a1c138a9462303c0b1052a034134e72412b1b3ee72cf8ea"
+    },
+    "variants/cosmic_purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/38a968f96e9f6d90df2415ddb1cd8b809db440582726c57cff8e61eb60f468a3",
+      "checksum": "38a968f96e9f6d90df2415ddb1cd8b809db440582726c57cff8e61eb60f468a3"
+    },
+    "particles/astral_sparkles.particle.json": {
+      "url": "https://cdn.essential.gg/assets/f19115bdb5382aed2b4e23fd289f4d173dd45975e529eb0708c6f067e9c6ce66",
+      "checksum": "f19115bdb5382aed2b4e23fd289f4d173dd45975e529eb0708c6f067e9c6ce66"
+    },
+    "variants/light_blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/137c27c76862a9c2c25fa39b99d358282c4819c3dcf4d52527e01b1748add978",
+      "checksum": "137c27c76862a9c2c25fa39b99d358282c4819c3dcf4d52527e01b1748add978"
+    },
+    "variants/pastel_pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/9c6fa9e688f70a6b3c91d2bf5cc7e85c2b2866bba8d1cc192323df0c120f4178",
+      "checksum": "9c6fa9e688f70a6b3c91d2bf5cc7e85c2b2866bba8d1cc192323df0c120f4178"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/555ae6d6400687ac04e6ccf6b2805bb5a0a1ee321b6ecf15acd3f83e15840de2",
+      "checksum": "555ae6d6400687ac04e6ccf6b2805bb5a0a1ee321b6ecf15acd3f83e15840de2"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7eb08ca21b20b8e92535211bcaa5bbb34fedbc2c7a4835121a3e7379d8302734",
+      "checksum": "7eb08ca21b20b8e92535211bcaa5bbb34fedbc2c7a4835121a3e7379d8302734"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "DANCING_DRAGON_HEAD",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Dancing Dragon Head"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_LUNAR",
+    "COLLECTION_FEBRUARY2026"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 60,
+  "priceCoins": 1200,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/de378ff24d76cb001e133f7a0de7facc72529b585dceb468748d937d8d013707",
+      "checksum": "de378ff24d76cb001e133f7a0de7facc72529b585dceb468748d937d8d013707"
+    },
+    "variants/blue_gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2aaf3140da681fe9d4c19cd3325e3b4befe2351e5d5ccf139417d2b0a773eec0",
+      "checksum": "2aaf3140da681fe9d4c19cd3325e3b4befe2351e5d5ccf139417d2b0a773eec0"
+    },
+    "variants/red_gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/696b84dca49a682e0aa20a3c5cd87df2e80dc6934c81195ddbb11214398b0eab",
+      "checksum": "696b84dca49a682e0aa20a3c5cd87df2e80dc6934c81195ddbb11214398b0eab"
+    },
+    "variants/green_gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/dd6b65440375a71de9df261610a0345751932bc26bee891906d8341055ea2948",
+      "checksum": "dd6b65440375a71de9df261610a0345751932bc26bee891906d8341055ea2948"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/810c6102b05bf766fa6c2dfbe465382e097fbf45d03ab6f6f5577aac564665c3",
+      "checksum": "810c6102b05bf766fa6c2dfbe465382e097fbf45d03ab6f6f5577aac564665c3"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/6455f087ec163add3078cd2c4038cf227ad7fc3229c53e4d4a2506c4ad7d2ce4",
+      "checksum": "6455f087ec163add3078cd2c4038cf227ad7fc3229c53e4d4a2506c4ad7d2ce4"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    }
+  }
+}

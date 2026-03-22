@@ -1,0 +1,71 @@
+{
+  "id": "WARDEN_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Warden Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_WARDEN",
+    "SET_WARDEN",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 1500,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/afe8001dd1b27267012e226e4d97f974e797dd4f4a504589a8aec9ccc21d95fb",
+      "checksum": "afe8001dd1b27267012e226e4d97f974e797dd4f4a504589a8aec9ccc21d95fb"
+    },
+    "variants/pink/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/7f3b791b8c254d27ec69ed803bbcbc32d4a0cd6691a0347567f0eba002b68893",
+      "checksum": "7f3b791b8c254d27ec69ed803bbcbc32d4a0cd6691a0347567f0eba002b68893"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/5ce7e1c01ad840b0d1f7e130f653a743d85163266293731ff314172f32eec3b3",
+      "checksum": "5ce7e1c01ad840b0d1f7e130f653a743d85163266293731ff314172f32eec3b3"
+    },
+    "variants/red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/f1c5c7ec6aec819259c75ff690234281af586a06aec1aa1bb914f3ff6832f711",
+      "checksum": "f1c5c7ec6aec819259c75ff690234281af586a06aec1aa1bb914f3ff6832f711"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/9a16b757c92db1f0401ad38d7bc0242780f7924a4d3a5bae4e7c1277314922ab",
+      "checksum": "9a16b757c92db1f0401ad38d7bc0242780f7924a4d3a5bae4e7c1277314922ab"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/bdeceee060b2132bd17a79750545d5e360338604d2f29cf8e49070e52dcecb42",
+      "checksum": "bdeceee060b2132bd17a79750545d5e360338604d2f29cf8e49070e52dcecb42"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2aa6386c4c81fbe138e6cc4e451645de4859dc99c44b861224f3813be37a5e38",
+      "checksum": "2aa6386c4c81fbe138e6cc4e451645de4859dc99c44b861224f3813be37a5e38"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/d31c8ffc4c2284b819a53dead34d6c55762f6b5b34e32628427ac7f87e4422f7",
+      "checksum": "d31c8ffc4c2284b819a53dead34d6c55762f6b5b34e32628427ac7f87e4422f7"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/3b92f116e0c9ae350eb4c976915167a2398cbcf89a2a9f38300d57231be99676",
+      "checksum": "3b92f116e0c9ae350eb4c976915167a2398cbcf89a2a9f38300d57231be99676"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/5ef66f285afc3540c623c5b7df338bbe652ecf3810fb0295a142861043993126",
+      "checksum": "5ef66f285afc3540c623c5b7df338bbe652ecf3810fb0295a142861043993126"
+    },
+    "particles/wing_dust.particle.json": {
+      "url": "https://cdn.essential.gg/assets/24df7c1f5f234c11d60d74526444d917cba2a00c46ac53d27a675e49c4a39780",
+      "checksum": "24df7c1f5f234c11d60d74526444d917cba2a00c46ac53d27a675e49c4a39780"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f6cf9ea0fc75c5d06946f110d56a73b87d40922824f9eaf2b097e497c373ebbf",
+      "checksum": "f6cf9ea0fc75c5d06946f110d56a73b87d40922824f9eaf2b097e497c373ebbf"
+    }
+  }
+}

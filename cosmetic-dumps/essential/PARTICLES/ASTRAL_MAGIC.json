@@ -1,0 +1,77 @@
+{
+  "id": "ASTRAL_MAGIC",
+  "type": "PARTICLES",
+  "displayNames": {
+    "en_us": "Astral Aura"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MAGIC"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "particles/astral_magic_ring02.particle.json": {
+      "url": "https://cdn.essential.gg/assets/4ba477c7f419d4baa0a77d66e6f52d5c3c0ea1f27761ef4ddb02dcb3fbc0f378",
+      "checksum": "4ba477c7f419d4baa0a77d66e6f52d5c3c0ea1f27761ef4ddb02dcb3fbc0f378"
+    },
+    "variants/cosmic_purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/1b19558e84fe5f3285252748fad3b9d07f75dce133d60c5026bfd6360647567b",
+      "checksum": "1b19558e84fe5f3285252748fad3b9d07f75dce133d60c5026bfd6360647567b"
+    },
+    "particles/astral_magic_ring01.particle.json": {
+      "url": "https://cdn.essential.gg/assets/574b6900ca4a4a4a5b8c08bed3df7203565c766a0b40cd1c1139b1c9232795f0",
+      "checksum": "574b6900ca4a4a4a5b8c08bed3df7203565c766a0b40cd1c1139b1c9232795f0"
+    },
+    "variants/light_blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/191a856069e96de0fea79f73b4fcbc98167d2bdf1484d658e67a8fec34a696ab",
+      "checksum": "191a856069e96de0fea79f73b4fcbc98167d2bdf1484d658e67a8fec34a696ab"
+    },
+    "variants/pastel_pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ce3dbba8c064e42ec4163efcaab2a71ec9a3300f8454cdc1dfd35b60a5ba97b0",
+      "checksum": "ce3dbba8c064e42ec4163efcaab2a71ec9a3300f8454cdc1dfd35b60a5ba97b0"
+    },
+    "particles/orbit_stars.particle.json": {
+      "url": "https://cdn.essential.gg/assets/2369a2742b6c77f5197b24934f24aaa8ed6902fb644519f2952f8868e5b2f1d4",
+      "checksum": "2369a2742b6c77f5197b24934f24aaa8ed6902fb644519f2952f8868e5b2f1d4"
+    },
+    "variants/flame_red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ec59e40e028d7c569e24d22c63a9f85ec73edc6495f9eb0eba25bbdc4276da17",
+      "checksum": "ec59e40e028d7c569e24d22c63a9f85ec73edc6495f9eb0eba25bbdc4276da17"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/a7b8f8738ee249e3154e6de2980d38c57e95602069243a42370c718106b71e32",
+      "checksum": "a7b8f8738ee249e3154e6de2980d38c57e95602069243a42370c718106b71e32"
+    },
+    "variants/swamp_green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ed10aad35b3557883fe1e3123ea2c3d88f808c2def14668238d13fc4eff820dd",
+      "checksum": "ed10aad35b3557883fe1e3123ea2c3d88f808c2def14668238d13fc4eff820dd"
+    },
+    "particles/ground_stars.particle.json": {
+      "url": "https://cdn.essential.gg/assets/f09e916d75692fb9a86fc5f75edc08906e4c3a02a01810f193feb8f0140ff774",
+      "checksum": "f09e916d75692fb9a86fc5f75edc08906e4c3a02a01810f193feb8f0140ff774"
+    },
+    "particles/stars.particle.json": {
+      "url": "https://cdn.essential.gg/assets/d7e556f57a7b8eedbf200813161f841ca456f468f2a86cdf6dfb0a7830ba4144",
+      "checksum": "d7e556f57a7b8eedbf200813161f841ca456f468f2a86cdf6dfb0a7830ba4144"
+    },
+    "particles/star_dust.particle.json": {
+      "url": "https://cdn.essential.gg/assets/2b7f6d4ef534d8d9cde21710095e4c2d30f73927322c2c9cd95fdb5c9c9afbc1",
+      "checksum": "2b7f6d4ef534d8d9cde21710095e4c2d30f73927322c2c9cd95fdb5c9c9afbc1"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/ce27145bc1a1c16916542d74cb8e1749143d1a0b23eefa7740f5f8a739e57f11",
+      "checksum": "ce27145bc1a1c16916542d74cb8e1749143d1a0b23eefa7740f5f8a739e57f11"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7b961b8b72f75e5ee0ff9dddcd33ede8d209baf15502ff1591fdf00f31f01975",
+      "checksum": "7b961b8b72f75e5ee0ff9dddcd33ede8d209baf15502ff1591fdf00f31f01975"
+    }
+  }
+}

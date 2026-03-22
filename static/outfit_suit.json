@@ -1,0 +1,152 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:geometry": [
+    {
+      "description": {
+        "identifier": "geometry.essential.outfit_suit",
+        "texture_width": 128,
+        "texture_height": 128,
+        "visible_bounds_width": 2,
+        "visible_bounds_height": 3,
+        "visible_bounds_offset": [0, 1, 0]
+      },
+      "bones": [
+        {
+          "name": "jacket",
+          "pivot": [0, 12, 0],
+          "parent": "body",
+          "cubes": [
+            {
+              "origin": [-4, 6, -2],
+              "size": [8, 12, 4],
+              "uv": [0, 0],
+              "inflate": 0.15
+            },
+            {
+              "origin": [-3, 12, -3],
+              "size": [6, 4, 1],
+              "uv": [0, 20],
+              "inflate": 0.15
+            }
+          ]
+        },
+        {
+          "name": "lapel_left",
+          "pivot": [-2, 18, -2],
+          "parent": "jacket",
+          "cubes": [
+            {
+              "origin": [-4, 12, -2.5],
+              "size": [2, 6, 1],
+              "uv": [28, 0]
+            }
+          ]
+        },
+        {
+          "name": "lapel_right",
+          "pivot": [2, 18, -2],
+          "parent": "jacket",
+          "cubes": [
+            {
+              "origin": [2, 12, -2.5],
+              "size": [2, 6, 1],
+              "uv": [28, 10]
+            }
+          ]
+        },
+        {
+          "name": "tie",
+          "pivot": [0, 16, -2],
+          "parent": "jacket",
+          "cubes": [
+            {
+              "origin": [-1, 12, -2.5],
+              "size": [2, 4, 1],
+              "uv": [36, 0]
+            },
+            {
+              "origin": [-0.5, 8, -2.5],
+              "size": [1, 4, 1],
+              "uv": [36, 8]
+            }
+          ]
+        },
+        {
+          "name": "left_arm_sleeve",
+          "pivot": [5, 14, 0],
+          "parent": "left_arm",
+          "cubes": [
+            {
+              "origin": [4, 2, -2],
+              "size": [4, 12, 4],
+              "uv": [42, 0],
+              "inflate": 0.15
+            },
+            {
+              "origin": [4, 2, -2],
+              "size": [4, 2, 4],
+              "uv": [42, 22]
+            }
+          ]
+        },
+        {
+          "name": "right_arm_sleeve",
+          "pivot": [-5, 14, 0],
+          "parent": "right_arm",
+          "cubes": [
+            {
+              "origin": [-8, 2, -2],
+              "size": [4, 12, 4],
+              "uv": [42, 28],
+              "inflate": 0.15
+            },
+            {
+              "origin": [-8, 2, -2],
+              "size": [4, 2, 4],
+              "uv": [42, 50]
+            }
+          ]
+        },
+        {
+          "name": "pants",
+          "pivot": [0, 6, 0],
+          "parent": "body",
+          "cubes": [
+            {
+              "origin": [-4, 0, -2],
+              "size": [8, 6, 4],
+              "uv": [64, 0],
+              "inflate": 0.15
+            }
+          ]
+        },
+        {
+          "name": "left_pant",
+          "pivot": [1.9, 6, 0],
+          "parent": "left_leg",
+          "cubes": [
+            {
+              "origin": [-0.1, -6, -2],
+              "size": [4, 12, 4],
+              "uv": [64, 14],
+              "inflate": 0.15
+            }
+          ]
+        },
+        {
+          "name": "right_pant",
+          "pivot": [-1.9, 6, 0],
+          "parent": "right_leg",
+          "cubes": [
+            {
+              "origin": [-3.9, -6, -2],
+              "size": [4, 12, 4],
+              "uv": [64, 34],
+              "inflate": 0.15
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

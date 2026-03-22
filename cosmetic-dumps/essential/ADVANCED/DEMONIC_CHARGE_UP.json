@@ -1,0 +1,75 @@
+{
+  "id": "DEMONIC_CHARGE_UP",
+  "type": "ADVANCED",
+  "displayNames": {
+    "en_us": "Demonic Flight"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_DEVIL",
+    "THEME_HALLOWEEN",
+    "THEME_DEMON"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "MOVEMENT": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 1500,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "particles/demonic_charge_smoke.particle.json": {
+      "url": "https://cdn.essential.gg/assets/8f601837985f148d04e1dc9e072ad8a02258e40e11705546070579660ea9fe49",
+      "checksum": "8f601837985f148d04e1dc9e072ad8a02258e40e11705546070579660ea9fe49"
+    },
+    "particles/demonic_aura_lines_out.particle.json": {
+      "url": "https://cdn.essential.gg/assets/fbff308a6c4cd48e98b9af24042fbb462fcaa3b63072875042182ff668eeae9c",
+      "checksum": "fbff308a6c4cd48e98b9af24042fbb462fcaa3b63072875042182ff668eeae9c"
+    },
+    "particles/demonic_wing.particle.json": {
+      "url": "https://cdn.essential.gg/assets/8e30998150f65d600a54eced67d832b4ec02d7af36a0208006df552314d9cfcd",
+      "checksum": "8e30998150f65d600a54eced67d832b4ec02d7af36a0208006df552314d9cfcd"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/723d1b9fbb9a27509d1d55b8184b463287ddfe1d4f76f09ad1b139e6cdbf66e1",
+      "checksum": "723d1b9fbb9a27509d1d55b8184b463287ddfe1d4f76f09ad1b139e6cdbf66e1"
+    },
+    "sounds/em_demon_hover_loop.ogg": {
+      "url": "https://cdn.essential.gg/assets/1c8f6e8323b261cf6efd8d13afd774b562239f53086be99a7ac362e0996480d6",
+      "checksum": "1c8f6e8323b261cf6efd8d13afd774b562239f53086be99a7ac362e0996480d6"
+    },
+    "particles/demonic_charge_orbs.particle.json": {
+      "url": "https://cdn.essential.gg/assets/65d654fd06f3104e33d58ae1b73cf97eb5cdfba100b7be4a7d9a3a2be0a1e854",
+      "checksum": "65d654fd06f3104e33d58ae1b73cf97eb5cdfba100b7be4a7d9a3a2be0a1e854"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/c345cbe2578c535bd2909d55afb1466a017e4938c9ffc09fd41f83c8c7fd46c8",
+      "checksum": "c345cbe2578c535bd2909d55afb1466a017e4938c9ffc09fd41f83c8c7fd46c8"
+    },
+    "sounds/em_demon_hover_start.ogg": {
+      "url": "https://cdn.essential.gg/assets/5a9b29cd6c8de68bd87011e70bd978d7d25adaef12a32473d2d7f971cb7c9ef3",
+      "checksum": "5a9b29cd6c8de68bd87011e70bd978d7d25adaef12a32473d2d7f971cb7c9ef3"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/50b3150883f6c3165b0341b1d34b92a123e3ea29b9703d4688ee5ae26d103119",
+      "checksum": "50b3150883f6c3165b0341b1d34b92a123e3ea29b9703d4688ee5ae26d103119"
+    },
+    "particles/demonic_aura_lines_in.particle.json": {
+      "url": "https://cdn.essential.gg/assets/81f6949bc9850a77f319a7a7491a5e147f2c6b0235fc277c3e5391a96df5d337",
+      "checksum": "81f6949bc9850a77f319a7a7491a5e147f2c6b0235fc277c3e5391a96df5d337"
+    },
+    "particles/demonic_charge_streaks.particle.json": {
+      "url": "https://cdn.essential.gg/assets/8791c371210d99509475df1d070ae95a22b8b00c26a945bc6a90ed3d4e6e6f3c",
+      "checksum": "8791c371210d99509475df1d070ae95a22b8b00c26a945bc6a90ed3d4e6e6f3c"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/825843e70ad4fabff536b6824b3243bb3214acc1c4eef3c7c44b1d797fca3f3b",
+      "checksum": "825843e70ad4fabff536b6824b3243bb3214acc1c4eef3c7c44b1d797fca3f3b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/94c755a55745a2ba4f7774ffd8b605aa928ff4603eed95c68a98442799a3456e",
+      "checksum": "94c755a55745a2ba4f7774ffd8b605aa928ff4603eed95c68a98442799a3456e"
+    }
+  }
+}

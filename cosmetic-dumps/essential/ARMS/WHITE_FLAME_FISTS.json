@@ -1,0 +1,47 @@
+{
+  "id": "WHITE_FLAME_FISTS",
+  "type": "ARMS",
+  "displayNames": {
+    "en_us": "Spirit Flame Fists"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "ARMS": 0
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/9dd4634dd99a3ed98919e97d91251a2d0e906eb46ae7d1142bb55b0f7627b029",
+      "checksum": "9dd4634dd99a3ed98919e97d91251a2d0e906eb46ae7d1142bb55b0f7627b029"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/77ff9d6179dc0c350935942c498dddfc46d4214b7000b69efbc35a2dfc4a2a57",
+      "checksum": "77ff9d6179dc0c350935942c498dddfc46d4214b7000b69efbc35a2dfc4a2a57"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/f0fe905e635ca63f5a5b2f6c5c190fe84f69126f60804159c3825879dd8675d4",
+      "checksum": "f0fe905e635ca63f5a5b2f6c5c190fe84f69126f60804159c3825879dd8675d4"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/4b8ef105d3c4b3ea303fb291271361446f05b6133f9cabe1e87ce687eca097dd",
+      "checksum": "4b8ef105d3c4b3ea303fb291271361446f05b6133f9cabe1e87ce687eca097dd"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/d36183162e3f484c04d004acf3a5048e846a7acdd5ce5088e73926e41127be71",
+      "checksum": "d36183162e3f484c04d004acf3a5048e846a7acdd5ce5088e73926e41127be71"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/74c94a66e06c1792b8621be3f881d878a608b56da3b50781d3c84685e5df9699",
+      "checksum": "74c94a66e06c1792b8621be3f881d878a608b56da3b50781d3c84685e5df9699"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/cc88c341f7d2c66f6301f0ae8e66eb19b02d7077808f6fd3e56aba99cc2a8036",
+      "checksum": "cc88c341f7d2c66f6301f0ae8e66eb19b02d7077808f6fd3e56aba99cc2a8036"
+    }
+  }
+}

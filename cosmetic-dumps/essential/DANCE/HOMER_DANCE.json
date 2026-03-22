@@ -1,0 +1,30 @@
+{
+  "id": "HOMER_DANCE",
+  "type": "DANCE",
+  "displayNames": {
+    "en_us": "Around The World"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MEME",
+    "THEME_SILLY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "DANCE": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 1200,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/4d566f5c1ad96d97e9fd9faa74bafa0188661147ffc6ad658ede9878ff935d49",
+      "checksum": "4d566f5c1ad96d97e9fd9faa74bafa0188661147ffc6ad658ede9878ff935d49"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e",
+      "checksum": "7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e"
+    }
+  }
+}

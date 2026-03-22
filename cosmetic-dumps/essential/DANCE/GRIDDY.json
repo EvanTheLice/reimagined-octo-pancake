@@ -1,0 +1,34 @@
+{
+  "id": "GRIDDY",
+  "type": "DANCE",
+  "displayNames": {
+    "en_us": "The Griddy"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MEME",
+    "THEME_SILLY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "DANCE": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 1200,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/3e52fbcaa6a6b37592ea342becf21c14c30347572062b2a863c44674aab3051c",
+      "checksum": "3e52fbcaa6a6b37592ea342becf21c14c30347572062b2a863c44674aab3051c"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/796a8645f2d67d6ae6251225e6c29c5b2a9deb1000fa31f719cd7a8da6393c6b",
+      "checksum": "796a8645f2d67d6ae6251225e6c29c5b2a9deb1000fa31f719cd7a8da6393c6b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/fd455a788bfd8987c3d55ae9b7f1c684198da0e8700228781df1aed0b494aaab",
+      "checksum": "fd455a788bfd8987c3d55ae9b7f1c684198da0e8700228781df1aed0b494aaab"
+    }
+  }
+}

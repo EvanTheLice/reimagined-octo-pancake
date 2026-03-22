@@ -1,0 +1,54 @@
+{
+  "id": "DRAGON",
+  "type": "PETS",
+  "displayNames": {
+    "en_us": "Baby Ender Dragon"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ENDER",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 1500,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/bb6017676871fcfc58cf1ea6538f19eb2a67126729804cdce6f0e12d3e8d9db3",
+      "checksum": "bb6017676871fcfc58cf1ea6538f19eb2a67126729804cdce6f0e12d3e8d9db3"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/bb44298536b3c21a2d6a07e98a512d980fafda165120e44868497a39b953de07",
+      "checksum": "bb44298536b3c21a2d6a07e98a512d980fafda165120e44868497a39b953de07"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0f9605bc28020c69ea92092a35367627447897d1b362ed0b0b8416eb5d073629",
+      "checksum": "0f9605bc28020c69ea92092a35367627447897d1b362ed0b0b8416eb5d073629"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/32921b31911452f36bdf138f26264bca88327cc3f8fd08b8f7c38686b10fce69",
+      "checksum": "32921b31911452f36bdf138f26264bca88327cc3f8fd08b8f7c38686b10fce69"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/55267bc4222eb4cafc5461c794f097780b020f392c996e73ce50d1b709bab057",
+      "checksum": "55267bc4222eb4cafc5461c794f097780b020f392c996e73ce50d1b709bab057"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/cc242efe886ef0a95463344a6317609b96bfc779f1027b7f75a48d7c605a5011",
+      "checksum": "cc242efe886ef0a95463344a6317609b96bfc779f1027b7f75a48d7c605a5011"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/cc55b9d3b50be5983f39377a25c848274d4351401438d245a6be52e6396f1422",
+      "checksum": "cc55b9d3b50be5983f39377a25c848274d4351401438d245a6be52e6396f1422"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2c358977c3c3bd0e804549e5fba5cb64607b49c71a6d8e8f73524c8f80d9695e",
+      "checksum": "2c358977c3c3bd0e804549e5fba5cb64607b49c71a6d8e8f73524c8f80d9695e"
+    }
+  }
+}

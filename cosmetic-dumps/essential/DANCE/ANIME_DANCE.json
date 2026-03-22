@@ -1,0 +1,34 @@
+{
+  "id": "ANIME_DANCE",
+  "type": "DANCE",
+  "displayNames": {
+    "en_us": "Anime Dance"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_CUTE",
+    "THEME_ANIME"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "DANCE": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 900,
+  "tier": "EPIC",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/58146d5c6312137988e36ee820cf4a328ae20c809428a646fe270327ddd79238",
+      "checksum": "58146d5c6312137988e36ee820cf4a328ae20c809428a646fe270327ddd79238"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/6af445568d0a9234fc07f77c0e8fae4997e98c2937c933dc4bc9691858b241ce",
+      "checksum": "6af445568d0a9234fc07f77c0e8fae4997e98c2937c933dc4bc9691858b241ce"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e",
+      "checksum": "7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e"
+    }
+  }
+}

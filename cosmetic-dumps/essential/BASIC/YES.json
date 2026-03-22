@@ -1,0 +1,30 @@
+{
+  "id": "YES",
+  "type": "BASIC",
+  "displayNames": {
+    "en_us": "Yes"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BASIC": 20
+  },
+  "defaultSortWeight": 23,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/c46a6b1ea70aee9eb3e300f0de7ab34fd9a951f96db069d7df79c3af23af4db2",
+      "checksum": "c46a6b1ea70aee9eb3e300f0de7ab34fd9a951f96db069d7df79c3af23af4db2"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/c944643926eeb88e9ec4e94c54eaca0b8d6496019dd836771a2d00f9dee978cc",
+      "checksum": "c944643926eeb88e9ec4e94c54eaca0b8d6496019dd836771a2d00f9dee978cc"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e",
+      "checksum": "7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e"
+    }
+  }
+}

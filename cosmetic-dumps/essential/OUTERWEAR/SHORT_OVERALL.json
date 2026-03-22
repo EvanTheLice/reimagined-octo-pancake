@@ -1,0 +1,49 @@
+{
+  "id": "SHORT_OVERALL",
+  "type": "OUTERWEAR",
+  "displayNames": {
+    "en_us": "Short Overall"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/b98a7ff029ba13e5564b4f294e0fc341befb451081e07420522988fd7294f429",
+      "checksum": "b98a7ff029ba13e5564b4f294e0fc341befb451081e07420522988fd7294f429"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/3b514d89b2315a6e74ae7ca996a39a00977ac9129714ee5f5d1b2c42809ae549",
+      "checksum": "3b514d89b2315a6e74ae7ca996a39a00977ac9129714ee5f5d1b2c42809ae549"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/b0ede0c0873cb01234e330356c4e500b131198851b9c144ca33ef8175f8f05f5",
+      "checksum": "b0ede0c0873cb01234e330356c4e500b131198851b9c144ca33ef8175f8f05f5"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d675e7431601252215bd9d40d29b0593b520ad33e7e1f641235cea8bc84005f2",
+      "checksum": "d675e7431601252215bd9d40d29b0593b520ad33e7e1f641235cea8bc84005f2"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4f7f92b47804b727ab3a2b3ea6deb10edb80c2ed22b2554358c093e9c9c497d2",
+      "checksum": "4f7f92b47804b727ab3a2b3ea6deb10edb80c2ed22b2554358c093e9c9c497d2"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/3b514d89b2315a6e74ae7ca996a39a00977ac9129714ee5f5d1b2c42809ae549",
+      "checksum": "3b514d89b2315a6e74ae7ca996a39a00977ac9129714ee5f5d1b2c42809ae549"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/b0ede0c0873cb01234e330356c4e500b131198851b9c144ca33ef8175f8f05f5",
+      "checksum": "b0ede0c0873cb01234e330356c4e500b131198851b9c144ca33ef8175f8f05f5"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a1026db051a45e9c31d4bbe4b664f669430dc682ed5e87bb52de813f32484095",
+      "checksum": "a1026db051a45e9c31d4bbe4b664f669430dc682ed5e87bb52de813f32484095"
+    }
+  }
+}

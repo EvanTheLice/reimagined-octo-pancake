@@ -1,0 +1,59 @@
+{
+  "id": "LLAMA",
+  "type": "PETS",
+  "displayNames": {
+    "en_us": "Llama"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL",
+    "THEME_MINECRAFT",
+    "COLLECTION_DECEMBER2025"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/trader/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2fda397d17ba219a0ef614ecf4ddf37917abec6a29a0917c5d49cbd34c1dd98a",
+      "checksum": "2fda397d17ba219a0ef614ecf4ddf37917abec6a29a0917c5d49cbd34c1dd98a"
+    },
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/565526359cfb0d923273feb50c06865e8c4132c8f66ee0cd6e3a03ec2a14bf6d",
+      "checksum": "565526359cfb0d923273feb50c06865e8c4132c8f66ee0cd6e3a03ec2a14bf6d"
+    },
+    "variants/gray/texture.png": {
+      "url": "https://cdn.essential.gg/assets/381771b75384612e826736d6726b0c3ef0ca22652533f0b68fd4c8209ab6c407",
+      "checksum": "381771b75384612e826736d6726b0c3ef0ca22652533f0b68fd4c8209ab6c407"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/fafa250f08c95be7e0577284aaf20335b707cd82903ee61aaaab33acc28ce3f6",
+      "checksum": "fafa250f08c95be7e0577284aaf20335b707cd82903ee61aaaab33acc28ce3f6"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/63518d933f7e2ee9703a4fdc0022303d295cbfcd1905d04eab54b173f04e934b",
+      "checksum": "63518d933f7e2ee9703a4fdc0022303d295cbfcd1905d04eab54b173f04e934b"
+    },
+    "variants/cream/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c3810c7de75285bb9b9995ba4714bb8915480ab64efe416c49623bdc04ea2ad8",
+      "checksum": "c3810c7de75285bb9b9995ba4714bb8915480ab64efe416c49623bdc04ea2ad8"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/ba4e56952a7887e6f67d0b45aa015754912422ee11656595401250b52417697a",
+      "checksum": "ba4e56952a7887e6f67d0b45aa015754912422ee11656595401250b52417697a"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/78a3ddad0a903aebc828d620e6273875f81ccdb2ab297ecaa58213d8258542a4",
+      "checksum": "78a3ddad0a903aebc828d620e6273875f81ccdb2ab297ecaa58213d8258542a4"
+    },
+    "particles/llama_spit.particle.json": {
+      "url": "https://cdn.essential.gg/assets/1daa5ef8306f1ed6be15be64d729d35849ab60547a419e07ae7f1845757d6b9f",
+      "checksum": "1daa5ef8306f1ed6be15be64d729d35849ab60547a419e07ae7f1845757d6b9f"
+    }
+  }
+}

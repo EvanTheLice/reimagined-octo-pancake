@@ -1,0 +1,33 @@
+{
+  "id": "FLIPPIN_FANCY",
+  "type": "MOVEMENT",
+  "displayNames": {
+    "en_us": "Flippin\u0027 Fancy"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SILLY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "ADVANCED": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 900,
+  "tier": "EPIC",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/4d21b4d5fcc239089b04d689f09a0e70152e78cde0c48eff5b2f7eb252fb89c3",
+      "checksum": "4d21b4d5fcc239089b04d689f09a0e70152e78cde0c48eff5b2f7eb252fb89c3"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/d9e118645724467d5c396463c186e6a7b0eea936c68011b634d2486cebfcf90d",
+      "checksum": "d9e118645724467d5c396463c186e6a7b0eea936c68011b634d2486cebfcf90d"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e",
+      "checksum": "7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e"
+    }
+  }
+}

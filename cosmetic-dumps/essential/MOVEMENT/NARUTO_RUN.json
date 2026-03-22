@@ -1,0 +1,31 @@
+{
+  "id": "NARUTO_RUN",
+  "type": "MOVEMENT",
+  "displayNames": {
+    "en_us": "Anime Run"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_NINJA",
+    "SET_ANIME",
+    "THEME_ANIME"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "MOVEMENT": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 1200,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/821e67409701712c358f06cbdb61b6ec9fd84c6d2c9dc21156604530b7e4756e",
+      "checksum": "821e67409701712c358f06cbdb61b6ec9fd84c6d2c9dc21156604530b7e4756e"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e",
+      "checksum": "7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e"
+    }
+  }
+}

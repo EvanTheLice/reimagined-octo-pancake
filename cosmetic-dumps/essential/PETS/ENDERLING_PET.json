@@ -1,0 +1,74 @@
+{
+  "id": "ENDERLING_PET",
+  "type": "PETS",
+  "displayNames": {
+    "en_us": "Little Endy"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ENDER",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 1500,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "variants/cowboy_hat/texture.png": {
+      "url": "https://cdn.essential.gg/assets/14c2ae239e98ce185e54722e11c086b7491ebbdf6e005bc6632fc8d2c0ca44fd",
+      "checksum": "14c2ae239e98ce185e54722e11c086b7491ebbdf6e005bc6632fc8d2c0ca44fd"
+    },
+    "variants/woolen_beanie/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/241e619041340b33aa6b4e6f5ff97449a33cb0866df06eec93192e1867150306",
+      "checksum": "241e619041340b33aa6b4e6f5ff97449a33cb0866df06eec93192e1867150306"
+    },
+    "variants/woolen_beanie/texture.png": {
+      "url": "https://cdn.essential.gg/assets/627ea185ffa3281455185266dc92311faa918a602c83ce09b0e8eead0fd2e3cb",
+      "checksum": "627ea185ffa3281455185266dc92311faa918a602c83ce09b0e8eead0fd2e3cb"
+    },
+    "particles/enderling_implode.particle.json": {
+      "url": "https://cdn.essential.gg/assets/11363cef1086ed6bdb03a9d22995037d4e4d319c008d81a9fe7734b62f85a616",
+      "checksum": "11363cef1086ed6bdb03a9d22995037d4e4d319c008d81a9fe7734b62f85a616"
+    },
+    "variants/cowboy_hat/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/82875cb81fed4a4d2f1a37a3719458b31aa6032f6cf7517ecfd9464e22dd40e2",
+      "checksum": "82875cb81fed4a4d2f1a37a3719458b31aa6032f6cf7517ecfd9464e22dd40e2"
+    },
+    "particles/enderling_explode.particle.json": {
+      "url": "https://cdn.essential.gg/assets/4962f26c701eefed6aafe0aac70bc987be1ce2f9152ae2f3b833554fab2c6e2d",
+      "checksum": "4962f26c701eefed6aafe0aac70bc987be1ce2f9152ae2f3b833554fab2c6e2d"
+    },
+    "variants/default/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d53430ba2e0b5713ad7eb62c2dee385f272e36398efa8a911c7f58bd13485efa",
+      "checksum": "d53430ba2e0b5713ad7eb62c2dee385f272e36398efa8a911c7f58bd13485efa"
+    },
+    "variants/frog_hat/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/82875cb81fed4a4d2f1a37a3719458b31aa6032f6cf7517ecfd9464e22dd40e2",
+      "checksum": "82875cb81fed4a4d2f1a37a3719458b31aa6032f6cf7517ecfd9464e22dd40e2"
+    },
+    "variants/frog_hat/texture.png": {
+      "url": "https://cdn.essential.gg/assets/fba60a505704e942a9bfd6cbb4004f6100b80be6c9b034a948450206ad61d0fe",
+      "checksum": "fba60a505704e942a9bfd6cbb4004f6100b80be6c9b034a948450206ad61d0fe"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/af2d2043b423223149f0948f373959f633f68b10c51d4a04a5c2fb475e91a3eb",
+      "checksum": "af2d2043b423223149f0948f373959f633f68b10c51d4a04a5c2fb475e91a3eb"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/7cf6ca52ac63562bd528b749e11640d14b38706becc6664f83dba348fa520503",
+      "checksum": "7cf6ca52ac63562bd528b749e11640d14b38706becc6664f83dba348fa520503"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/1f38421630b2b1f1edc652c2c692b49a9919c2e7d6a29207b438216c22007541",
+      "checksum": "1f38421630b2b1f1edc652c2c692b49a9919c2e7d6a29207b438216c22007541"
+    },
+    "variants/default/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/82875cb81fed4a4d2f1a37a3719458b31aa6032f6cf7517ecfd9464e22dd40e2",
+      "checksum": "82875cb81fed4a4d2f1a37a3719458b31aa6032f6cf7517ecfd9464e22dd40e2"
+    }
+  }
+}

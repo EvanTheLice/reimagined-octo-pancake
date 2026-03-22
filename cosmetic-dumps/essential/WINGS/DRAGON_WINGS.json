@@ -1,0 +1,53 @@
+{
+  "id": "DRAGON_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Dragon Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/fb076401c6583f57fb8479343589f8faabe52f36a634069d5c7de02ad8c0355b",
+      "checksum": "fb076401c6583f57fb8479343589f8faabe52f36a634069d5c7de02ad8c0355b"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/0c2b66bb30c36940dab9616118e21516823814d409f31bb2dc08d6b6b245dfa2",
+      "checksum": "0c2b66bb30c36940dab9616118e21516823814d409f31bb2dc08d6b6b245dfa2"
+    },
+    "variants/orange/texture.png": {
+      "url": "https://cdn.essential.gg/assets/84d9ae36b696aa4efd89d7b729bc16d46d462981a43ef8516df11a1064b9bb7a",
+      "checksum": "84d9ae36b696aa4efd89d7b729bc16d46d462981a43ef8516df11a1064b9bb7a"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/58c7d796aa350903a3599f627669becbb6eb13a899418145c91a8aca2214abbb",
+      "checksum": "58c7d796aa350903a3599f627669becbb6eb13a899418145c91a8aca2214abbb"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/06164bc791b20a491d3db8eb25b844581207f59b95d00e8cea0509ee05381146",
+      "checksum": "06164bc791b20a491d3db8eb25b844581207f59b95d00e8cea0509ee05381146"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/369097bbf2484e4884fb39bd315d9fddced133ee121fad3d7a4b70e67fe90877",
+      "checksum": "369097bbf2484e4884fb39bd315d9fddced133ee121fad3d7a4b70e67fe90877"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/580f80eb17091e1fb0f87faff865c4067110efc1d5a408f9fd47821e4a82aa16",
+      "checksum": "580f80eb17091e1fb0f87faff865c4067110efc1d5a408f9fd47821e4a82aa16"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2a84bbb2ef858310f724ba9ef6da8f37bff0ed50a0614cfd784012aba6aa8e77",
+      "checksum": "2a84bbb2ef858310f724ba9ef6da8f37bff0ed50a0614cfd784012aba6aa8e77"
+    }
+  }
+}

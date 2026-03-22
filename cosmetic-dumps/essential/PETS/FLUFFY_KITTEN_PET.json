@@ -1,0 +1,55 @@
+{
+  "id": "FLUFFY_KITTEN_PET",
+  "type": "PETS",
+  "displayNames": {
+    "en_us": "Persian Cat"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL",
+    "COLLECTION_FEBRUARY2026",
+    "THEME_CUTE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "variants/orange_tabby/texture.png": {
+      "url": "https://cdn.essential.gg/assets/884eca55d6a6852fdfbc845e5108c6a5bc72065935a24d72edfa75a74fb14a0f",
+      "checksum": "884eca55d6a6852fdfbc845e5108c6a5bc72065935a24d72edfa75a74fb14a0f"
+    },
+    "variants/gray_tabby/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5f2301b3a8f234b57c29d0c9212ab639852c443f8a008b9b9db11b23985fe3c3",
+      "checksum": "5f2301b3a8f234b57c29d0c9212ab639852c443f8a008b9b9db11b23985fe3c3"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/479b5ac544cbb8624bb8337f64f49bad671b4f233455646d4b4925e81e970413",
+      "checksum": "479b5ac544cbb8624bb8337f64f49bad671b4f233455646d4b4925e81e970413"
+    },
+    "variants/calico/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f61b86ae624b0cd6d0d23727df4ba0f69e29d24b8a348eab79c07d296848aca5",
+      "checksum": "f61b86ae624b0cd6d0d23727df4ba0f69e29d24b8a348eab79c07d296848aca5"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/862a809aa98e293871507b32905c7bb568eadd735cadd94e5940eda85def573d",
+      "checksum": "862a809aa98e293871507b32905c7bb568eadd735cadd94e5940eda85def573d"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/bc293a56dc7deebf3c93e3485b9d0f73a82cd794e9ffee6adc79c901c0271fda",
+      "checksum": "bc293a56dc7deebf3c93e3485b9d0f73a82cd794e9ffee6adc79c901c0271fda"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/657c85b6c0dafd91e6e5bf120d914d1bf4d6585efd9ed88f6ac22c27b6b4ac3f",
+      "checksum": "657c85b6c0dafd91e6e5bf120d914d1bf4d6585efd9ed88f6ac22c27b6b4ac3f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/9e66035ff6a84c78e1e9dbeb9182b3ec7edd7b743bdcf4e2fd2025ffb2755e1b",
+      "checksum": "9e66035ff6a84c78e1e9dbeb9182b3ec7edd7b743bdcf4e2fd2025ffb2755e1b"
+    }
+  }
+}

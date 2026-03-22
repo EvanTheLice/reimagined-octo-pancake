@@ -1,0 +1,81 @@
+{
+  "id": "BURNING_BLADE",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Burning Blade"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FIRE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "particles/blade_smoke.particle.json": {
+      "url": "https://cdn.essential.gg/assets/65d43ad5446ec8962691442c84c9604b6b5d6c706e6ee68096a447d156500b0f",
+      "checksum": "65d43ad5446ec8962691442c84c9604b6b5d6c706e6ee68096a447d156500b0f"
+    },
+    "particles/blade_embers.particle.json": {
+      "url": "https://cdn.essential.gg/assets/efadef862cef4071857a264de59f54699cb2ba66b56d0a744bb076aab998c1bf",
+      "checksum": "efadef862cef4071857a264de59f54699cb2ba66b56d0a744bb076aab998c1bf"
+    },
+    "variants/soul_fire/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/eb848c122ecd1821d4072b8fc8061d93a5844e21b234ee98be48890222840e10",
+      "checksum": "eb848c122ecd1821d4072b8fc8061d93a5844e21b234ee98be48890222840e10"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7c161ca2e4b99626d48fb3393d1623b09966de9b1fb074a6540c4926ff0fa2df",
+      "checksum": "7c161ca2e4b99626d48fb3393d1623b09966de9b1fb074a6540c4926ff0fa2df"
+    },
+    "variants/fire/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/95ab8c71099c768aaf969dcfc8fbfc2b18770e311f1ab5bee22e043a6ef88f91",
+      "checksum": "95ab8c71099c768aaf969dcfc8fbfc2b18770e311f1ab5bee22e043a6ef88f91"
+    },
+    "variants/silver/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4fc97ddafa87583830226feb13fe3bad217c73c2429717be698714d9522d6279",
+      "checksum": "4fc97ddafa87583830226feb13fe3bad217c73c2429717be698714d9522d6279"
+    },
+    "variants/gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0589d505b663905a798f94a17f6736f3a34046d90895c88e9d95be327556a866",
+      "checksum": "0589d505b663905a798f94a17f6736f3a34046d90895c88e9d95be327556a866"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/48b37b947f0228ee1489087bb00c6ed4ad716192c173c00f4b01306678c626c5",
+      "checksum": "48b37b947f0228ee1489087bb00c6ed4ad716192c173c00f4b01306678c626c5"
+    },
+    "variants/soul_fire/texture.png": {
+      "url": "https://cdn.essential.gg/assets/09297216b5365e1771dcc8618e848ea37230e3b45402fb6608ad1531b3d42779",
+      "checksum": "09297216b5365e1771dcc8618e848ea37230e3b45402fb6608ad1531b3d42779"
+    },
+    "variants/gold/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/8dd0a54e64c44412f1c37cca9be88d8af08db8a8e75b9c47e14b223356f2a1b7",
+      "checksum": "8dd0a54e64c44412f1c37cca9be88d8af08db8a8e75b9c47e14b223356f2a1b7"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/fd1a27d9836adcb6534e33b9c90b88b6ef322e41c8eae6991a52769941e81227",
+      "checksum": "fd1a27d9836adcb6534e33b9c90b88b6ef322e41c8eae6991a52769941e81227"
+    },
+    "variants/silver/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/1ce4f25fa7f68fd1556a0ab3ae0a51bf7487711a6ac5e57d66a9b3b8ba4dd288",
+      "checksum": "1ce4f25fa7f68fd1556a0ab3ae0a51bf7487711a6ac5e57d66a9b3b8ba4dd288"
+    },
+    "variants/fire/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f2bc0527dcdad97408518bca5fcc96704cb2724fec8249cbba9304e2bb37ed8e",
+      "checksum": "f2bc0527dcdad97408518bca5fcc96704cb2724fec8249cbba9304e2bb37ed8e"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/ca5769d7901e1f7e97d80b8b02ccb4f6cd6ff63bba310832174fbacb7ddbc327",
+      "checksum": "ca5769d7901e1f7e97d80b8b02ccb4f6cd6ff63bba310832174fbacb7ddbc327"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/36726c0926ec786e1abeb3b3ff14cd85da48a9cd3755390b75314f5d712b0734",
+      "checksum": "36726c0926ec786e1abeb3b3ff14cd85da48a9cd3755390b75314f5d712b0734"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "TEMPEST_FLIGHT",
+  "type": "ADVANCED",
+  "displayNames": {
+    "en_us": "Lightning Flight"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MAGIC"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "MOVEMENT": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 900,
+  "tier": "EPIC",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/7a7e2ace22af2256704ad098dc74d8c35b5d3128cf7d2aa5287a5842f18011ca",
+      "checksum": "7a7e2ace22af2256704ad098dc74d8c35b5d3128cf7d2aa5287a5842f18011ca"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/7dad76950a7b70b95252a63b0f1ab47b6c0bced36695c398abbed18491cdb976",
+      "checksum": "7dad76950a7b70b95252a63b0f1ab47b6c0bced36695c398abbed18491cdb976"
+    },
+    "particles/lightning.particle.json": {
+      "url": "https://cdn.essential.gg/assets/d98828caedd89f85c5f08bb75f94dd1aa6598f65df7b32857afd38fcc1d4f07d",
+      "checksum": "d98828caedd89f85c5f08bb75f94dd1aa6598f65df7b32857afd38fcc1d4f07d"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/7b9c38210c7206df54151e6b9f5dc48579dbfca5ef7f679d863f512195965aff",
+      "checksum": "7b9c38210c7206df54151e6b9f5dc48579dbfca5ef7f679d863f512195965aff"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/9c267a0e6cfdcdb6e69f30691bcb29a52773d966dc40017b942bf83d13de5808",
+      "checksum": "9c267a0e6cfdcdb6e69f30691bcb29a52773d966dc40017b942bf83d13de5808"
+    }
+  }
+}

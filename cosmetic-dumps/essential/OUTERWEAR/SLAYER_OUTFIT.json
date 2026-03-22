@@ -1,0 +1,63 @@
+{
+  "id": "SLAYER_OUTFIT",
+  "type": "OUTERWEAR",
+  "displayNames": {
+    "en_us": "Slayer Outfit"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FANTASY",
+    "COLLECTION_SEPTEMBER2025",
+    "SET_ANIME"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/goku/texture.png": {
+      "url": "https://cdn.essential.gg/assets/bdff2f28f6392de0874c4094f9b3c36530f2a9a687cd2fadfce49792d2c4b87f",
+      "checksum": "bdff2f28f6392de0874c4094f9b3c36530f2a9a687cd2fadfce49792d2c4b87f"
+    },
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/cd4bf19b2edfadc56d6b43a26e7f4d30b7258bc73d6bd1913a3996533fea0d19",
+      "checksum": "cd4bf19b2edfadc56d6b43a26e7f4d30b7258bc73d6bd1913a3996533fea0d19"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/22303b9016981e29b29ce576745afa865b4fcf90ca1581b8f0792fe7a8d4863c",
+      "checksum": "22303b9016981e29b29ce576745afa865b4fcf90ca1581b8f0792fe7a8d4863c"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/5b369b6a20f7a2f9d1a1385ef3a5019c3405be140c064f9768ac53b035d4b3df",
+      "checksum": "5b369b6a20f7a2f9d1a1385ef3a5019c3405be140c064f9768ac53b035d4b3df"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/e95d7d5c5bae43d017b44d836ea1947218e6153dbfce58e21dc8c94b72c5b5d6",
+      "checksum": "e95d7d5c5bae43d017b44d836ea1947218e6153dbfce58e21dc8c94b72c5b5d6"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/81f92f5a5fc80ca647d7528877d194abd88e5e4c8638e1f0a2e779dfc41d8b29",
+      "checksum": "81f92f5a5fc80ca647d7528877d194abd88e5e4c8638e1f0a2e779dfc41d8b29"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/dd649b2fd4ec94b509366cafe967703c8dc1e4403e5e607b8d2faec768ba393e",
+      "checksum": "dd649b2fd4ec94b509366cafe967703c8dc1e4403e5e607b8d2faec768ba393e"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/98a71b8c8e532c25badd188b4e9f62593f7a0efda64977ee5ac3be548050669c",
+      "checksum": "98a71b8c8e532c25badd188b4e9f62593f7a0efda64977ee5ac3be548050669c"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/f10d3e78939870cbab2a83522209750bfd2affc69f22b68e99a2e7f397a56de9",
+      "checksum": "f10d3e78939870cbab2a83522209750bfd2affc69f22b68e99a2e7f397a56de9"
+    },
+    "variants/eren/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0f774f61808103b6d8de6cc3138e1b894774085d8d0bdc5b90442d60b9a7fdf8",
+      "checksum": "0f774f61808103b6d8de6cc3138e1b894774085d8d0bdc5b90442d60b9a7fdf8"
+    }
+  }
+}

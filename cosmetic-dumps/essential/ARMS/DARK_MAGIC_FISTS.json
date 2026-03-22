@@ -1,0 +1,50 @@
+{
+  "id": "DARK_MAGIC_FISTS",
+  "type": "ARMS",
+  "displayNames": {
+    "en_us": "Dark Magic Fists"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FANTASY",
+    "THEME_MAGIC"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "ARMS": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/70f4427ccd01ab1b83b3f4dc3ad52ca5718be4dd4c683f2458f936388bd36c97",
+      "checksum": "70f4427ccd01ab1b83b3f4dc3ad52ca5718be4dd4c683f2458f936388bd36c97"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/2c9086f56efd312f5f06d9b734b4f419441e08bc98d33f1952a4a2ef7d8619f3",
+      "checksum": "2c9086f56efd312f5f06d9b734b4f419441e08bc98d33f1952a4a2ef7d8619f3"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/4ad210f422e488dcf8aa104dc6069eec9f68b3f0e76a23cc80d8f1bc0efd3946",
+      "checksum": "4ad210f422e488dcf8aa104dc6069eec9f68b3f0e76a23cc80d8f1bc0efd3946"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/4ad210f422e488dcf8aa104dc6069eec9f68b3f0e76a23cc80d8f1bc0efd3946",
+      "checksum": "4ad210f422e488dcf8aa104dc6069eec9f68b3f0e76a23cc80d8f1bc0efd3946"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/3dab47ceda2dd722750ca8136045a1d603dff3c195946683b5edcce5f6d3437b",
+      "checksum": "3dab47ceda2dd722750ca8136045a1d603dff3c195946683b5edcce5f6d3437b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/201915c4fccdf90af9ca4bef88d97e17750cfa252386938760f076214c17cb55",
+      "checksum": "201915c4fccdf90af9ca4bef88d97e17750cfa252386938760f076214c17cb55"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/c4867aa590083eb9544a3346cc60910f8b9cd8b68fe9c26ff2532232cffad473",
+      "checksum": "c4867aa590083eb9544a3346cc60910f8b9cd8b68fe9c26ff2532232cffad473"
+    }
+  }
+}

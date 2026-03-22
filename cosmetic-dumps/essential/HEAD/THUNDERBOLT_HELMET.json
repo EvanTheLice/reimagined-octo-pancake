@@ -1,0 +1,73 @@
+{
+  "id": "THUNDERBOLT_HELMET",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Lightning Helmet"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_JULY2025"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 32,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/c87e178c5d1e5a7e3579c56b0d5cc5783aacc76d17ce8cae366cffac251b75a1",
+      "checksum": "c87e178c5d1e5a7e3579c56b0d5cc5783aacc76d17ce8cae366cffac251b75a1"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/4af3e88dc98647cc195aecf23fc76800f8798b1c74c94a838d331ec5ba451c1f",
+      "checksum": "4af3e88dc98647cc195aecf23fc76800f8798b1c74c94a838d331ec5ba451c1f"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b6e2e23e77e6ce51f058c58cc070dbda1c08046105fd20ed2a4af95d284de525",
+      "checksum": "b6e2e23e77e6ce51f058c58cc070dbda1c08046105fd20ed2a4af95d284de525"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a3d5e1a2dd7c16f5487aba787dc034146f40a98dd4a34c6329f73dae7123be99",
+      "checksum": "a3d5e1a2dd7c16f5487aba787dc034146f40a98dd4a34c6329f73dae7123be99"
+    },
+    "variants/white/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/0e486a9235b10e270389dcb38ae007d135cc7e66ff101f07a8d374e7ab53333a",
+      "checksum": "0e486a9235b10e270389dcb38ae007d135cc7e66ff101f07a8d374e7ab53333a"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/f6afe9668098f3da3581d04c2621f840cdfe9caa9a79efe6652d5b2c1a7bfea4",
+      "checksum": "f6afe9668098f3da3581d04c2621f840cdfe9caa9a79efe6652d5b2c1a7bfea4"
+    },
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8ac7b18a3297cc5ba628dc8207ad6f65cf87eb608816ea84c1cb4882e95e791e",
+      "checksum": "8ac7b18a3297cc5ba628dc8207ad6f65cf87eb608816ea84c1cb4882e95e791e"
+    },
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/274438d97c9c3c47456acbb4afdd7f7827208b22670790a4e15264c33265739d",
+      "checksum": "274438d97c9c3c47456acbb4afdd7f7827208b22670790a4e15264c33265739d"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/0223f11a67ee10d4b56dd88e3a0868be554921c773b0538538b8c22dd05eb905",
+      "checksum": "0223f11a67ee10d4b56dd88e3a0868be554921c773b0538538b8c22dd05eb905"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/cfa3cdc3a4ad3110f7abf00e40485249ac5c6d16450ac9954533022e873f42e7",
+      "checksum": "cfa3cdc3a4ad3110f7abf00e40485249ac5c6d16450ac9954533022e873f42e7"
+    },
+    "variants/yellow/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/5bf0f2b344fd7ca89df49e66fe948ca28a8664cf01f5aae27502589610ec221f",
+      "checksum": "5bf0f2b344fd7ca89df49e66fe948ca28a8664cf01f5aae27502589610ec221f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7614eb49ad6da753ddb82c1aab7a59ebdb31fba8c6e792c20ad6b153f83c65d0",
+      "checksum": "7614eb49ad6da753ddb82c1aab7a59ebdb31fba8c6e792c20ad6b153f83c65d0"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    }
+  }
+}

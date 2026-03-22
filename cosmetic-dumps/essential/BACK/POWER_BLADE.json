@@ -1,0 +1,69 @@
+{
+  "id": "POWER_BLADE",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Energy Blade"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SCIFI"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/52a5ccc232e3b6d162fab69930ddfc2aeb7360a7248a02a47894c3d647f9fe6e",
+      "checksum": "52a5ccc232e3b6d162fab69930ddfc2aeb7360a7248a02a47894c3d647f9fe6e"
+    },
+    "variants/pink/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/6bdba084143124e1fb2beec575b6ba272d8625d8cea05f6066b4012f20353467",
+      "checksum": "6bdba084143124e1fb2beec575b6ba272d8625d8cea05f6066b4012f20353467"
+    },
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4ae6b4e55d64ebe63a8e81e97576960c5acc38e8f9b775750472f36c19e62c78",
+      "checksum": "4ae6b4e55d64ebe63a8e81e97576960c5acc38e8f9b775750472f36c19e62c78"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/24b537e174d73408a4891a090d2e1484ac3f3558ace846aa61fbe5d5787d00f1",
+      "checksum": "24b537e174d73408a4891a090d2e1484ac3f3558ace846aa61fbe5d5787d00f1"
+    },
+    "variants/red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/b97e66e955c25550898ab8875d7baf3dc11a60b4c5b01205552501a2f680bd63",
+      "checksum": "b97e66e955c25550898ab8875d7baf3dc11a60b4c5b01205552501a2f680bd63"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/c573b4f3c2a23aa7119153d23dbd3f95a7bab150b29e322d15b7c1c9b840c86f",
+      "checksum": "c573b4f3c2a23aa7119153d23dbd3f95a7bab150b29e322d15b7c1c9b840c86f"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0e2431c792dbb36f412ddf0afa1b3b65d937e2b270ae6509fdc623269c40515d",
+      "checksum": "0e2431c792dbb36f412ddf0afa1b3b65d937e2b270ae6509fdc623269c40515d"
+    },
+    "variants/white/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/ca8fba4d25e914bda762d0fbf13b59811daaa9d652692d8dc4c1ae5f62be1839",
+      "checksum": "ca8fba4d25e914bda762d0fbf13b59811daaa9d652692d8dc4c1ae5f62be1839"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/9a2ca7e664d07834fc24f2069a7cdcf11455aeaf6026f0313092d00ec2cb3feb",
+      "checksum": "9a2ca7e664d07834fc24f2069a7cdcf11455aeaf6026f0313092d00ec2cb3feb"
+    },
+    "variants/yellow/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/29293db7b9cfeb941f46264c5c0f2ba4e9e3c10700c2fd58bc2c03549ed61b57",
+      "checksum": "29293db7b9cfeb941f46264c5c0f2ba4e9e3c10700c2fd58bc2c03549ed61b57"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/c9846844711968b3acbda7465c5d454c82766d079e02902bcad9e94ddf654f39",
+      "checksum": "c9846844711968b3acbda7465c5d454c82766d079e02902bcad9e94ddf654f39"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/092e255f6eaa9314bf0fd18cba27c64e0618db061a8a8c1ac29255ceef08ca42",
+      "checksum": "092e255f6eaa9314bf0fd18cba27c64e0618db061a8a8c1ac29255ceef08ca42"
+    }
+  }
+}

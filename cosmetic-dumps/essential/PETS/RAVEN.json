@@ -1,0 +1,46 @@
+{
+  "id": "RAVEN",
+  "type": "PETS",
+  "displayNames": {
+    "en_us": "Raven"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL",
+    "THEME_HALLOWEEN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/89eef5842fa75bb968a3e71fef6ece7d8d8930094c2c2de91d66c0e0dbc56290",
+      "checksum": "89eef5842fa75bb968a3e71fef6ece7d8d8930094c2c2de91d66c0e0dbc56290"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d03ad74f1e3c344acce862b930680b51221d7074fc8e8469920d169290fb3d9c",
+      "checksum": "d03ad74f1e3c344acce862b930680b51221d7074fc8e8469920d169290fb3d9c"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7f0582f49097ad24e362d338f9cf2e1b091d9171453e478d1177162dd78fb2f0",
+      "checksum": "7f0582f49097ad24e362d338f9cf2e1b091d9171453e478d1177162dd78fb2f0"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8667a0d5c9b6b530bc222dd2ff874398c0e5addff78bae4fc57a012d835b2aa7",
+      "checksum": "8667a0d5c9b6b530bc222dd2ff874398c0e5addff78bae4fc57a012d835b2aa7"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/191c54935937fed6bfa5c7bee3b800d44f8104a9a0a817601cff0c8486589c20",
+      "checksum": "191c54935937fed6bfa5c7bee3b800d44f8104a9a0a817601cff0c8486589c20"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/e785c32bfa868496d672fa17ee6d70115aaaf56aa2e033793b31c43f1e7297bc",
+      "checksum": "e785c32bfa868496d672fa17ee6d70115aaaf56aa2e033793b31c43f1e7297bc"
+    }
+  }
+}

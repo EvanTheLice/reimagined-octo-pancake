@@ -1,0 +1,46 @@
+{
+  "id": "PANTS",
+  "type": "PANTS",
+  "displayNames": {
+    "en_us": "Pants"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PANTS": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/beige/texture.png": {
+      "url": "https://cdn.essential.gg/assets/91907a89ad34f2ec73566144f61e20c8cf9aa1d3ff05d6b14793d0df31f4b0e8",
+      "checksum": "91907a89ad34f2ec73566144f61e20c8cf9aa1d3ff05d6b14793d0df31f4b0e8"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/93affe8c6958400ee003babf27fa68a843705550140d367c8808c65223ca9f3e",
+      "checksum": "93affe8c6958400ee003babf27fa68a843705550140d367c8808c65223ca9f3e"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/78dadeac731e0dda3288ba2fdfc1727e5ff516ad85150efb251b566d650b6d26",
+      "checksum": "78dadeac731e0dda3288ba2fdfc1727e5ff516ad85150efb251b566d650b6d26"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/9ef631a7dd73c860502b02b6bd797df00283332f93cdc04b39ff61af45a6ab10",
+      "checksum": "9ef631a7dd73c860502b02b6bd797df00283332f93cdc04b39ff61af45a6ab10"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a377899b137891693311751199f2f4297f02766435665a8fc9a593fca73a1278",
+      "checksum": "a377899b137891693311751199f2f4297f02766435665a8fc9a593fca73a1278"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/72f617138d8a8ef2d2aac1c5977723b1c023a261abb8873b5a15f6163a0b6cd8",
+      "checksum": "72f617138d8a8ef2d2aac1c5977723b1c023a261abb8873b5a15f6163a0b6cd8"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/503a510c65fd8ee3a34da6ba447e602b96820b12d2bc86760a33ab2ffef5272f",
+      "checksum": "503a510c65fd8ee3a34da6ba447e602b96820b12d2bc86760a33ab2ffef5272f"
+    }
+  }
+}

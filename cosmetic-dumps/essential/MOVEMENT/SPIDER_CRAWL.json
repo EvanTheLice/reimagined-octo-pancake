@@ -1,0 +1,30 @@
+{
+  "id": "SPIDER_CRAWL",
+  "type": "MOVEMENT",
+  "displayNames": {
+    "en_us": "Spider Crawl"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HORROR",
+    "THEME_HALLOWEEN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "MOVEMENT": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 1200,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/67061c89ee6942918faf591c6a57701476d29dc989ab13cf9f10f71032d60806",
+      "checksum": "67061c89ee6942918faf591c6a57701476d29dc989ab13cf9f10f71032d60806"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e",
+      "checksum": "7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e"
+    }
+  }
+}

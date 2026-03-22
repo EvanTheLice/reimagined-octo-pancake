@@ -1,0 +1,60 @@
+{
+  "id": "SPARKLE_TRAIL",
+  "type": "PARTICLES",
+  "displayNames": {
+    "en_us": "Glitter Aura"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MAGIC",
+    "THEME_PRETTY",
+    "THEME_GOLDEN",
+    "THEME_FAIRY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f653c64f8121ea457119857e9320cfd4200249e7742c281d24b15adf44320594",
+      "checksum": "f653c64f8121ea457119857e9320cfd4200249e7742c281d24b15adf44320594"
+    },
+    "variants/light_green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e71ab1bb732fa9aaf2d8a948eeaa5c48e5b536df84f7fccd087a42f74a5ab000",
+      "checksum": "e71ab1bb732fa9aaf2d8a948eeaa5c48e5b536df84f7fccd087a42f74a5ab000"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/70a19dd2de9e97d90863c6229fbe74871a65c12a560d8affb0c26416e788aca7",
+      "checksum": "70a19dd2de9e97d90863c6229fbe74871a65c12a560d8affb0c26416e788aca7"
+    },
+    "particles/sparkle_trail.particle.json": {
+      "url": "https://cdn.essential.gg/assets/1c1fe0c7400716940783c1709de70db55f97ef8b6151f4fc1be6934659cbbe3e",
+      "checksum": "1c1fe0c7400716940783c1709de70db55f97ef8b6151f4fc1be6934659cbbe3e"
+    },
+    "variants/gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5ba71db1b286895d425cc090ab4edbe5cbaaa4059e257ba857513e921580c80a",
+      "checksum": "5ba71db1b286895d425cc090ab4edbe5cbaaa4059e257ba857513e921580c80a"
+    },
+    "variants/rainbow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/44bf4d3135349eeb6fc54b5685e73d6c9a07f144c718fd3c0630060ef3b6ea4d",
+      "checksum": "44bf4d3135349eeb6fc54b5685e73d6c9a07f144c718fd3c0630060ef3b6ea4d"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2cc60d4ea6d7c40daf86c2ad9803da30a2036036ae4f054ae1e9015e05236918",
+      "checksum": "2cc60d4ea6d7c40daf86c2ad9803da30a2036036ae4f054ae1e9015e05236918"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/00901427cfc4d3607440625b8149c434126ae23cb986c1229191d4c3b4190b65",
+      "checksum": "00901427cfc4d3607440625b8149c434126ae23cb986c1229191d4c3b4190b65"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7854f3d45139fdfa3a47596dcdaaedcc920a588f4b6ecfcb12d2a163fc924e10",
+      "checksum": "7854f3d45139fdfa3a47596dcdaaedcc920a588f4b6ecfcb12d2a163fc924e10"
+    }
+  }
+}

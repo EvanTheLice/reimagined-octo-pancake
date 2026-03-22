@@ -1,0 +1,81 @@
+{
+  "id": "FIRE_FISTS_REMASTER",
+  "type": "ARMS",
+  "displayNames": {
+    "en_us": "Fire Fists"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FIRE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "ARMS": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/pink/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/5ab5660b9c4b9823ab99f64b9bbcf70c4e52f4d2fd89bae82118d1dfb923b341",
+      "checksum": "5ab5660b9c4b9823ab99f64b9bbcf70c4e52f4d2fd89bae82118d1dfb923b341"
+    },
+    "variants/soulfire/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d81577043d26d1c80ed577fe90a73d3879d0c774264b628470d2931bcaf91761",
+      "checksum": "d81577043d26d1c80ed577fe90a73d3879d0c774264b628470d2931bcaf91761"
+    },
+    "variants/soulfire/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/d9330641c85df247e04614055b97ff21798939efab884b8f4d5f1a872c17a3ae",
+      "checksum": "d9330641c85df247e04614055b97ff21798939efab884b8f4d5f1a872c17a3ae"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/29c6d0c131b41856733c2f15f8307a3f13086b88b46a12c76a4e1540dc8823e5",
+      "checksum": "29c6d0c131b41856733c2f15f8307a3f13086b88b46a12c76a4e1540dc8823e5"
+    },
+    "variants/fire/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/ed6fff24eb469836361ee137e59a98317ab0851dac6e04b2e6bc8342583dadf8",
+      "checksum": "ed6fff24eb469836361ee137e59a98317ab0851dac6e04b2e6bc8342583dadf8"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/890d873797ee63e7a221d7b63e35f469471bf06cf558bb4a885b7c085101fb24",
+      "checksum": "890d873797ee63e7a221d7b63e35f469471bf06cf558bb4a885b7c085101fb24"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/edb7589edf03e1217c075e17379e2283b4231f859db83326bf6794a79fbde96a",
+      "checksum": "edb7589edf03e1217c075e17379e2283b4231f859db83326bf6794a79fbde96a"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/00cd657adbc5e0bebb8d881187cc959c5569a209a3c1397fb89e526c4ebec982",
+      "checksum": "00cd657adbc5e0bebb8d881187cc959c5569a209a3c1397fb89e526c4ebec982"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/a0f99b06b70acd205a57fc1e4dae717680ff418005817b24470795ccc666c317",
+      "checksum": "a0f99b06b70acd205a57fc1e4dae717680ff418005817b24470795ccc666c317"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/d36183162e3f484c04d004acf3a5048e846a7acdd5ce5088e73926e41127be71",
+      "checksum": "d36183162e3f484c04d004acf3a5048e846a7acdd5ce5088e73926e41127be71"
+    },
+    "variants/fire/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d63a9eda22c85427991c3be7e3bb5498408ecca52a40019692d431ee1252e704",
+      "checksum": "d63a9eda22c85427991c3be7e3bb5498408ecca52a40019692d431ee1252e704"
+    },
+    "variants/green/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/9d85d31a57bc84ed98ae2a43a5e45b35449ec36801173d00841e0f51b5a63a0c",
+      "checksum": "9d85d31a57bc84ed98ae2a43a5e45b35449ec36801173d00841e0f51b5a63a0c"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/29e530805c0519d376b55875f1e5f142bf3b4e28bd2f1402307b0415fbc6ba1b",
+      "checksum": "29e530805c0519d376b55875f1e5f142bf3b4e28bd2f1402307b0415fbc6ba1b"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/cc88c341f7d2c66f6301f0ae8e66eb19b02d7077808f6fd3e56aba99cc2a8036",
+      "checksum": "cc88c341f7d2c66f6301f0ae8e66eb19b02d7077808f6fd3e56aba99cc2a8036"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/87a67c2bda7f70e41ef7264a8f5c4499db0e07f7ecf59179e00073a652d8d6e5",
+      "checksum": "87a67c2bda7f70e41ef7264a8f5c4499db0e07f7ecf59179e00073a652d8d6e5"
+    }
+  }
+}

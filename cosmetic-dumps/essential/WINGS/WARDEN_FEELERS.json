@@ -1,0 +1,72 @@
+{
+  "id": "WARDEN_FEELERS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Warden Crawlers"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_WARDEN",
+    "SET_WARDEN",
+    "THEME_HORROR",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/dbaf1f558d46343a50f4ab4ea7184983563afc92951b5db2a584e56340ed1c67",
+      "checksum": "dbaf1f558d46343a50f4ab4ea7184983563afc92951b5db2a584e56340ed1c67"
+    },
+    "variants/pink/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/498d1c95479206a31048527a225318c00eb2d9b750ceb7f05b2d60cec413b20f",
+      "checksum": "498d1c95479206a31048527a225318c00eb2d9b750ceb7f05b2d60cec413b20f"
+    },
+    "particles/feeler_dust.particle.json": {
+      "url": "https://cdn.essential.gg/assets/fc4f2134a1b480e7f6c79507f50e024ddb729224689affe31193190a1955565d",
+      "checksum": "fc4f2134a1b480e7f6c79507f50e024ddb729224689affe31193190a1955565d"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/99b1eed953a38252f2a89e660b390138694eb8ec15ce590e609da008fb275859",
+      "checksum": "99b1eed953a38252f2a89e660b390138694eb8ec15ce590e609da008fb275859"
+    },
+    "variants/red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/e5bb47e807cbb1fda7a28f682d3ed0e02fa178852b40d4e95feab0f28ca7169a",
+      "checksum": "e5bb47e807cbb1fda7a28f682d3ed0e02fa178852b40d4e95feab0f28ca7169a"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/572f198b23c1ac5b45b3637545f5bf95332766346589c5e018e03cfb8857bd20",
+      "checksum": "572f198b23c1ac5b45b3637545f5bf95332766346589c5e018e03cfb8857bd20"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6fbf25e23b6d5a6fd1cfad85798a0c9d57a58b57f92fa7f17ed3a41602ee7973",
+      "checksum": "6fbf25e23b6d5a6fd1cfad85798a0c9d57a58b57f92fa7f17ed3a41602ee7973"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/1620c2ace997256658119154fb5657c1f107738ba46fe53506fd6ede2a3fa48b",
+      "checksum": "1620c2ace997256658119154fb5657c1f107738ba46fe53506fd6ede2a3fa48b"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/4727f25cce095adebc8fda7d3fdf2279d4e7b79a65d864ba1b90238488762566",
+      "checksum": "4727f25cce095adebc8fda7d3fdf2279d4e7b79a65d864ba1b90238488762566"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/9c95cb2f30788d53c8978d9a2c5bf9508da02ad8315b81274e86f0e4248c0125",
+      "checksum": "9c95cb2f30788d53c8978d9a2c5bf9508da02ad8315b81274e86f0e4248c0125"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/bd71b308fca9f8e11cc54fcf2bd6fed4c34ee09643b14ccae0a55845fb3fa6eb",
+      "checksum": "bd71b308fca9f8e11cc54fcf2bd6fed4c34ee09643b14ccae0a55845fb3fa6eb"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/02f69a9403511c148892d562205e2c51904dd93daa8767c5b72cee1c9c0d41cf",
+      "checksum": "02f69a9403511c148892d562205e2c51904dd93daa8767c5b72cee1c9c0d41cf"
+    }
+  }
+}

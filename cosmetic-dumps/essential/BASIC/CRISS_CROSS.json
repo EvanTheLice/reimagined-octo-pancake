@@ -1,0 +1,45 @@
+{
+  "id": "CRISS_CROSS",
+  "type": "BASIC",
+  "displayNames": {
+    "en_us": "Criss Cross Applesauce"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_NOVEMBER2025",
+    "THEME_Y2K",
+    "THEME_CUTE",
+    "THEME_SPRING",
+    "THEME_FURRY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BASIC": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/ff2dcc04efaa35a4b58932a56397ea741037ad48b591005e09a487e6c782f30f",
+      "checksum": "ff2dcc04efaa35a4b58932a56397ea741037ad48b591005e09a487e6c782f30f"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/92c36307654a38168f94f2cd221e33034f923d981f845650a7dc44368e75b1ea",
+      "checksum": "92c36307654a38168f94f2cd221e33034f923d981f845650a7dc44368e75b1ea"
+    },
+    "sounds/em_applesauce.ogg": {
+      "url": "https://cdn.essential.gg/assets/d6bdd81e3d10c48d56a17a36f442ab2be298fe83c31ff1b4fc8a58aefbd5786f",
+      "checksum": "d6bdd81e3d10c48d56a17a36f442ab2be298fe83c31ff1b4fc8a58aefbd5786f"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/cd293f71ddf4635deb3e446993112a36e6be6925ef41446f87023cafe13e3f56",
+      "checksum": "cd293f71ddf4635deb3e446993112a36e6be6925ef41446f87023cafe13e3f56"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/84a8f7e86a5befcc8f7d91d28f54116ebcfd08efe48c32884a74d01417256b4a",
+      "checksum": "84a8f7e86a5befcc8f7d91d28f54116ebcfd08efe48c32884a74d01417256b4a"
+    }
+  }
+}

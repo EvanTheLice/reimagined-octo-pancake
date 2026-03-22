@@ -1,0 +1,41 @@
+{
+  "id": "BEE",
+  "type": "PETS",
+  "displayNames": {
+    "en_us": "Bee"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL",
+    "THEME_BUG",
+    "THEME_CUTE",
+    "THEME_MINECRAFT",
+    "THEME_SPRING"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/2e08afd0ba8885b1e997c3aabc41d5e74933968eafc5dd8d1543f405f23f6e3e",
+      "checksum": "2e08afd0ba8885b1e997c3aabc41d5e74933968eafc5dd8d1543f405f23f6e3e"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/78da586b3b6b4974dd775cf741cce48b45fe3a8d9b79672ffed5bb5d4f307827",
+      "checksum": "78da586b3b6b4974dd775cf741cce48b45fe3a8d9b79672ffed5bb5d4f307827"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/93c646f5bd4c0033fbb84839464f8bae9d79c3a63d8471d670262de5e1d78bbc",
+      "checksum": "93c646f5bd4c0033fbb84839464f8bae9d79c3a63d8471d670262de5e1d78bbc"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/2c6a7bc08f9a7f025e464e130b0b04d92afb403810ce129d401deb1cbc3639b4",
+      "checksum": "2c6a7bc08f9a7f025e464e130b0b04d92afb403810ce129d401deb1cbc3639b4"
+    }
+  }
+}

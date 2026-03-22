@@ -1,0 +1,46 @@
+{
+  "id": "OCEAN_AURA",
+  "type": "PARTICLES",
+  "displayNames": {
+    "en_us": "Ocean Aura"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL",
+    "THEME_AQUATIC"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "particles/ocean_aura_fish_trail.particle.json": {
+      "url": "https://cdn.essential.gg/assets/2a23ec17839c91cc1c8584fe0ace0a46aade74c8ad87f2a0e5bedb3c1f451cc0",
+      "checksum": "2a23ec17839c91cc1c8584fe0ace0a46aade74c8ad87f2a0e5bedb3c1f451cc0"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/23827d107979602648abed8b3d9ba7e415e47f524a4ad9940b287bfd1fca0cb5",
+      "checksum": "23827d107979602648abed8b3d9ba7e415e47f524a4ad9940b287bfd1fca0cb5"
+    },
+    "particles/ocean_aura_sparkles.particle.json": {
+      "url": "https://cdn.essential.gg/assets/bc6a74c54f1301fb59aee2feb21ee7715bfe586f7e63dcceb8573ed53d16b87d",
+      "checksum": "bc6a74c54f1301fb59aee2feb21ee7715bfe586f7e63dcceb8573ed53d16b87d"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/323778839099cf943bc5f5737c0d15d6ed5a66d4508417d899f029a12f0af6f9",
+      "checksum": "323778839099cf943bc5f5737c0d15d6ed5a66d4508417d899f029a12f0af6f9"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/bae43e192bc8f5826b78a53986baf47f068bb16acf28365a82a83a97c51d5b93",
+      "checksum": "bae43e192bc8f5826b78a53986baf47f068bb16acf28365a82a83a97c51d5b93"
+    },
+    "particles/ocean_aura_bubbles.particle.json": {
+      "url": "https://cdn.essential.gg/assets/3f4eb6ddedbf4b7c1adba7c5af02bc96032de84e99c8e94f7c992f67f5088c8d",
+      "checksum": "3f4eb6ddedbf4b7c1adba7c5af02bc96032de84e99c8e94f7c992f67f5088c8d"
+    }
+  }
+}

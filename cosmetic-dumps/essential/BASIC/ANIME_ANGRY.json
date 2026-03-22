@@ -1,0 +1,64 @@
+{
+  "id": "ANIME_ANGRY",
+  "type": "BASIC",
+  "displayNames": {
+    "en_us": "Anime Furious"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_SEPTEMBER2025",
+    "SET_ANIME",
+    "PREVIOUSLY_UNPOPULAR",
+    "THEME_ANIME"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BASIC": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "particles/stomp_dust.particle.json": {
+      "url": "https://cdn.essential.gg/assets/b4ea14ffcac5166e05d72933d586677119ae61c554fb417979809eb322d1bf8a",
+      "checksum": "b4ea14ffcac5166e05d72933d586677119ae61c554fb417979809eb322d1bf8a"
+    },
+    "particles/anime_angry_symbol.particle.json": {
+      "url": "https://cdn.essential.gg/assets/dc8b60ba1b6eb7c70db7abf7f05c6b643e9d7d21cf6186db426299dbbaf9a747",
+      "checksum": "dc8b60ba1b6eb7c70db7abf7f05c6b643e9d7d21cf6186db426299dbbaf9a747"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/f4238673e83f63bf5cc33fa15b337558b76474f2d7493af7b4037fa2956f3bff",
+      "checksum": "f4238673e83f63bf5cc33fa15b337558b76474f2d7493af7b4037fa2956f3bff"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/92c36307654a38168f94f2cd221e33034f923d981f845650a7dc44368e75b1ea",
+      "checksum": "92c36307654a38168f94f2cd221e33034f923d981f845650a7dc44368e75b1ea"
+    },
+    "particles/slow_steam_lines.particle.json": {
+      "url": "https://cdn.essential.gg/assets/a9510f0eeba4e9b0b5303dc299a887a5dec64ec97ec3abae5a198decc01d2719",
+      "checksum": "a9510f0eeba4e9b0b5303dc299a887a5dec64ec97ec3abae5a198decc01d2719"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/ff07fd4d517038306b5464be36dc74ec648c7f88f27e9779f63d7398c0f9620c",
+      "checksum": "ff07fd4d517038306b5464be36dc74ec648c7f88f27e9779f63d7398c0f9620c"
+    },
+    "particles/angry_steam.particle.json": {
+      "url": "https://cdn.essential.gg/assets/63eb4d746f6cda852e2e2bba218ee57146ef4b73b24cfdf082b971eb25c910a9",
+      "checksum": "63eb4d746f6cda852e2e2bba218ee57146ef4b73b24cfdf082b971eb25c910a9"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/c25617ce71e618135b4bbad89f0e6a4ecf02799fcf0432b059b3179cb488ffe1",
+      "checksum": "c25617ce71e618135b4bbad89f0e6a4ecf02799fcf0432b059b3179cb488ffe1"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/6ac464fc907b592548b7ee0f63c5e5b2a5e086121cbfc37dbc5da4d69cb0626e",
+      "checksum": "6ac464fc907b592548b7ee0f63c5e5b2a5e086121cbfc37dbc5da4d69cb0626e"
+    },
+    "sounds/em_anime_angry.ogg": {
+      "url": "https://cdn.essential.gg/assets/c56360f0c30f91185835f5611d3b9dc4c7479e7493dfaa2089dbdd3032db2796",
+      "checksum": "c56360f0c30f91185835f5611d3b9dc4c7479e7493dfaa2089dbdd3032db2796"
+    }
+  }
+}

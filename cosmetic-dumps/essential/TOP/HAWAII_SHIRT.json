@@ -1,0 +1,54 @@
+{
+  "id": "HAWAII_SHIRT",
+  "type": "TOP",
+  "displayNames": {
+    "en_us": "Tropical Shirt"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "TOP": 20
+  },
+  "defaultSortWeight": 12,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/84edee30f82eeffe1ce7f9fe7a522efc95ec9bc2f232b3ad252cdecbef81b1be",
+      "checksum": "84edee30f82eeffe1ce7f9fe7a522efc95ec9bc2f232b3ad252cdecbef81b1be"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/b937919f3bc9048455794912ee4c266c14a4fd2e4a9e61f709361f8e7747694c",
+      "checksum": "b937919f3bc9048455794912ee4c266c14a4fd2e4a9e61f709361f8e7747694c"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/74fc898e0929a06fe9cf26a7c95db6fdfc74008822d70ff0fe11c5405fbd2c0b",
+      "checksum": "74fc898e0929a06fe9cf26a7c95db6fdfc74008822d70ff0fe11c5405fbd2c0b"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/5ce68f62e02461be54aba28f75109d68f704b3d202643641168f841efe44592b",
+      "checksum": "5ce68f62e02461be54aba28f75109d68f704b3d202643641168f841efe44592b"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ec7061f6e6bb3a55293d2322d919f67ee2727c6f1df331faaaa2eb34fe7eefe4",
+      "checksum": "ec7061f6e6bb3a55293d2322d919f67ee2727c6f1df331faaaa2eb34fe7eefe4"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/18088f810860067b304a1ff8718f74c2125dc8c64a7e0624e8d4eb095dc75a88",
+      "checksum": "18088f810860067b304a1ff8718f74c2125dc8c64a7e0624e8d4eb095dc75a88"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/72189480892c7d5c918e693fc8c177e91fb2c594e6ef9f7577e733460507ddb2",
+      "checksum": "72189480892c7d5c918e693fc8c177e91fb2c594e6ef9f7577e733460507ddb2"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d0499d66614621b66e6593be22f25aa4d0e8bb6ba7b668459ebf12eedc561afd",
+      "checksum": "d0499d66614621b66e6593be22f25aa4d0e8bb6ba7b668459ebf12eedc561afd"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d4e2cdf4cf2de159023f5607946c3f235f56c28aadb8ade73257c80d7c5de397",
+      "checksum": "d4e2cdf4cf2de159023f5607946c3f235f56c28aadb8ade73257c80d7c5de397"
+    }
+  }
+}

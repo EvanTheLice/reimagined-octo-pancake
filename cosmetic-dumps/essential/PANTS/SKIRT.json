@@ -1,0 +1,42 @@
+{
+  "id": "SKIRT",
+  "type": "PANTS",
+  "displayNames": {
+    "en_us": "Skirt"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PANTS": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/9547a21d62246ef01c87c96288fd7d3c134c21da9a6da3e6c7069a01c8cb49ff",
+      "checksum": "9547a21d62246ef01c87c96288fd7d3c134c21da9a6da3e6c7069a01c8cb49ff"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/3b913ecd3dbdda530b197759d7b9fff0d9cd00fc983fe5c7f072e5e7025939c8",
+      "checksum": "3b913ecd3dbdda530b197759d7b9fff0d9cd00fc983fe5c7f072e5e7025939c8"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/97b4fc8d4c7c5e2ef5c8d75de399745ed5ba21413e7bc92c9cb103d00699ba66",
+      "checksum": "97b4fc8d4c7c5e2ef5c8d75de399745ed5ba21413e7bc92c9cb103d00699ba66"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6162742d10da44d944fe7a029af0763eb76f60c8e66bc66228d5d618b1042b0f",
+      "checksum": "6162742d10da44d944fe7a029af0763eb76f60c8e66bc66228d5d618b1042b0f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/07c2019b0cf41d5fb8cfb27fe90bfe437246bb24a3bc27ce86c6ab4632ce1804",
+      "checksum": "07c2019b0cf41d5fb8cfb27fe90bfe437246bb24a3bc27ce86c6ab4632ce1804"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/d4d76c4dc6187bc5df1b60368124859811eb234ebace8a9da0086cb7809a4183",
+      "checksum": "d4d76c4dc6187bc5df1b60368124859811eb234ebace8a9da0086cb7809a4183"
+    }
+  }
+}

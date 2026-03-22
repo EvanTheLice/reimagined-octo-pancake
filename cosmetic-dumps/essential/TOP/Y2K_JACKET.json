@@ -1,0 +1,66 @@
+{
+  "id": "Y2K_JACKET",
+  "type": "TOP",
+  "displayNames": {
+    "en_us": "Puffer Jacket"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_PUNK",
+    "COLLECTION_JUNE2025"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "TOP": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/gray/texture.png": {
+      "url": "https://cdn.essential.gg/assets/fe0b136acd003346b49a53d8c1e5a6d7f075013920548badb4ad42d55c2b33da",
+      "checksum": "fe0b136acd003346b49a53d8c1e5a6d7f075013920548badb4ad42d55c2b33da"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/a10239eaeabb94d74207078aeee555818444b399ddc5ff72e9f38ebe049af972",
+      "checksum": "a10239eaeabb94d74207078aeee555818444b399ddc5ff72e9f38ebe049af972"
+    },
+    "variants/orange/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8ef50c25a7cd0f0c378de2bc26edf23b921c0f2b2395c8e9a22595c3e90de0d9",
+      "checksum": "8ef50c25a7cd0f0c378de2bc26edf23b921c0f2b2395c8e9a22595c3e90de0d9"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/9d32a18b749d85ebc158dcce304c552a0a7651138361bce1cf2ad836393cf6f0",
+      "checksum": "9d32a18b749d85ebc158dcce304c552a0a7651138361bce1cf2ad836393cf6f0"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/0348653599756b529d3d60f1d5a7a1fa000901b5955e572ddf7d2a4ff6f75f63",
+      "checksum": "0348653599756b529d3d60f1d5a7a1fa000901b5955e572ddf7d2a4ff6f75f63"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/dff003af627aa0e30b40e7a1403ad33888859155e344efe1771a28958917fde4",
+      "checksum": "dff003af627aa0e30b40e7a1403ad33888859155e344efe1771a28958917fde4"
+    },
+    "variants/emerald/texture.png": {
+      "url": "https://cdn.essential.gg/assets/51c2e0f68bc46f1325229a434d3e96beb17159db5bc9cdd4f0c4c619faa2a046",
+      "checksum": "51c2e0f68bc46f1325229a434d3e96beb17159db5bc9cdd4f0c4c619faa2a046"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b87a5ae995c5fd8a13e6cfb2be662b185cbf0d6e704d38ebda16dc421a09ccb1",
+      "checksum": "b87a5ae995c5fd8a13e6cfb2be662b185cbf0d6e704d38ebda16dc421a09ccb1"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/638848f768680bf32426539e5fa081eacd27cbe3746f5488cd9093d4b3cdc6bc",
+      "checksum": "638848f768680bf32426539e5fa081eacd27cbe3746f5488cd9093d4b3cdc6bc"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/3facfc6ff25b01681c8c14f70c28ea4fd0ae9eb62d459db58181e413bb647d72",
+      "checksum": "3facfc6ff25b01681c8c14f70c28ea4fd0ae9eb62d459db58181e413bb647d72"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5b4f3c046b336bcf7923514b82b82f4798507be39d728825c0fbbc91d81d38e1",
+      "checksum": "5b4f3c046b336bcf7923514b82b82f4798507be39d728825c0fbbc91d81d38e1"
+    }
+  }
+}

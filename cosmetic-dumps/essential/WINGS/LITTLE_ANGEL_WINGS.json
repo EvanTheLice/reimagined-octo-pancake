@@ -1,0 +1,41 @@
+{
+  "id": "LITTLE_ANGEL_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Little Angel Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANGEL"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/897002a6267e3d022ce2d9a799eae143d734c85edb0dee2d0e26a71885c823d6",
+      "checksum": "897002a6267e3d022ce2d9a799eae143d734c85edb0dee2d0e26a71885c823d6"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7b28311690eb7245c2548091f8d9760b3295b9b46e1e96c3d655b50fb7180b07",
+      "checksum": "7b28311690eb7245c2548091f8d9760b3295b9b46e1e96c3d655b50fb7180b07"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/77ce84d397b0b3e5f579e1a3add845d06d43d82f3563da9e573b5417a73df250",
+      "checksum": "77ce84d397b0b3e5f579e1a3add845d06d43d82f3563da9e573b5417a73df250"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/f58f5855497cdbfa337a8a18360578076e6448c55189c17240e553d19d47ed6d",
+      "checksum": "f58f5855497cdbfa337a8a18360578076e6448c55189c17240e553d19d47ed6d"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/e1f44c5f00dc0f3bf29a9ab03bc5394a646cb3442cde863ab300f33e4e7441e5",
+      "checksum": "e1f44c5f00dc0f3bf29a9ab03bc5394a646cb3442cde863ab300f33e4e7441e5"
+    }
+  }
+}

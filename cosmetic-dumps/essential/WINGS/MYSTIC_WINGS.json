@@ -1,0 +1,69 @@
+{
+  "id": "MYSTIC_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Heart Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_VALENTINES",
+    "COLLECTION_SEPTEMBER2025",
+    "SET_ANIME",
+    "THEME_BUG",
+    "THEME_CUTE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "variants/pastel_pink/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/e5dba9ba587c9eab2e8de11f89aab5f8e0f47ae4ec54f887d95d39d7bd2c9377",
+      "checksum": "e5dba9ba587c9eab2e8de11f89aab5f8e0f47ae4ec54f887d95d39d7bd2c9377"
+    },
+    "variants/blue_green_purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/07f6f8155d0d9a9ae4309b61d6602e3f5ef1bda1f77cf058555493b3e152043c",
+      "checksum": "07f6f8155d0d9a9ae4309b61d6602e3f5ef1bda1f77cf058555493b3e152043c"
+    },
+    "variants/blue_green_purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/61b042088eaa26f7d1acca83a25894e0d20c6a74b0c1007dd3767625a23908b9",
+      "checksum": "61b042088eaa26f7d1acca83a25894e0d20c6a74b0c1007dd3767625a23908b9"
+    },
+    "variants/purple_blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/504ae5ae0d22523a5a9912c9b625320591eefdfb386d76fdfcd616804411e809",
+      "checksum": "504ae5ae0d22523a5a9912c9b625320591eefdfb386d76fdfcd616804411e809"
+    },
+    "variants/red_orange/texture.png": {
+      "url": "https://cdn.essential.gg/assets/43b8a3245a7d8c90764da2c6aaa0d79396796f6e71a82f856b1403ef8d429a09",
+      "checksum": "43b8a3245a7d8c90764da2c6aaa0d79396796f6e71a82f856b1403ef8d429a09"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/a6e45711e26325338d1714d17274e22d546045d04012b2470edc6d66b1c65610",
+      "checksum": "a6e45711e26325338d1714d17274e22d546045d04012b2470edc6d66b1c65610"
+    },
+    "variants/red_orange/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/70421d1146457511e8215b67327fe361e006b67b32cea1d96854088d4ab5e404",
+      "checksum": "70421d1146457511e8215b67327fe361e006b67b32cea1d96854088d4ab5e404"
+    },
+    "variants/pastel_pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e54646e5c3617eea1caca4a57571e87ef76217578b0159c773bf1e6c19e71d91",
+      "checksum": "e54646e5c3617eea1caca4a57571e87ef76217578b0159c773bf1e6c19e71d91"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/1f8536785e5670030aa18bdef5c712648a8d52c50270925d0f32194b3fedcc79",
+      "checksum": "1f8536785e5670030aa18bdef5c712648a8d52c50270925d0f32194b3fedcc79"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/5c020da523e3f9bd655c1e6aa282d3971023f61a05061e0b01bd29f44c8835d2",
+      "checksum": "5c020da523e3f9bd655c1e6aa282d3971023f61a05061e0b01bd29f44c8835d2"
+    },
+    "variants/purple_blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/974d2d7d880ae3733f496011d1aecc57263acf51bc370242553001a5d55e48e9",
+      "checksum": "974d2d7d880ae3733f496011d1aecc57263acf51bc370242553001a5d55e48e9"
+    }
+  }
+}

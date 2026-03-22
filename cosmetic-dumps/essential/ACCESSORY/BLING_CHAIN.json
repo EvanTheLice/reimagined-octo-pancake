@@ -1,0 +1,48 @@
+{
+  "id": "BLING_CHAIN",
+  "type": "ACCESSORY",
+  "displayNames": {
+    "en_us": "Bling Chain"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_GOLDEN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "TOP": 20
+  },
+  "defaultSortWeight": 13,
+  "priceCoins": 300,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/117b557f6f5636c5650a5f7d45074455036e5f01cc3dde6d026b693ec86a2419",
+      "checksum": "117b557f6f5636c5650a5f7d45074455036e5f01cc3dde6d026b693ec86a2419"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/cd9dfe0fef2948472ece451305db9f9f56ae245d20818142f69f2227aacd83a0",
+      "checksum": "cd9dfe0fef2948472ece451305db9f9f56ae245d20818142f69f2227aacd83a0"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/b1850618c7af32316f74217be587cad64f0f27ee0b38d8aabb693f4b51541be9",
+      "checksum": "b1850618c7af32316f74217be587cad64f0f27ee0b38d8aabb693f4b51541be9"
+    },
+    "variants/silver/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f6bf34e5dd79ccea7469ec7a55d3d29d26ff1cc53612c592452fc1d8d4dbbad8",
+      "checksum": "f6bf34e5dd79ccea7469ec7a55d3d29d26ff1cc53612c592452fc1d8d4dbbad8"
+    },
+    "variants/gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5dce6e18b2f23fcb0d3e1de77bc4b458d1d9c9167572fb42d0307995f08492f5",
+      "checksum": "5dce6e18b2f23fcb0d3e1de77bc4b458d1d9c9167572fb42d0307995f08492f5"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/cd9dfe0fef2948472ece451305db9f9f56ae245d20818142f69f2227aacd83a0",
+      "checksum": "cd9dfe0fef2948472ece451305db9f9f56ae245d20818142f69f2227aacd83a0"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/b1850618c7af32316f74217be587cad64f0f27ee0b38d8aabb693f4b51541be9",
+      "checksum": "b1850618c7af32316f74217be587cad64f0f27ee0b38d8aabb693f4b51541be9"
+    }
+  }
+}

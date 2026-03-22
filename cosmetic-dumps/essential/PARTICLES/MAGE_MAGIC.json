@@ -1,0 +1,75 @@
+{
+  "id": "MAGE_MAGIC",
+  "type": "PARTICLES",
+  "displayNames": {
+    "en_us": "Mage Magic"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_SEPTEMBER2025",
+    "THEME_MAGIC",
+    "SET_ANIME"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "particles/medium_circle.particle.json": {
+      "url": "https://cdn.essential.gg/assets/998a42e37935c4d256fecf9d41cf089c4ea1f80eaf6425d1f2966fb141976bed",
+      "checksum": "998a42e37935c4d256fecf9d41cf089c4ea1f80eaf6425d1f2966fb141976bed"
+    },
+    "particles/small_circles.particle.json": {
+      "url": "https://cdn.essential.gg/assets/4984f933af19cf1974c3d950ca10f0d2d122d8adc5adfe25bd702f8bfebd157b",
+      "checksum": "4984f933af19cf1974c3d950ca10f0d2d122d8adc5adfe25bd702f8bfebd157b"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/423d7b5a9f30a6c6d6841f63bb8e0e442c2709115b6ebeae6522ba502a505e03",
+      "checksum": "423d7b5a9f30a6c6d6841f63bb8e0e442c2709115b6ebeae6522ba502a505e03"
+    },
+    "variants/gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e10d4573749c32d2b7aa7bc77da8a7f85e3d46fab016aefbeef65d9ecead7bff",
+      "checksum": "e10d4573749c32d2b7aa7bc77da8a7f85e3d46fab016aefbeef65d9ecead7bff"
+    },
+    "variants/light_blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/552f28c5aa2df130d1fffa6706b0b6d700bc2016b8e2381cfa297da5028e1d36",
+      "checksum": "552f28c5aa2df130d1fffa6706b0b6d700bc2016b8e2381cfa297da5028e1d36"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/07c90341ffc5c86f07a6de474062eb62062da15fdb291522dd2d61471fc8c60b",
+      "checksum": "07c90341ffc5c86f07a6de474062eb62062da15fdb291522dd2d61471fc8c60b"
+    },
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/14a2610b88d5a98c0df78485cf53a66a67b30c1c9e256c33c19ff3db80b36ad3",
+      "checksum": "14a2610b88d5a98c0df78485cf53a66a67b30c1c9e256c33c19ff3db80b36ad3"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/37b6982ecf2a2803b5004a334de9fd01b7e034e78508b89e8c8ff2f0e878b5db",
+      "checksum": "37b6982ecf2a2803b5004a334de9fd01b7e034e78508b89e8c8ff2f0e878b5db"
+    },
+    "particles/lines.particle.json": {
+      "url": "https://cdn.essential.gg/assets/420ac9c34a41309d076e5211c116b2f9ce3c82bb88700e411dcca9f4fe0b03fe",
+      "checksum": "420ac9c34a41309d076e5211c116b2f9ce3c82bb88700e411dcca9f4fe0b03fe"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/955f2599f15ffb5e5454c8932eeb7034eea04adfde91e11c1e03f79d69cc277d",
+      "checksum": "955f2599f15ffb5e5454c8932eeb7034eea04adfde91e11c1e03f79d69cc277d"
+    },
+    "particles/big_circle.particle.json": {
+      "url": "https://cdn.essential.gg/assets/b3a12995f006b4032c8ab572165d7fe762c1eedc6c04b64a75ab649221cda772",
+      "checksum": "b3a12995f006b4032c8ab572165d7fe762c1eedc6c04b64a75ab649221cda772"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/271d56394bcb1955c8da761a3511bdce24973fe13f20b9b6cff836d97986ece2",
+      "checksum": "271d56394bcb1955c8da761a3511bdce24973fe13f20b9b6cff836d97986ece2"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/1aab87278af52cd8f3e5dab4dd90af4e0fa6dad4b4fda405d8d957c599c53c49",
+      "checksum": "1aab87278af52cd8f3e5dab4dd90af4e0fa6dad4b4fda405d8d957c599c53c49"
+    }
+  }
+}

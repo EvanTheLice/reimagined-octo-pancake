@@ -1,0 +1,74 @@
+{
+  "id": "MECH_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Mech Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SCIFI",
+    "THEME_GOLDEN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "variants/pink/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/a6ef47ab0007cfd1e6b6f71a41d7f225e0dab929f2770cc986f81ea78dbe02e9",
+      "checksum": "a6ef47ab0007cfd1e6b6f71a41d7f225e0dab929f2770cc986f81ea78dbe02e9"
+    },
+    "variants/red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/04c9b5e09045ac75b760d1bb165118397d07314cfa4bf1ccc171304f3c69aac4",
+      "checksum": "04c9b5e09045ac75b760d1bb165118397d07314cfa4bf1ccc171304f3c69aac4"
+    },
+    "variants/silver/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0573de98de821e634da627f295534e21e6dbeea71a7ff00b7f39e4f1ed3fdcf8",
+      "checksum": "0573de98de821e634da627f295534e21e6dbeea71a7ff00b7f39e4f1ed3fdcf8"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e672d9adcd20f7ba68b644fc5dd55917158ec01df3aa2f23917ff3882d901440",
+      "checksum": "e672d9adcd20f7ba68b644fc5dd55917158ec01df3aa2f23917ff3882d901440"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/32bbaf2d8e2e9fec99913a69af4fcd2dffaf1f69044bed55bf613e4128834b72",
+      "checksum": "32bbaf2d8e2e9fec99913a69af4fcd2dffaf1f69044bed55bf613e4128834b72"
+    },
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b84f314132f98a0f405815440a51bbc357076edcbdebc89a40ac8249ebd682f0",
+      "checksum": "b84f314132f98a0f405815440a51bbc357076edcbdebc89a40ac8249ebd682f0"
+    },
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/92f79119f787f38d43ded163ebcbf712310d716254bd7237bab356469301fd89",
+      "checksum": "92f79119f787f38d43ded163ebcbf712310d716254bd7237bab356469301fd89"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/eb788b29660a57357c93862b6267517b0d8ecec7853c9c3ec58e40c98acb98f1",
+      "checksum": "eb788b29660a57357c93862b6267517b0d8ecec7853c9c3ec58e40c98acb98f1"
+    },
+    "variants/silver/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/52562876aac4eaaff0254b431f3647c73c915f4febb26910ce4385b163729fe3",
+      "checksum": "52562876aac4eaaff0254b431f3647c73c915f4febb26910ce4385b163729fe3"
+    },
+    "variants/black/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/62697c9124fc7a2a36e2ab509d65b41d0070e122453903854c9fd6a452205f70",
+      "checksum": "62697c9124fc7a2a36e2ab509d65b41d0070e122453903854c9fd6a452205f70"
+    },
+    "variants/yellow/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/6fd2f9d8728b58d7d44d09d959d6c252eb4d23f8b4030ae512bf8904ee484209",
+      "checksum": "6fd2f9d8728b58d7d44d09d959d6c252eb4d23f8b4030ae512bf8904ee484209"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/9f1552400bf0e78d7301e8da8af962d7ab0a216acaa54ec2d1867af6c1642378",
+      "checksum": "9f1552400bf0e78d7301e8da8af962d7ab0a216acaa54ec2d1867af6c1642378"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/dbceee301c44ff45c6743031061f65ae815344f34b1eb6275be2d2ae3348de51",
+      "checksum": "dbceee301c44ff45c6743031061f65ae815344f34b1eb6275be2d2ae3348de51"
+    }
+  }
+}

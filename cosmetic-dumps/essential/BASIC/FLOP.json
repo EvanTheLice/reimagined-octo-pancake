@@ -1,0 +1,51 @@
+{
+  "id": "FLOP",
+  "type": "BASIC",
+  "displayNames": {
+    "en_us": "Flop"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SILLY",
+    "THEME_MEME",
+    "COLLECTION_DECEMBER2025"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BASIC": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 900,
+  "tier": "EPIC",
+  "assetsMap": {
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/51d7bea7f2de485c04d3224050a85a54d6f7203fbea84bc85657dcdd3703fdba",
+      "checksum": "51d7bea7f2de485c04d3224050a85a54d6f7203fbea84bc85657dcdd3703fdba"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f0d50d528ff15e65c9a7c5326c168b87e2a1370431728ba3f530fd622d47372d",
+      "checksum": "f0d50d528ff15e65c9a7c5326c168b87e2a1370431728ba3f530fd622d47372d"
+    },
+    "particles/ground_dust.particle.json": {
+      "url": "https://cdn.essential.gg/assets/1bbf0c733deeaa724833bdd2e8b36114dc46c7a756fd692ffc3006e12d22a569",
+      "checksum": "1bbf0c733deeaa724833bdd2e8b36114dc46c7a756fd692ffc3006e12d22a569"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/f5967b9ea16f656e11cf1660a4a85472c41d8e8cc387cb416dbbd244fa3c107d",
+      "checksum": "f5967b9ea16f656e11cf1660a4a85472c41d8e8cc387cb416dbbd244fa3c107d"
+    },
+    "sounds/flop.ogg": {
+      "url": "https://cdn.essential.gg/assets/b697c5be409d4e6f8c298e484b70f233dfdd3e5c64a7c32de2fb8566fb661d37",
+      "checksum": "b697c5be409d4e6f8c298e484b70f233dfdd3e5c64a7c32de2fb8566fb661d37"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/c83e9e345871653364054aa6df6c2015e4d436420d078360bcf8065cefcae003",
+      "checksum": "c83e9e345871653364054aa6df6c2015e4d436420d078360bcf8065cefcae003"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/1fc9c69b8ef668191e324b68f290c032097cffd2e631062827c272b13444e07a",
+      "checksum": "1fc9c69b8ef668191e324b68f290c032097cffd2e631062827c272b13444e07a"
+    }
+  }
+}

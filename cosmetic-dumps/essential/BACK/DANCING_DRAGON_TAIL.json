@@ -1,0 +1,47 @@
+{
+  "id": "DANCING_DRAGON_TAIL",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Dancing Dragon Tail"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_LUNAR",
+    "COLLECTION_FEBRUARY2026"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/b8dc94dc15bd46d586a45427ae117740f07bb61d21677c16819ec5e22387a5a3",
+      "checksum": "b8dc94dc15bd46d586a45427ae117740f07bb61d21677c16819ec5e22387a5a3"
+    },
+    "variants/blue_gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8e9d5d2f7453090e2f32f057adf9d1e7baacec61a7934fdf27d3d565ed87e999",
+      "checksum": "8e9d5d2f7453090e2f32f057adf9d1e7baacec61a7934fdf27d3d565ed87e999"
+    },
+    "variants/red_gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/97a30739d79a6c3d9edd9a84cd538187d547bcc26bbb9f95c5c750e065c4b032",
+      "checksum": "97a30739d79a6c3d9edd9a84cd538187d547bcc26bbb9f95c5c750e065c4b032"
+    },
+    "variants/green_gold/texture.png": {
+      "url": "https://cdn.essential.gg/assets/39cb88cd17e0d14928151e7d134d730aeaf560d405f3bf08b46ad988f54ecf24",
+      "checksum": "39cb88cd17e0d14928151e7d134d730aeaf560d405f3bf08b46ad988f54ecf24"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/cd00a53675fa6cac89de31a4f458ce8f1fa74a889173566f6c33550e761b1aa0",
+      "checksum": "cd00a53675fa6cac89de31a4f458ce8f1fa74a889173566f6c33550e761b1aa0"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/93384ad4e1eea6f177837fb4d02e14de755470ca19351ddd4fce4237e425ed68",
+      "checksum": "93384ad4e1eea6f177837fb4d02e14de755470ca19351ddd4fce4237e425ed68"
+    }
+  }
+}

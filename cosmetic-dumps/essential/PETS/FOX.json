@@ -1,0 +1,56 @@
+{
+  "id": "FOX",
+  "type": "PETS",
+  "displayNames": {
+    "en_us": "Baby Fox"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL",
+    "COLLECTION_FEBRUARY2026",
+    "THEME_CUTE",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f9da2981ee18b99969589af158177763ca3380f1f7b53a1c60758cf594abf85c",
+      "checksum": "f9da2981ee18b99969589af158177763ca3380f1f7b53a1c60758cf594abf85c"
+    },
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d1783c8aa83a187dbe2af04c24ec630bf394b92a27c3e53926a7d27240adb270",
+      "checksum": "d1783c8aa83a187dbe2af04c24ec630bf394b92a27c3e53926a7d27240adb270"
+    },
+    "variants/gray/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6d30cc9b4540a5349a62bbfb0868306d6bc5f874497343edb0043e789eca3b7d",
+      "checksum": "6d30cc9b4540a5349a62bbfb0868306d6bc5f874497343edb0043e789eca3b7d"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/44bc02e74f1570ffe02a2dc46211179085cf92022aa4d154e050d0f97d798014",
+      "checksum": "44bc02e74f1570ffe02a2dc46211179085cf92022aa4d154e050d0f97d798014"
+    },
+    "particles/sleepy_z.particle.json": {
+      "url": "https://cdn.essential.gg/assets/ff2c6c64c20d5a361162fdc5d9829094aa2586ee6af548e4e1358db862a66a18",
+      "checksum": "ff2c6c64c20d5a361162fdc5d9829094aa2586ee6af548e4e1358db862a66a18"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6516ed7ed29a4061c4f0c37f9e7a221b6163b5823ed3ba0b411f782936d3fda8",
+      "checksum": "6516ed7ed29a4061c4f0c37f9e7a221b6163b5823ed3ba0b411f782936d3fda8"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/2a5be3544c977bac0ecd2b2f3da52d633add44c8a73ca0ccdc47c164d78a1b3e",
+      "checksum": "2a5be3544c977bac0ecd2b2f3da52d633add44c8a73ca0ccdc47c164d78a1b3e"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/4ea8a79f98530f38299b0d3f6dcfc5a0a67fcb0a277fbf8ab4d0801c6c0d877d",
+      "checksum": "4ea8a79f98530f38299b0d3f6dcfc5a0a67fcb0a277fbf8ab4d0801c6c0d877d"
+    }
+  }
+}

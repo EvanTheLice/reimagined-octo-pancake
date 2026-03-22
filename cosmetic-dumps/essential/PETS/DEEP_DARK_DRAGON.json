@@ -1,0 +1,71 @@
+{
+  "id": "DEEP_DARK_DRAGON",
+  "type": "PETS",
+  "displayNames": {
+    "en_us": "Deep Dark Dragon"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_WARDEN",
+    "SET_WARDEN",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 1500,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/bab2d5ac3ed1c5080d5a0857799348e2cbf8d38cea9f43c1a0dc6e84199dd0fa",
+      "checksum": "bab2d5ac3ed1c5080d5a0857799348e2cbf8d38cea9f43c1a0dc6e84199dd0fa"
+    },
+    "particles/deep_dark_fire.particle.json": {
+      "url": "https://cdn.essential.gg/assets/a773332e863135b5ea28e3d4b3923dd69ec54a6cbfdc5249e03b34824f1f136e",
+      "checksum": "a773332e863135b5ea28e3d4b3923dd69ec54a6cbfdc5249e03b34824f1f136e"
+    },
+    "variants/pink/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/cdd05cb9c9ac998db05cf793b7fe3fd32de3d7f2f28bebe18d72f56318759d01",
+      "checksum": "cdd05cb9c9ac998db05cf793b7fe3fd32de3d7f2f28bebe18d72f56318759d01"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/ddac03e5fb4a576fa58181b940ef274352310e9f959190f0e3a3a7657613b90e",
+      "checksum": "ddac03e5fb4a576fa58181b940ef274352310e9f959190f0e3a3a7657613b90e"
+    },
+    "variants/red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/cabe0563adf937f864418e16065e1ae4a40a9789530d63d83e0ce6a5f28e475c",
+      "checksum": "cabe0563adf937f864418e16065e1ae4a40a9789530d63d83e0ce6a5f28e475c"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/45cbb9d2975ca78832214040f37495e81e2f50604536ddd77c1d4555e2703e9f",
+      "checksum": "45cbb9d2975ca78832214040f37495e81e2f50604536ddd77c1d4555e2703e9f"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8773eb1048dcf5354d0bc09a18a2374f5f35ce2c3a0dd20d4683984b97ff61be",
+      "checksum": "8773eb1048dcf5354d0bc09a18a2374f5f35ce2c3a0dd20d4683984b97ff61be"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8b2469624e67332423bc07c8f5e429e16a212a369e2b1be099527e908f01a2b3",
+      "checksum": "8b2469624e67332423bc07c8f5e429e16a212a369e2b1be099527e908f01a2b3"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/38ceb49c18e45990ec8e6482f4f3fc3048e198fe89e9b94ae46d914e0faf3e68",
+      "checksum": "38ceb49c18e45990ec8e6482f4f3fc3048e198fe89e9b94ae46d914e0faf3e68"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/6814efedc4e1b53510263c7e181e4cf319b1869b5bc264e408f8b39a9ecab977",
+      "checksum": "6814efedc4e1b53510263c7e181e4cf319b1869b5bc264e408f8b39a9ecab977"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/33378e2a822f62f7263348124ac8fd442c51d1b61e09aa793e75feefd13ba07e",
+      "checksum": "33378e2a822f62f7263348124ac8fd442c51d1b61e09aa793e75feefd13ba07e"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c17a80417985a5c088c11d49a9b9688ba4e30949c9bf86028b79b4fa359ac0b4",
+      "checksum": "c17a80417985a5c088c11d49a9b9688ba4e30949c9bf86028b79b4fa359ac0b4"
+    }
+  }
+}

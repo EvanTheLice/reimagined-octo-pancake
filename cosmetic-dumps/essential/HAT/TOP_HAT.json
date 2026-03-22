@@ -1,0 +1,55 @@
+{
+  "id": "TOP_HAT",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Fancy Top Hat"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SILLY",
+    "THEME_HOLIDAY",
+    "COLLECTION_DECEMBER2025"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/all_red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e371a92008cb166bd6257e0d202d24aa36103b7362719db997ee098a2b129b17",
+      "checksum": "e371a92008cb166bd6257e0d202d24aa36103b7362719db997ee098a2b129b17"
+    },
+    "variants/black_red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0acb352543bec1ea5bab787e88c06abdb67308a0f72a45ac5cae4694b0642d1c",
+      "checksum": "0acb352543bec1ea5bab787e88c06abdb67308a0f72a45ac5cae4694b0642d1c"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/566fd5905ad3d6cfef752870f4f9ca808425434685bced9a968327bbfd5d9c50",
+      "checksum": "566fd5905ad3d6cfef752870f4f9ca808425434685bced9a968327bbfd5d9c50"
+    },
+    "variants/all_white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/483723b75a083c6833eef23bcc1e50b9b3da5cb0a0e300612824333d3dfe9571",
+      "checksum": "483723b75a083c6833eef23bcc1e50b9b3da5cb0a0e300612824333d3dfe9571"
+    },
+    "variants/all_black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/82b22db6b5a70ad5281ca6e2f7be06861a69a5c1178fdf5d8fbaff509737f12d",
+      "checksum": "82b22db6b5a70ad5281ca6e2f7be06861a69a5c1178fdf5d8fbaff509737f12d"
+    },
+    "variants/all_purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/d2da4be5b92d541c7ef2a86c3d57bc9edf820fb3b7114b154f44c960ece270be",
+      "checksum": "d2da4be5b92d541c7ef2a86c3d57bc9edf820fb3b7114b154f44c960ece270be"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/bcaee98ce00d4ff8f7b19d295e68165ef80e9e40cf0727388cd70a54382c632e",
+      "checksum": "bcaee98ce00d4ff8f7b19d295e68165ef80e9e40cf0727388cd70a54382c632e"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/af7de0e0ffe3acf85542ccf57d44ecc039a47248269d99208df66b429986513f",
+      "checksum": "af7de0e0ffe3acf85542ccf57d44ecc039a47248269d99208df66b429986513f"
+    }
+  }
+}

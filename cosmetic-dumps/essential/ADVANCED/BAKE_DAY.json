@@ -1,0 +1,56 @@
+{
+  "id": "BAKE_DAY",
+  "type": "ADVANCED",
+  "displayNames": {
+    "en_us": "Bake Day"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_COZY",
+    "COLLECTION_FEBRUARY2026",
+    "THEME_ROLEPLAY",
+    "THEME_CUTE"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "ADVANCED": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 900,
+  "tier": "EPIC",
+  "assetsMap": {
+    "sounds/em_bake_day.ogg": {
+      "url": "https://cdn.essential.gg/assets/64c8e562cbd19af241800911d270bc458b8ffdc8e1825389d45d9526d1930e99",
+      "checksum": "64c8e562cbd19af241800911d270bc458b8ffdc8e1825389d45d9526d1930e99"
+    },
+    "particles/cake_steam.particle.json": {
+      "url": "https://cdn.essential.gg/assets/5ccbb74fc8738ce41ad2de329ed15eddd63c8baa524c09280417d05f034f579b",
+      "checksum": "5ccbb74fc8738ce41ad2de329ed15eddd63c8baa524c09280417d05f034f579b"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/96dbf50426da8672a7f430924c60757989b4acb7e7f5e5fae146f67de9c68991",
+      "checksum": "96dbf50426da8672a7f430924c60757989b4acb7e7f5e5fae146f67de9c68991"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/d6ab15f4ed033abf8d349500e4b1dcb71aaf2439745089665138652fd36ef43d",
+      "checksum": "d6ab15f4ed033abf8d349500e4b1dcb71aaf2439745089665138652fd36ef43d"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/6826fb4a13ed5551a2151a21a73663c81704a53f6adfbba0866929bd32d633a0",
+      "checksum": "6826fb4a13ed5551a2151a21a73663c81704a53f6adfbba0866929bd32d633a0"
+    },
+    "particles/cake_splash.particle.json": {
+      "url": "https://cdn.essential.gg/assets/0fa078006dc1b724bf796b222f031cb3b1968e557ba41eb69bab615dd337e799",
+      "checksum": "0fa078006dc1b724bf796b222f031cb3b1968e557ba41eb69bab615dd337e799"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/16eb2d23d735dc3a8cc48c1f177128e26f1fe8b32e975f3a98f3f13a1040fc43",
+      "checksum": "16eb2d23d735dc3a8cc48c1f177128e26f1fe8b32e975f3a98f3f13a1040fc43"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/dac6648c83790b019a03b4d227ba62fb09bd6513f82bc2773a0f35dd1d2f8eb6",
+      "checksum": "dac6648c83790b019a03b4d227ba62fb09bd6513f82bc2773a0f35dd1d2f8eb6"
+    }
+  }
+}

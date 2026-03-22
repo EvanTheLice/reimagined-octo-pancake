@@ -1,0 +1,47 @@
+{
+  "id": "TOILET_COSTUME",
+  "type": "OUTERWEAR",
+  "displayNames": {
+    "en_us": "Toilet Costume"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SILLY",
+    "THEME_MEME",
+    "COLLECTION_DECEMBER2025"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/b746ccffbb3da90910ba28833ea4346869ad4816a7a1e69f700915dd19047bb9",
+      "checksum": "b746ccffbb3da90910ba28833ea4346869ad4816a7a1e69f700915dd19047bb9"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/358278a2f57b4bc87fb691226e6c6555a218e7fc34e59841efe3f8dbc488d1a9",
+      "checksum": "358278a2f57b4bc87fb691226e6c6555a218e7fc34e59841efe3f8dbc488d1a9"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/aa408dbc5adfa0e2efa45fc3dd0ad0d8117f6989836ea790fcd83620ca5a134a",
+      "checksum": "aa408dbc5adfa0e2efa45fc3dd0ad0d8117f6989836ea790fcd83620ca5a134a"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/3229d8f352dcdd3e84f7e240557f7cf2794c12a4ec4785b45e1ad0b290b78646",
+      "checksum": "3229d8f352dcdd3e84f7e240557f7cf2794c12a4ec4785b45e1ad0b290b78646"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/358278a2f57b4bc87fb691226e6c6555a218e7fc34e59841efe3f8dbc488d1a9",
+      "checksum": "358278a2f57b4bc87fb691226e6c6555a218e7fc34e59841efe3f8dbc488d1a9"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/3229d8f352dcdd3e84f7e240557f7cf2794c12a4ec4785b45e1ad0b290b78646",
+      "checksum": "3229d8f352dcdd3e84f7e240557f7cf2794c12a4ec4785b45e1ad0b290b78646"
+    }
+  }
+}

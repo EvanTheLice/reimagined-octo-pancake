@@ -1,0 +1,36 @@
+{
+  "id": "FLIGHT",
+  "type": "MOVEMENT",
+  "displayNames": {
+    "en_us": "Hover Flight"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_SEPTEMBER2025",
+    "THEME_MAGIC",
+    "THEME_ANGEL",
+    "THEME_FAIRY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "MOVEMENT": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/982405ac96eb93f17a6de36b757a379cdaccf9cbb6af8194b810c274a5c1d7f1",
+      "checksum": "982405ac96eb93f17a6de36b757a379cdaccf9cbb6af8194b810c274a5c1d7f1"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/3d1457fe5a3520d418d972443266e42699f2d4db42c94a484403797d5671776f",
+      "checksum": "3d1457fe5a3520d418d972443266e42699f2d4db42c94a484403797d5671776f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/fdb00d074c3702de1a67b624b6f9ae7f9dab16c90c9fc97ff321d570cbcf11ec",
+      "checksum": "fdb00d074c3702de1a67b624b6f9ae7f9dab16c90c9fc97ff321d570cbcf11ec"
+    }
+  }
+}

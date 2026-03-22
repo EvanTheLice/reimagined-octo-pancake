@@ -1,0 +1,73 @@
+{
+  "id": "WIDE_GLOWING_EYES",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Wide Glowing Eyes"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_DECEMBER2025"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/afbfb42ccf89dac4689737c0f6988d940e987d38e268ce32a55a14d10fb189f8",
+      "checksum": "afbfb42ccf89dac4689737c0f6988d940e987d38e268ce32a55a14d10fb189f8"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/cfafb0731454993daa673b370b212a05640d0ab12a9fcf13edd9ea5f00f9abca",
+      "checksum": "cfafb0731454993daa673b370b212a05640d0ab12a9fcf13edd9ea5f00f9abca"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/cfafb0731454993daa673b370b212a05640d0ab12a9fcf13edd9ea5f00f9abca",
+      "checksum": "cfafb0731454993daa673b370b212a05640d0ab12a9fcf13edd9ea5f00f9abca"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b601988d60859e6bbac4fcd0fcc6fe84c8662c6a20b86fbf4f6d1b77bdeb2b79",
+      "checksum": "b601988d60859e6bbac4fcd0fcc6fe84c8662c6a20b86fbf4f6d1b77bdeb2b79"
+    },
+    "variants/white/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/5e2a6de4977416417875d32e7ef59f27852f7bbaed52d5a1a96dba35a2b93d2a",
+      "checksum": "5e2a6de4977416417875d32e7ef59f27852f7bbaed52d5a1a96dba35a2b93d2a"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/b601988d60859e6bbac4fcd0fcc6fe84c8662c6a20b86fbf4f6d1b77bdeb2b79",
+      "checksum": "b601988d60859e6bbac4fcd0fcc6fe84c8662c6a20b86fbf4f6d1b77bdeb2b79"
+    },
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/afbfb42ccf89dac4689737c0f6988d940e987d38e268ce32a55a14d10fb189f8",
+      "checksum": "afbfb42ccf89dac4689737c0f6988d940e987d38e268ce32a55a14d10fb189f8"
+    },
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7cc389e58ef8f20f14db7ef22f0c62fbd1b4ffe85f3746366c4626cedf3c55f4",
+      "checksum": "7cc389e58ef8f20f14db7ef22f0c62fbd1b4ffe85f3746366c4626cedf3c55f4"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/819d050155ba17084b4fa09687b4575d98a898eb8b2c651a625164259af652a0",
+      "checksum": "819d050155ba17084b4fa09687b4575d98a898eb8b2c651a625164259af652a0"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5e2a6de4977416417875d32e7ef59f27852f7bbaed52d5a1a96dba35a2b93d2a",
+      "checksum": "5e2a6de4977416417875d32e7ef59f27852f7bbaed52d5a1a96dba35a2b93d2a"
+    },
+    "variants/yellow/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/7cc389e58ef8f20f14db7ef22f0c62fbd1b4ffe85f3746366c4626cedf3c55f4",
+      "checksum": "7cc389e58ef8f20f14db7ef22f0c62fbd1b4ffe85f3746366c4626cedf3c55f4"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/228ef7b740438e3d7f26d230ec1427cb1ab5ab6961c6a603f7d43da026520bf6",
+      "checksum": "228ef7b740438e3d7f26d230ec1427cb1ab5ab6961c6a603f7d43da026520bf6"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/3229d8f352dcdd3e84f7e240557f7cf2794c12a4ec4785b45e1ad0b290b78646",
+      "checksum": "3229d8f352dcdd3e84f7e240557f7cf2794c12a4ec4785b45e1ad0b290b78646"
+    }
+  }
+}

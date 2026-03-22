@@ -1,0 +1,98 @@
+{
+  "id": "NECROMANCY_POWERS",
+  "type": "ADVANCED",
+  "displayNames": {
+    "en_us": "Necromancy Powers"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_OCTOBER2025",
+    "THEME_DEMON"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "MOVEMENT": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 900,
+  "tier": "EPIC",
+  "assetsMap": {
+    "sounds/necromancy_powers_loop3.ogg": {
+      "url": "https://cdn.essential.gg/assets/8ac925b489a4bf94cb9fb0812f19a8ba1d1f44e1892a2d22275affe9abe896b3",
+      "checksum": "8ac925b489a4bf94cb9fb0812f19a8ba1d1f44e1892a2d22275affe9abe896b3"
+    },
+    "particles/necromancer_aura_cloud.particle.json": {
+      "url": "https://cdn.essential.gg/assets/385cbef9d57d10c5d256be1234c79276996ff2925c3bc03a191ce90669960a68",
+      "checksum": "385cbef9d57d10c5d256be1234c79276996ff2925c3bc03a191ce90669960a68"
+    },
+    "particles/necromancy_skulls.particle.json": {
+      "url": "https://cdn.essential.gg/assets/033b639ffdf7e7f046500c95be4aac038d1318e6ea046d7c1ee5e9925097218e",
+      "checksum": "033b639ffdf7e7f046500c95be4aac038d1318e6ea046d7c1ee5e9925097218e"
+    },
+    "sounds/necromancy_powers_start.ogg": {
+      "url": "https://cdn.essential.gg/assets/213db08a0da8d48e87db13d633ef2c56786890ace529c7935a125f1ad7459e30",
+      "checksum": "213db08a0da8d48e87db13d633ef2c56786890ace529c7935a125f1ad7459e30"
+    },
+    "particles/necromancer_blast.particle.json": {
+      "url": "https://cdn.essential.gg/assets/bb9422c391725a1b9f537272682678483324231e5563cd4640d4b3724d93892c",
+      "checksum": "bb9422c391725a1b9f537272682678483324231e5563cd4640d4b3724d93892c"
+    },
+    "particles/necromancy_cloud_burst_small.particle.json": {
+      "url": "https://cdn.essential.gg/assets/403ac44a69a05004b3fe9d027cbf7fdf0fbd9e2f9b66664bced39e4bdf093c65",
+      "checksum": "403ac44a69a05004b3fe9d027cbf7fdf0fbd9e2f9b66664bced39e4bdf093c65"
+    },
+    "particles/necromancy_aura.particle.json": {
+      "url": "https://cdn.essential.gg/assets/8a92a900082732cf7d1b0d4516a0e8404fb83f862152717a76a53b0e1d720fc0",
+      "checksum": "8a92a900082732cf7d1b0d4516a0e8404fb83f862152717a76a53b0e1d720fc0"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/edaf0277b48d501971191be746a622c93d0d9a9d05568f29261369396d0585fb",
+      "checksum": "edaf0277b48d501971191be746a622c93d0d9a9d05568f29261369396d0585fb"
+    },
+    "particles/necromancy_cloud_loop.particle.json": {
+      "url": "https://cdn.essential.gg/assets/a69c68cd466fc99b9e9ba4f5480d8e3d2937ebd232be4fa7b99f3d7c12feadd5",
+      "checksum": "a69c68cd466fc99b9e9ba4f5480d8e3d2937ebd232be4fa7b99f3d7c12feadd5"
+    },
+    "particles/necromancer_skull_trail.particle.json": {
+      "url": "https://cdn.essential.gg/assets/b47a6f1697fa420646d2cd189895407e43dc54143add03f7013aeba7ce5a2d1a",
+      "checksum": "b47a6f1697fa420646d2cd189895407e43dc54143add03f7013aeba7ce5a2d1a"
+    },
+    "sounds/necromancy_powers_loop2.ogg": {
+      "url": "https://cdn.essential.gg/assets/951271c735f5ed0301321b5c80d5c15fe4ba20f9ec0920c70e5d03028d0f1fde",
+      "checksum": "951271c735f5ed0301321b5c80d5c15fe4ba20f9ec0920c70e5d03028d0f1fde"
+    },
+    "particles/necromancy_cloud_hands.particle.json": {
+      "url": "https://cdn.essential.gg/assets/d30684ffd3f78d8eed376154e1527ae197f8312c35c8907d3625a809ccfadf88",
+      "checksum": "d30684ffd3f78d8eed376154e1527ae197f8312c35c8907d3625a809ccfadf88"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/d3d911b38f6a630046f86e5db79274c492ad95098a60cf5a90ab4043c09e19ce",
+      "checksum": "d3d911b38f6a630046f86e5db79274c492ad95098a60cf5a90ab4043c09e19ce"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/50b3150883f6c3165b0341b1d34b92a123e3ea29b9703d4688ee5ae26d103119",
+      "checksum": "50b3150883f6c3165b0341b1d34b92a123e3ea29b9703d4688ee5ae26d103119"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/97966c51c9499f36bd49c9f92f25cae94b427e2c0d220c17eca59b1ff838c48b",
+      "checksum": "97966c51c9499f36bd49c9f92f25cae94b427e2c0d220c17eca59b1ff838c48b"
+    },
+    "sounds/necromancy_powers_loop1.ogg": {
+      "url": "https://cdn.essential.gg/assets/8e5691b220e9aa4f0db3ae3b0e6bac221a40b5dd4d4990c25a0f922bd6dfec7d",
+      "checksum": "8e5691b220e9aa4f0db3ae3b0e6bac221a40b5dd4d4990c25a0f922bd6dfec7d"
+    },
+    "particles/necromancy_cloud_burst.particle.json": {
+      "url": "https://cdn.essential.gg/assets/b1e966fdda52978272f2d82c82bd507297b6210e01cd097656d8d0a00f5704b9",
+      "checksum": "b1e966fdda52978272f2d82c82bd507297b6210e01cd097656d8d0a00f5704b9"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/51a8fae7ce19e85fa5f90feebdd0f7d0361e3af4ffeaf595f1e4dc5d919e230a",
+      "checksum": "51a8fae7ce19e85fa5f90feebdd0f7d0361e3af4ffeaf595f1e4dc5d919e230a"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/92298a82a6f929db0ac41a4c097710b8078f7e31ded63f0a336ae43392be580a",
+      "checksum": "92298a82a6f929db0ac41a4c097710b8078f7e31ded63f0a336ae43392be580a"
+    }
+  }
+}

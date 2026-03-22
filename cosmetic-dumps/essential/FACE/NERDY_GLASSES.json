@@ -1,0 +1,36 @@
+{
+  "id": "NERDY_GLASSES",
+  "type": "FACE",
+  "displayNames": {
+    "en_us": "Nerdy Glasses"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SCHOOL"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "FACE": 20
+  },
+  "defaultSortWeight": 21,
+  "priceCoins": 0,
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/08d267b473b587152090975d7ef62c2aaea53d2c9bf2c2d4f33faca69d89ac9d",
+      "checksum": "08d267b473b587152090975d7ef62c2aaea53d2c9bf2c2d4f33faca69d89ac9d"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/32a1bc9a2ee83c6f2797fc292d9f5bfda7df3013b7f7a8109136f73a06f41457",
+      "checksum": "32a1bc9a2ee83c6f2797fc292d9f5bfda7df3013b7f7a8109136f73a06f41457"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/c69fced8775ce51f1f2bdc231be275512031f3c4d3124eda66b96d8cdfdb3149",
+      "checksum": "c69fced8775ce51f1f2bdc231be275512031f3c4d3124eda66b96d8cdfdb3149"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/63dc3d11d2b11b2ea94a066e733a9e7176de2a6d459bbbc1da2cecee5764d512",
+      "checksum": "63dc3d11d2b11b2ea94a066e733a9e7176de2a6d459bbbc1da2cecee5764d512"
+    }
+  }
+}

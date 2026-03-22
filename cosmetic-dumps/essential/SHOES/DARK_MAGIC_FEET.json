@@ -1,0 +1,41 @@
+{
+  "id": "DARK_MAGIC_FEET",
+  "type": "SHOES",
+  "displayNames": {
+    "en_us": "Dark Magic Feet"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MAGIC"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "SHOES": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/6ed2d939745ad9a9f9baafcc8976dd44f085d59f351eb91fcdf98ce09d95f357",
+      "checksum": "6ed2d939745ad9a9f9baafcc8976dd44f085d59f351eb91fcdf98ce09d95f357"
+    },
+    "emissive.png": {
+      "url": "https://cdn.essential.gg/assets/fe9294bdd11c1e951f3e113ffe0c84c63bb6f7c212981d2f8749091d037191c9",
+      "checksum": "fe9294bdd11c1e951f3e113ffe0c84c63bb6f7c212981d2f8749091d037191c9"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/148525cd0baa71910a357f9f5a7464535a660acfdd7556ab5b3d86e1596ff696",
+      "checksum": "148525cd0baa71910a357f9f5a7464535a660acfdd7556ab5b3d86e1596ff696"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/945b57200c4e171d248610992bf6234468ad8788e25e0d8692d1505273acbb8c",
+      "checksum": "945b57200c4e171d248610992bf6234468ad8788e25e0d8692d1505273acbb8c"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/a8ebdc10cd923bfffadec1ab882e655831b6a6aaae79a52b874842b8b2ae4b07",
+      "checksum": "a8ebdc10cd923bfffadec1ab882e655831b6a6aaae79a52b874842b8b2ae4b07"
+    }
+  }
+}

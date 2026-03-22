@@ -1,0 +1,50 @@
+{
+  "id": "BUN",
+  "type": "HAIR",
+  "displayNames": {
+    "en_us": "Bun"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "HAIR": 20
+  },
+  "defaultSortWeight": 9,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/ginger/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a6e6eccc844b7acdd1c49d3edc53810c6737ee8bffa93d6d6a2e9574d7434fd0",
+      "checksum": "a6e6eccc844b7acdd1c49d3edc53810c6737ee8bffa93d6d6a2e9574d7434fd0"
+    },
+    "variants/brunette/texture.png": {
+      "url": "https://cdn.essential.gg/assets/62db777b8fb4a642a35104cc3605c0a32890b2e5a507d35fdddc74b6872b09ae",
+      "checksum": "62db777b8fb4a642a35104cc3605c0a32890b2e5a507d35fdddc74b6872b09ae"
+    },
+    "variants/blonde/texture.png": {
+      "url": "https://cdn.essential.gg/assets/3226236cd76aa057f05a54d1cf919b3dc3f6b4af41167a412a54f4929c6e2a61",
+      "checksum": "3226236cd76aa057f05a54d1cf919b3dc3f6b4af41167a412a54f4929c6e2a61"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/13a8019d93ee8bd433c8cacfc099522d9b554cb1564bbbe9b4335e33bb9e9324",
+      "checksum": "13a8019d93ee8bd433c8cacfc099522d9b554cb1564bbbe9b4335e33bb9e9324"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4f621d5aa7b61ad86ac8a2448be98f7db9b5c70e580f2b48ce06dcd5ce2af4f2",
+      "checksum": "4f621d5aa7b61ad86ac8a2448be98f7db9b5c70e580f2b48ce06dcd5ce2af4f2"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/293aa636bfadf3e3e8e5cdc496fa4d76c6833182fddbe8db0c1e9cc9befc4f18",
+      "checksum": "293aa636bfadf3e3e8e5cdc496fa4d76c6833182fddbe8db0c1e9cc9befc4f18"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/b9920ca42f80c45ceabc94a0b8345e0b8a34fd8ffb5313e3d62b17fc30bab389",
+      "checksum": "b9920ca42f80c45ceabc94a0b8345e0b8a34fd8ffb5313e3d62b17fc30bab389"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:geometry": [
+    {
+      "description": {
+        "identifier": "geometry.essential.pet_biped",
+        "texture_width": 64,
+        "texture_height": 64,
+        "visible_bounds_width": 2,
+        "visible_bounds_height": 2,
+        "visible_bounds_offset": [0, 0, 0]
+      },
+      "bones": [
+        {
+          "name": "body",
+          "pivot": [0, 0, 0],
+          "cubes": [
+            {
+              "origin": [-2, 4, -2],
+              "size": [4, 4, 4],
+              "uv": [0, 0]
+            }
+          ]
+        },
+        {
+          "name": "head",
+          "pivot": [0, 8, 0],
+          "parent": "body",
+          "cubes": [
+            {
+              "origin": [-2, 8, -3],
+              "size": [4, 4, 4],
+              "uv": [0, 10]
+            }
+          ]
+        },
+        {
+          "name": "left_arm",
+          "pivot": [2, 7, 0],
+          "parent": "body",
+          "cubes": [
+            {
+              "origin": [2, 3, -1],
+              "size": [1, 4, 2],
+              "uv": [16, 0]
+            }
+          ]
+        },
+        {
+          "name": "right_arm",
+          "pivot": [-2, 7, 0],
+          "parent": "body",
+          "cubes": [
+            {
+              "origin": [-3, 3, -1],
+              "size": [1, 4, 2],
+              "uv": [22, 0]
+            }
+          ]
+        },
+        {
+          "name": "left_leg",
+          "pivot": [1, 4, 0],
+          "parent": "body",
+          "cubes": [
+            {
+              "origin": [0, 0, -1],
+              "size": [1, 4, 2],
+              "uv": [28, 0]
+            }
+          ]
+        },
+        {
+          "name": "right_leg",
+          "pivot": [-1, 4, 0],
+          "parent": "body",
+          "cubes": [
+            {
+              "origin": [-1, 0, -1],
+              "size": [1, 4, 2],
+              "uv": [34, 0]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

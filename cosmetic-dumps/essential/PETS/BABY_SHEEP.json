@@ -1,0 +1,54 @@
+{
+  "id": "BABY_SHEEP",
+  "type": "PETS",
+  "displayNames": {
+    "en_us": "Sheep"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/c79649f45b3e906912dcde0f7daac59c3162ee77caa392475c05a8777a179057",
+      "checksum": "c79649f45b3e906912dcde0f7daac59c3162ee77caa392475c05a8777a179057"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/cb28e762deaab24f7dd1f048dd0a9a44459108acb599b3e96f272bf2bd7d6197",
+      "checksum": "cb28e762deaab24f7dd1f048dd0a9a44459108acb599b3e96f272bf2bd7d6197"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/17b741054dad2383fa9de271ab19f53f8458bf89c09ea117309336c30b075046",
+      "checksum": "17b741054dad2383fa9de271ab19f53f8458bf89c09ea117309336c30b075046"
+    },
+    "variants/rainbow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/21f7e10e2461a9cf02357115a4f95e3143115b8bb10e018782c1e371cd4161b9",
+      "checksum": "21f7e10e2461a9cf02357115a4f95e3143115b8bb10e018782c1e371cd4161b9"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/efdf6816fb65ae0eae67f3c839f11abcf2588ae23dea22458115d5968e025077",
+      "checksum": "efdf6816fb65ae0eae67f3c839f11abcf2588ae23dea22458115d5968e025077"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/166f6e0a1ba45c493ac0b5ac1537d261fd37182c9d24621cf19adea3ddfe7271",
+      "checksum": "166f6e0a1ba45c493ac0b5ac1537d261fd37182c9d24621cf19adea3ddfe7271"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/901207ae340dbfa733240e0042bd6b6d4c4f0e485156c585abf42fc316ffb2f1",
+      "checksum": "901207ae340dbfa733240e0042bd6b6d4c4f0e485156c585abf42fc316ffb2f1"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/1702685f6514b4403b8db1bc752d42165969765abf622ba5b9bff9d69e678fc7",
+      "checksum": "1702685f6514b4403b8db1bc752d42165969765abf622ba5b9bff9d69e678fc7"
+    }
+  }
+}

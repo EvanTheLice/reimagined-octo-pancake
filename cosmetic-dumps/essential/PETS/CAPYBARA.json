@@ -1,0 +1,45 @@
+{
+  "id": "CAPYBARA",
+  "type": "PETS",
+  "displayNames": {
+    "en_us": "Capybara"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 4,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/3427f196a1bbb0813953a9b54a2dbe56a8e565bb5936d8d39127e1b2e39d79cb",
+      "checksum": "3427f196a1bbb0813953a9b54a2dbe56a8e565bb5936d8d39127e1b2e39d79cb"
+    },
+    "variants/light_brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4455d8c32795f63eae6169c7a0c8fe8c57a89c52a5f1e25360a77b2f737b51ca",
+      "checksum": "4455d8c32795f63eae6169c7a0c8fe8c57a89c52a5f1e25360a77b2f737b51ca"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/617c89e3b391d4f6d0f3d05d5dda9d2251ec29ccd335464c7f3259f0d3d95fbc",
+      "checksum": "617c89e3b391d4f6d0f3d05d5dda9d2251ec29ccd335464c7f3259f0d3d95fbc"
+    },
+    "variants/cream/texture.png": {
+      "url": "https://cdn.essential.gg/assets/746a00ca32c0550c530f68e54a03ca8100bf7cb31d8f14cd75b086a69e250f09",
+      "checksum": "746a00ca32c0550c530f68e54a03ca8100bf7cb31d8f14cd75b086a69e250f09"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/34baf2d342658d1abc35204a858e53a4cc80db62dfeefa6245c46aaf55743807",
+      "checksum": "34baf2d342658d1abc35204a858e53a4cc80db62dfeefa6245c46aaf55743807"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/14eaf9c2dc1400048914fda90b0b0925e2423bcb0f8959d0aba2ab0d3abb1539",
+      "checksum": "14eaf9c2dc1400048914fda90b0b0925e2423bcb0f8959d0aba2ab0d3abb1539"
+    }
+  }
+}

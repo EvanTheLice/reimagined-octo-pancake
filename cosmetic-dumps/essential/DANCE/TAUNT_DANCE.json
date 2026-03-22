@@ -1,0 +1,33 @@
+{
+  "id": "TAUNT_DANCE",
+  "type": "DANCE",
+  "displayNames": {
+    "en_us": "L Dance"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MEME"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "DANCE": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 900,
+  "tier": "EPIC",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/9f9941a75b84e509658871a975acdb4167b8b71dae0ca30a1eb0b9a067804abb",
+      "checksum": "9f9941a75b84e509658871a975acdb4167b8b71dae0ca30a1eb0b9a067804abb"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/365fe0562dac964ea5c1670447c342a1dd763e41c1f6a9b387321d8b111fa472",
+      "checksum": "365fe0562dac964ea5c1670447c342a1dd763e41c1f6a9b387321d8b111fa472"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e",
+      "checksum": "7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e"
+    }
+  }
+}

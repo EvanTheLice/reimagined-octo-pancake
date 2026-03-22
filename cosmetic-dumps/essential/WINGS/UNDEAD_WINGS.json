@@ -1,0 +1,74 @@
+{
+  "id": "UNDEAD_WINGS",
+  "type": "WINGS",
+  "displayNames": {
+    "en_us": "Undead Wings"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FANTASY",
+    "COLLECTION_OCTOBER2025"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "WINGS": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 1500,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "variants/bone/texture.png": {
+      "url": "https://cdn.essential.gg/assets/cfec5f5fedbbc318cae4d86ef2a74a9cdc9fbdfaa843e5fab5384f3358a06b86",
+      "checksum": "cfec5f5fedbbc318cae4d86ef2a74a9cdc9fbdfaa843e5fab5384f3358a06b86"
+    },
+    "variants/red_black_purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/6e4641a62248f9fb80a7d135e5fba1616587acf23466fdbdacaf33680d8c7585",
+      "checksum": "6e4641a62248f9fb80a7d135e5fba1616587acf23466fdbdacaf33680d8c7585"
+    },
+    "variants/purple_green/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/f99b1a5e13f72fe912c7a2e191846a1957122d86d7af0ef5e7b79b6d0a78b809",
+      "checksum": "f99b1a5e13f72fe912c7a2e191846a1957122d86d7af0ef5e7b79b6d0a78b809"
+    },
+    "variants/purple_green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a1eeae2338f7b1ef99459f50d56292a60eeef2e407592220cb41a2d506ac31ef",
+      "checksum": "a1eeae2338f7b1ef99459f50d56292a60eeef2e407592220cb41a2d506ac31ef"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2b6b4d7c24f970b23eff52a5771149a3351ad35ed8666fe78b5282117dd73d35",
+      "checksum": "2b6b4d7c24f970b23eff52a5771149a3351ad35ed8666fe78b5282117dd73d35"
+    },
+    "variants/bone/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/02a4e366a3ac6836778b375c9cc5b1782a4e1bfba4e8d09caf6a466bd940db67",
+      "checksum": "02a4e366a3ac6836778b375c9cc5b1782a4e1bfba4e8d09caf6a466bd940db67"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/d39ffd8c622a1b52aec32fc3a77567826cb730d9e9854c527e483d39e3586f04",
+      "checksum": "d39ffd8c622a1b52aec32fc3a77567826cb730d9e9854c527e483d39e3586f04"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/6c3d3ed6ea49be599d0b324bf33c94bf9b61ef68d1eb5fc47db178ddb9299a62",
+      "checksum": "6c3d3ed6ea49be599d0b324bf33c94bf9b61ef68d1eb5fc47db178ddb9299a62"
+    },
+    "variants/green/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/76faf29085b96102776e4ab3f6756b6dee78be971dd406dad7d6dd854185b528",
+      "checksum": "76faf29085b96102776e4ab3f6756b6dee78be971dd406dad7d6dd854185b528"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/9fe61073bd70f98d8873f9316abe5f95ae9e7ea6aae02b820528b26c51e6e884",
+      "checksum": "9fe61073bd70f98d8873f9316abe5f95ae9e7ea6aae02b820528b26c51e6e884"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/4b197d2886e4634260a1d289475952a93a0cf017be1a3ee1519914c891b861c7",
+      "checksum": "4b197d2886e4634260a1d289475952a93a0cf017be1a3ee1519914c891b861c7"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7ad499e06dc4d460c03b2641fb9dc522b41133d335f3433af9a6aead05a267dd",
+      "checksum": "7ad499e06dc4d460c03b2641fb9dc522b41133d335f3433af9a6aead05a267dd"
+    },
+    "variants/red_black_purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ebe53afa3c48f817a881303fa26270ff84ece6eca472e42ef5349b1689755ea1",
+      "checksum": "ebe53afa3c48f817a881303fa26270ff84ece6eca472e42ef5349b1689755ea1"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "ANIME_DRESS",
+  "type": "OUTERWEAR",
+  "displayNames": {
+    "en_us": "Anime Dress"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_SEPTEMBER2025",
+    "SET_ANIME",
+    "THEME_PRETTY",
+    "THEME_CUTE",
+    "THEME_ANIME"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2b79f27429de59c032d8c955b857355106a0b28ea4f951297cfe705c2187c3f4",
+      "checksum": "2b79f27429de59c032d8c955b857355106a0b28ea4f951297cfe705c2187c3f4"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/df86f18869fd963718de4bafb7092cf273f091977b21be143aaeb465f50b4163",
+      "checksum": "df86f18869fd963718de4bafb7092cf273f091977b21be143aaeb465f50b4163"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/6b63e78b2dd0e31e7ff610c153b8fdec065cac22440c8d7b6df0d9584770eb5c",
+      "checksum": "6b63e78b2dd0e31e7ff610c153b8fdec065cac22440c8d7b6df0d9584770eb5c"
+    },
+    "variants/golden/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6233e2497484605b6fc34d55d77bec4e98bfdec4c9b874742e1f8f4e5639c2f3",
+      "checksum": "6233e2497484605b6fc34d55d77bec4e98bfdec4c9b874742e1f8f4e5639c2f3"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/c80346dc401b03941fb7d5f825fd9283b7a80e803377f53b10c5e4216971f48c",
+      "checksum": "c80346dc401b03941fb7d5f825fd9283b7a80e803377f53b10c5e4216971f48c"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b85dcc45f9b0ef937cd5ab8289d5c8d0e7241be0d183bd8c7e85f4e1a2eca38a",
+      "checksum": "b85dcc45f9b0ef937cd5ab8289d5c8d0e7241be0d183bd8c7e85f4e1a2eca38a"
+    },
+    "variants/rainbow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/febb7768b0dd2fd3947553e03776ccd5f1bbb33b38acb906e6baf7741c7bd861",
+      "checksum": "febb7768b0dd2fd3947553e03776ccd5f1bbb33b38acb906e6baf7741c7bd861"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/15d7e6c32554854bd89f0c712b58d5f3280b6691de53acf920194d40dc5bd76c",
+      "checksum": "15d7e6c32554854bd89f0c712b58d5f3280b6691de53acf920194d40dc5bd76c"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/b5f8758f36b22f15700eccbef65fa1438acdc2d2f47734885d5b8a33f70f8e4a",
+      "checksum": "b5f8758f36b22f15700eccbef65fa1438acdc2d2f47734885d5b8a33f70f8e4a"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b9610eaeb57402fbcfb602dc9c4aba64603d23532af794a65ec1822568b1c4a5",
+      "checksum": "b9610eaeb57402fbcfb602dc9c4aba64603d23532af794a65ec1822568b1c4a5"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "FIREWORK_PARTICLES",
+  "type": "PARTICLES",
+  "displayNames": {
+    "en_us": "Fireworks"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_LUNAR",
+    "COLLECTION_FEBRUARY2026",
+    "THEME_CHRISTMAS",
+    "THEME_NEWYEARS"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "availableUntil": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 5,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/d63984071a5cded1c15ec1d7e933f11a7c25b147f1a7f2688377000cca8fbe56",
+      "checksum": "d63984071a5cded1c15ec1d7e933f11a7c25b147f1a7f2688377000cca8fbe56"
+    },
+    "particles/fireworks.particle.json": {
+      "url": "https://cdn.essential.gg/assets/70917dde007bf7945894b3c100c0e6f0562f84069f6c43365b53d828523c6ded",
+      "checksum": "70917dde007bf7945894b3c100c0e6f0562f84069f6c43365b53d828523c6ded"
+    },
+    "variants/lunar_new_year/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2fdd16c4d588e5cab6bb206b2cae60cd01f206dfad6a7937ce7d74e23400f14f",
+      "checksum": "2fdd16c4d588e5cab6bb206b2cae60cd01f206dfad6a7937ce7d74e23400f14f"
+    },
+    "variants/rgb/texture.png": {
+      "url": "https://cdn.essential.gg/assets/647b2eb86e49d63b74eadafdc1b1548e4df35fa0aeb271bab65bd1ddbe81243b",
+      "checksum": "647b2eb86e49d63b74eadafdc1b1548e4df35fa0aeb271bab65bd1ddbe81243b"
+    },
+    "particles/fireworks_trail.particle.json": {
+      "url": "https://cdn.essential.gg/assets/75aab255929970a387c3ba7bb6b9b122aac917269aa99f6904938233048b0f2c",
+      "checksum": "75aab255929970a387c3ba7bb6b9b122aac917269aa99f6904938233048b0f2c"
+    },
+    "variants/rainbow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ba2df5fe05e6ed1adb8357020aaa8ed2c28b6878201282441ae4f7a6eded044f",
+      "checksum": "ba2df5fe05e6ed1adb8357020aaa8ed2c28b6878201282441ae4f7a6eded044f"
+    },
+    "variants/christmas/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2fbc1748aaace5ef66bef99ce4635445c1484c2588c89f397d8a9dd716103ddf",
+      "checksum": "2fbc1748aaace5ef66bef99ce4635445c1484c2588c89f397d8a9dd716103ddf"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/23b2d633ba3a15929c6bc3966420dd0f5d00255b2a70d5af670f55cdbd930e74",
+      "checksum": "23b2d633ba3a15929c6bc3966420dd0f5d00255b2a70d5af670f55cdbd930e74"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/4baae385714ad9c37c280c1a42b12cbc532efa0a4fd958b8ddb0c860eddc0fc7",
+      "checksum": "4baae385714ad9c37c280c1a42b12cbc532efa0a4fd958b8ddb0c860eddc0fc7"
+    }
+  }
+}

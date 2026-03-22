@@ -1,0 +1,49 @@
+{
+  "id": "HELLCASTLE_BLANCA_HAT",
+  "type": "PETS",
+  "displayNames": {
+    "en_us": "Cat"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ANIMAL"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "variants/gray/texture.png": {
+      "url": "https://cdn.essential.gg/assets/9a6e9a8732faad644f10df7f43ca435bb0a0653a917afb36737238c2951d362b",
+      "checksum": "9a6e9a8732faad644f10df7f43ca435bb0a0653a917afb36737238c2951d362b"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/0f75ff06d9a650fadb5b1e7e2a26930312dc14817f2f0f0c9a2b88f19b522f37",
+      "checksum": "0f75ff06d9a650fadb5b1e7e2a26930312dc14817f2f0f0c9a2b88f19b522f37"
+    },
+    "variants/orange/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b409e79acb3c1a9d74bcc02b5831ac910cf4c42c6b5613727370449640128ab5",
+      "checksum": "b409e79acb3c1a9d74bcc02b5831ac910cf4c42c6b5613727370449640128ab5"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/088b37cc495980ce2b5e901e17ab96ff22e7bfb1d6603effa3d100cb19b490cc",
+      "checksum": "088b37cc495980ce2b5e901e17ab96ff22e7bfb1d6603effa3d100cb19b490cc"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/6a48bf243bf720b9b7ce9f7a59a2cc81fbb43030ef0b9da3219411b2aefa93f3",
+      "checksum": "6a48bf243bf720b9b7ce9f7a59a2cc81fbb43030ef0b9da3219411b2aefa93f3"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/79d287731d9dbe38cfe6952675a79f9d84fe9368787eb2d36a8939c5e8c8058b",
+      "checksum": "79d287731d9dbe38cfe6952675a79f9d84fe9368787eb2d36a8939c5e8c8058b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/67007a272dccca3d2faa11c679904b3669e7995b83b9df55c8357f56f3a00e1f",
+      "checksum": "67007a272dccca3d2faa11c679904b3669e7995b83b9df55c8357f56f3a00e1f"
+    }
+  }
+}

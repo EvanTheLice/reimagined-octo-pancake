@@ -1,0 +1,52 @@
+{
+  "id": "FLUFFY_ANIME_HAIR",
+  "type": "HAIR",
+  "displayNames": {
+    "en_us": "Fluffy Anime Hair"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_SEPTEMBER2025"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "HAIR": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 300,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2e82bdcea025a2262ea3c560e6d1832dc0e4399edf8ad96dec53e1d3c82b3da0",
+      "checksum": "2e82bdcea025a2262ea3c560e6d1832dc0e4399edf8ad96dec53e1d3c82b3da0"
+    },
+    "variants/blonde/texture.png": {
+      "url": "https://cdn.essential.gg/assets/537a470d1f34e093ad99e3413bb5642836db8722455f8d91289e12a4974a46dc",
+      "checksum": "537a470d1f34e093ad99e3413bb5642836db8722455f8d91289e12a4974a46dc"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/43a3b89b9481ad303278b87213bcc32fe1cf025c7db73d3546d16f3180471115",
+      "checksum": "43a3b89b9481ad303278b87213bcc32fe1cf025c7db73d3546d16f3180471115"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0795e88253082ab7c0b2baf654886179b01b2eca3334a801b44f2e94db39c9e7",
+      "checksum": "0795e88253082ab7c0b2baf654886179b01b2eca3334a801b44f2e94db39c9e7"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/904de0a4f004b152c8086f5a5f9e45df7fba0cd1b6f13de61adf9f50cc8dc86c",
+      "checksum": "904de0a4f004b152c8086f5a5f9e45df7fba0cd1b6f13de61adf9f50cc8dc86c"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f117ba8a01474cf0c6e83aa56d51ef6b215fa30fd471657dd548ca5e085aaa59",
+      "checksum": "f117ba8a01474cf0c6e83aa56d51ef6b215fa30fd471657dd548ca5e085aaa59"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/db63ffb01c42ca64321e9eaa93f920aac5f9f103214db3da4a2cf79df2336d8d",
+      "checksum": "db63ffb01c42ca64321e9eaa93f920aac5f9f103214db3da4a2cf79df2336d8d"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b",
+      "checksum": "22014df5d228f6727c2dfa88614d5be60ec311c78ba5540a8fc3e24194448a6b"
+    }
+  }
+}

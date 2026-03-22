@@ -1,0 +1,81 @@
+{
+  "id": "THUNDERBOLT_ARMOR",
+  "type": "OUTERWEAR",
+  "displayNames": {
+    "en_us": "Lightning Armor"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_JULY2025"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "OUTERWEAR": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/ad8f2e4878ccf77a1df665ee530a90d9cc6a6341a47c7966f870986048fc740f",
+      "checksum": "ad8f2e4878ccf77a1df665ee530a90d9cc6a6341a47c7966f870986048fc740f"
+    },
+    "variants/blue/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/0a30055a824c95b30633c90648c3ad73718f0af163df50c22d2dd7a3891bb199",
+      "checksum": "0a30055a824c95b30633c90648c3ad73718f0af163df50c22d2dd7a3891bb199"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/9ff8d96b98ba87807be693808d01cecd68e9cd97e23a06a77d89925387e1dec1",
+      "checksum": "9ff8d96b98ba87807be693808d01cecd68e9cd97e23a06a77d89925387e1dec1"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/83af766ff0503bce6d7322e41a607a334401a601b6b3d5ca685a69b1224f9ef9",
+      "checksum": "83af766ff0503bce6d7322e41a607a334401a601b6b3d5ca685a69b1224f9ef9"
+    },
+    "variants/white/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/9fdbc36b73387927a067ba17b6e42a7c206aa948e7456a04f4429aa94653d520",
+      "checksum": "9fdbc36b73387927a067ba17b6e42a7c206aa948e7456a04f4429aa94653d520"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/2b26afe92c662dba54be3b7feee599ab2b9754e518d8e7e1ce90a17077a00004",
+      "checksum": "2b26afe92c662dba54be3b7feee599ab2b9754e518d8e7e1ce90a17077a00004"
+    },
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c4e0774de8eea93dea8a34528ae9e1083bff57e598a01a2e9e67bcb95fbfc3ab",
+      "checksum": "c4e0774de8eea93dea8a34528ae9e1083bff57e598a01a2e9e67bcb95fbfc3ab"
+    },
+    "variants/yellow/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4cb9aaa2493ba3bf69bbbd88514886a27f2f2baee5e5fc53c88d969a9ce10e39",
+      "checksum": "4cb9aaa2493ba3bf69bbbd88514886a27f2f2baee5e5fc53c88d969a9ce10e39"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/fc40e026ccf564558d5130b62e908bc1a3991a8472375280ee1a5968824e7dfc",
+      "checksum": "fc40e026ccf564558d5130b62e908bc1a3991a8472375280ee1a5968824e7dfc"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/2cd236361fd1fef4c3a6065b586a04953eebc1f32b60b0878969e9e2aa1ddd34",
+      "checksum": "2cd236361fd1fef4c3a6065b586a04953eebc1f32b60b0878969e9e2aa1ddd34"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/9dabe5e2abd6f0692937a4984a41d1d0d955a4ee2b24ac7abc70ebfb53fb0bb3",
+      "checksum": "9dabe5e2abd6f0692937a4984a41d1d0d955a4ee2b24ac7abc70ebfb53fb0bb3"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/88544b29f8fc34eca4393cabffe464f429748dcfdb9137f54523d47ad05a1b70",
+      "checksum": "88544b29f8fc34eca4393cabffe464f429748dcfdb9137f54523d47ad05a1b70"
+    },
+    "variants/yellow/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/22a342c1d6f75bf4bcc00f6888c6f3601a3cfc2ee9d59eff242641e5fb48836c",
+      "checksum": "22a342c1d6f75bf4bcc00f6888c6f3601a3cfc2ee9d59eff242641e5fb48836c"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/cae0e6fd6c1d8f7629ffe1374745e8700910022dbb65277bb6099c9d21f692fe",
+      "checksum": "cae0e6fd6c1d8f7629ffe1374745e8700910022dbb65277bb6099c9d21f692fe"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/f1dc3420305d9f4229189bc9569bd2a947c4547766907d24eec9d288789534d5",
+      "checksum": "f1dc3420305d9f4229189bc9569bd2a947c4547766907d24eec9d288789534d5"
+    }
+  }
+}

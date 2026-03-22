@@ -1,0 +1,38 @@
+{
+  "id": "ENDERMAN",
+  "type": "PARTICLES",
+  "displayNames": {
+    "en_us": "Ender Glow"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ENDER",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 1200,
+  "tier": "EPIC",
+  "assetsMap": {
+    "particles/enderman.particle.json": {
+      "url": "https://cdn.essential.gg/assets/7aee30dc2eede6eb651a1f6bc87bfd8ef3a25ae9ded2d233d7beb5279a76b958",
+      "checksum": "7aee30dc2eede6eb651a1f6bc87bfd8ef3a25ae9ded2d233d7beb5279a76b958"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/800ab5ef47daa46f814f13fc61b1b1eb48aa568414d42173617f4121dc358ffa",
+      "checksum": "800ab5ef47daa46f814f13fc61b1b1eb48aa568414d42173617f4121dc358ffa"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/a0e743f25bff9db1f8d576c79dd8fb6bfdcfc9830dc985d953d5919657d56fd0",
+      "checksum": "a0e743f25bff9db1f8d576c79dd8fb6bfdcfc9830dc985d953d5919657d56fd0"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/776a45bd1dc3a1c0fc11b2395a68c7c5b69fb436ce09d6f049f239b7e3b3a5f0",
+      "checksum": "776a45bd1dc3a1c0fc11b2395a68c7c5b69fb436ce09d6f049f239b7e3b3a5f0"
+    }
+  }
+}

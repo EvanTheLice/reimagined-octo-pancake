@@ -1,0 +1,90 @@
+{
+  "id": "ANIMATRONIC_HEAD",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Animatronic Dragon Head"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_HORROR",
+    "THEME_HALLOWEEN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 1200,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "variants/orange/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/255ab4de4c74ab0c780c767769d8474f6194a9285fb0baba6ec7a308baa239a5",
+      "checksum": "255ab4de4c74ab0c780c767769d8474f6194a9285fb0baba6ec7a308baa239a5"
+    },
+    "variants/red/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/5f2d8ae2ad8b4743bc0177b66b2491ffff8a57d07d479326e49bc21bf7a6813e",
+      "checksum": "5f2d8ae2ad8b4743bc0177b66b2491ffff8a57d07d479326e49bc21bf7a6813e"
+    },
+    "particles/animatronic_head_parent.particle.json": {
+      "url": "https://cdn.essential.gg/assets/4fbfe24d5b69c5936b7e10da6782dd6646986287c636aeac6b93bee76a5ef149",
+      "checksum": "4fbfe24d5b69c5936b7e10da6782dd6646986287c636aeac6b93bee76a5ef149"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c65a9227d03ea2279a5d1466860a617a37804e2eb17211fd60a397faf4881178",
+      "checksum": "c65a9227d03ea2279a5d1466860a617a37804e2eb17211fd60a397faf4881178"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/0d1683ff3c85c6902948fa8593ae538846e5e82319debe3bfb3233322f679829",
+      "checksum": "0d1683ff3c85c6902948fa8593ae538846e5e82319debe3bfb3233322f679829"
+    },
+    "variants/purple/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/140933de64a499f9e8caf3ad4e0345202466e6baa9f8c7479beea5b4d4f90aa1",
+      "checksum": "140933de64a499f9e8caf3ad4e0345202466e6baa9f8c7479beea5b4d4f90aa1"
+    },
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/1386045a807a46eb919ff57427d6b19003fb00ccd3d0f8a6e9fbef512d1e185d",
+      "checksum": "1386045a807a46eb919ff57427d6b19003fb00ccd3d0f8a6e9fbef512d1e185d"
+    },
+    "particles/animatronic_smoke.particle.json": {
+      "url": "https://cdn.essential.gg/assets/819e12f76edda2173ca8b39e0b816704c6f4ecd5a69f838de0727efcd2b67c2f",
+      "checksum": "819e12f76edda2173ca8b39e0b816704c6f4ecd5a69f838de0727efcd2b67c2f"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/94e06ea102d6d77195419473012c77ec928c4a111213f5f89e40740f425bf752",
+      "checksum": "94e06ea102d6d77195419473012c77ec928c4a111213f5f89e40740f425bf752"
+    },
+    "variants/orange/texture.png": {
+      "url": "https://cdn.essential.gg/assets/79dcf1749bc36cc3a8fbf8ad24ec1ae745ab11cc1e53ebbc74c37641d5c67401",
+      "checksum": "79dcf1749bc36cc3a8fbf8ad24ec1ae745ab11cc1e53ebbc74c37641d5c67401"
+    },
+    "variants/black/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/0a032bdefbe5f47e2d203ee3a6407c7f5962ce458946879dc07f1b4b497f8215",
+      "checksum": "0a032bdefbe5f47e2d203ee3a6407c7f5962ce458946879dc07f1b4b497f8215"
+    },
+    "particles/animatronic_sparks.particle.json": {
+      "url": "https://cdn.essential.gg/assets/7211eca4b16bacf431577033cdd303b45fa416982fdf8743494294d050eb8f36",
+      "checksum": "7211eca4b16bacf431577033cdd303b45fa416982fdf8743494294d050eb8f36"
+    },
+    "variants/green/emissive.png": {
+      "url": "https://cdn.essential.gg/assets/f4187f306a174cb9d1231e395b016957b88da59ed3b11a1a165fb7f7fe30f364",
+      "checksum": "f4187f306a174cb9d1231e395b016957b88da59ed3b11a1a165fb7f7fe30f364"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/e8d04d9b1967a166ca5fe235692fb06aa363b4b40d6bb9976f3d08243b260da5",
+      "checksum": "e8d04d9b1967a166ca5fe235692fb06aa363b4b40d6bb9976f3d08243b260da5"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/4d8a0860e325455b7452071c8e281ee82cfb94bebe9297e40063745c0f711fd9",
+      "checksum": "4d8a0860e325455b7452071c8e281ee82cfb94bebe9297e40063745c0f711fd9"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/98486781e9075753ba264e9fae0eade6f5d8c3d8dd8e7f5205dbfc7c1844b906",
+      "checksum": "98486781e9075753ba264e9fae0eade6f5d8c3d8dd8e7f5205dbfc7c1844b906"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5905a92ffb10bd3bef935fd143146f69e0cbd4cefb7caad99d21171f1e8cd69f",
+      "checksum": "5905a92ffb10bd3bef935fd143146f69e0cbd4cefb7caad99d21171f1e8cd69f"
+    }
+  }
+}

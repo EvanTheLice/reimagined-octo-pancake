@@ -1,0 +1,56 @@
+{
+  "id": "GRUNGE_SHIRT",
+  "type": "TOP",
+  "displayNames": {
+    "en_us": "Grunge Shirt"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_PUNK"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "TOP": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/bd6e27e87e21756fea5a20a8aef8e335e4b69d5cdf2cdf231386dd1d0a617612",
+      "checksum": "bd6e27e87e21756fea5a20a8aef8e335e4b69d5cdf2cdf231386dd1d0a617612"
+    },
+    "variants/gray/texture.png": {
+      "url": "https://cdn.essential.gg/assets/83184aa86d3b918e38934dac5c491aca01d1c3bc564481994aec7c16d0ff93b3",
+      "checksum": "83184aa86d3b918e38934dac5c491aca01d1c3bc564481994aec7c16d0ff93b3"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/6a95eac0c250223c3968f8b968b184df41d5bd761c28bc5767e1e78df286cc52",
+      "checksum": "6a95eac0c250223c3968f8b968b184df41d5bd761c28bc5767e1e78df286cc52"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/e65f2699c826d65df2913bca2e1861d7195e64487ee271953ce4482722b485ef",
+      "checksum": "e65f2699c826d65df2913bca2e1861d7195e64487ee271953ce4482722b485ef"
+    },
+    "skin_mask.alex.png": {
+      "url": "https://cdn.essential.gg/assets/7d412b67cbba79bb820de9f5e2a366da06bc03ff34bcc194fb23e6af1970a5fd",
+      "checksum": "7d412b67cbba79bb820de9f5e2a366da06bc03ff34bcc194fb23e6af1970a5fd"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/1155e7b1cce1bed7f4c5e916529dc8b37adb910f3d93217dc1099d9c2d2e9d51",
+      "checksum": "1155e7b1cce1bed7f4c5e916529dc8b37adb910f3d93217dc1099d9c2d2e9d51"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/1b6a98ccd87bed1c0eb893dc6ce34ce957817e89f246470c22cfee2966b8da97",
+      "checksum": "1b6a98ccd87bed1c0eb893dc6ce34ce957817e89f246470c22cfee2966b8da97"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/777499f0339227ab42be3ddc87bc3ef81dbc136e5b9559d007ca9ee008276644",
+      "checksum": "777499f0339227ab42be3ddc87bc3ef81dbc136e5b9559d007ca9ee008276644"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/c54f6ed68f3b80fa82fa6b8afbd3cc97aadc5b96e33dc29609063adacc61ae31",
+      "checksum": "c54f6ed68f3b80fa82fa6b8afbd3cc97aadc5b96e33dc29609063adacc61ae31"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "SHRIMP",
+  "type": "PETS",
+  "displayNames": {
+    "en_us": "Shrimp"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_SILLY",
+    "THEME_AQUATIC",
+    "COLLECTION_DECEMBER2025"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PETS": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "particles/tiny_bubbles.particle.json": {
+      "url": "https://cdn.essential.gg/assets/d8b883a6aa6e770a5cb32dea3b90c576fb826ad5eb21e084bc85965a494f2f19",
+      "checksum": "d8b883a6aa6e770a5cb32dea3b90c576fb826ad5eb21e084bc85965a494f2f19"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/f83f79fb70df4833baf749ee632fd1c0f85b4d2b76d44e5cfe3c27ae56e84896",
+      "checksum": "f83f79fb70df4833baf749ee632fd1c0f85b4d2b76d44e5cfe3c27ae56e84896"
+    },
+    "variants/orange/texture.png": {
+      "url": "https://cdn.essential.gg/assets/cbf126d85dfeb232d7c95eff7191b5a29add6d72e3df342bb126ae22b449b7ee",
+      "checksum": "cbf126d85dfeb232d7c95eff7191b5a29add6d72e3df342bb126ae22b449b7ee"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e8ef1a2d3742942855ac24c8f3f849f66682032bf8fcfc26548fd4e36656d12c",
+      "checksum": "e8ef1a2d3742942855ac24c8f3f849f66682032bf8fcfc26548fd4e36656d12c"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/fa56d653a8f0527a0cf4c7c05d56d4dba93f24ff558d3c758ab20e48a36eda7f",
+      "checksum": "fa56d653a8f0527a0cf4c7c05d56d4dba93f24ff558d3c758ab20e48a36eda7f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/e7a1b5305d75cef3dccea2e11c096987714f60863ca6aade6e6ab8202f4177c5",
+      "checksum": "e7a1b5305d75cef3dccea2e11c096987714f60863ca6aade6e6ab8202f4177c5"
+    }
+  }
+}

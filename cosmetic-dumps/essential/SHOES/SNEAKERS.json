@@ -1,0 +1,46 @@
+{
+  "id": "SNEAKERS",
+  "type": "SHOES",
+  "displayNames": {
+    "en_us": "Sneakers"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "SHOES": 20
+  },
+  "defaultSortWeight": 8,
+  "priceCoins": 0,
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/4da1401f2fcd40b7970425247ac84d07296f5afeb7b2a1573102727ca0ece5bf",
+      "checksum": "4da1401f2fcd40b7970425247ac84d07296f5afeb7b2a1573102727ca0ece5bf"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/92774f0913cb54b06340b2a01d357f59ed6f88ec837d0c8afa18543bb58b6315",
+      "checksum": "92774f0913cb54b06340b2a01d357f59ed6f88ec837d0c8afa18543bb58b6315"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8e0dadb0a0bb8a8a84118b18946ecfd8c37c5f6b40f403bf67c2cd37e33063c6",
+      "checksum": "8e0dadb0a0bb8a8a84118b18946ecfd8c37c5f6b40f403bf67c2cd37e33063c6"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/7a22e32ff14a597aa48a08ef737e664ec3b7eeea572a47dc649b5ea00a2d3f2f",
+      "checksum": "7a22e32ff14a597aa48a08ef737e664ec3b7eeea572a47dc649b5ea00a2d3f2f"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/ede58a939eb8767722f4cb6c4a71257e9224807fc2b4bc0d49c9f06da6da9038",
+      "checksum": "ede58a939eb8767722f4cb6c4a71257e9224807fc2b4bc0d49c9f06da6da9038"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/c9fb1f7a29f8a401d5a15c534ce90fc236859e0f182c89f31cfb09764ca21d7f",
+      "checksum": "c9fb1f7a29f8a401d5a15c534ce90fc236859e0f182c89f31cfb09764ca21d7f"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/2da63ab54d9c715c3264c90f750952c3dbcb596da7c99bb5540f8fd739af1b8d",
+      "checksum": "2da63ab54d9c715c3264c90f750952c3dbcb596da7c99bb5540f8fd739af1b8d"
+    }
+  }
+}

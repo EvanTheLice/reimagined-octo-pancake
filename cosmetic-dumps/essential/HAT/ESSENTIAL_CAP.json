@@ -1,0 +1,51 @@
+{
+  "id": "ESSENTIAL_CAP",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Essential Cap"
+  },
+  "storePackageId": 0,
+  "tags": [],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 0,
+  "priceCoins": 0,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/acd45d6a6454046c169955c446c7523275a842a900ab5da41bc12f55d6742c8b",
+      "checksum": "acd45d6a6454046c169955c446c7523275a842a900ab5da41bc12f55d6742c8b"
+    },
+    "skin_mask.steve.front.png": {
+      "url": "https://cdn.essential.gg/assets/6b82b33e506d3eb4401d1790e05036a164835914e21961ecf911da2e0ef1b97d",
+      "checksum": "6b82b33e506d3eb4401d1790e05036a164835914e21961ecf911da2e0ef1b97d"
+    },
+    "variants/orange/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e15915dcadacb6317b94390271e43dc66f7f73c486f13d4a60a2ff0c417d39ac",
+      "checksum": "e15915dcadacb6317b94390271e43dc66f7f73c486f13d4a60a2ff0c417d39ac"
+    },
+    "variants/blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/450eca54717c7c15429644b05c5dc0f90c1efb42cd61baa6e4b0046ea5a045be",
+      "checksum": "450eca54717c7c15429644b05c5dc0f90c1efb42cd61baa6e4b0046ea5a045be"
+    },
+    "skin_mask.steve.back.png": {
+      "url": "https://cdn.essential.gg/assets/0d61ed2a3d5d956f33b56431675c1566474d70420809b6a376ee5772acb3ad74",
+      "checksum": "0d61ed2a3d5d956f33b56431675c1566474d70420809b6a376ee5772acb3ad74"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/937f308dcd8cf02f5abf6e5acd6a9c487bd4e5d586d25266a81b09edeffea93d",
+      "checksum": "937f308dcd8cf02f5abf6e5acd6a9c487bd4e5d586d25266a81b09edeffea93d"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/05fe627d8f02891841a8742e5c6b4a9b4199b799bff886cd0459543300b5ab1f",
+      "checksum": "05fe627d8f02891841a8742e5c6b4a9b4199b799bff886cd0459543300b5ab1f"
+    },
+    "variants/pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/85c1d52904a24e383268519e65ca26c2a4023039bbd78cddb69df5bc11cf894e",
+      "checksum": "85c1d52904a24e383268519e65ca26c2a4023039bbd78cddb69df5bc11cf894e"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "BOOKWORM",
+  "type": "ADVANCED",
+  "displayNames": {
+    "en_us": "Bookworm"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_COZY",
+    "COLLECTION_FEBRUARY2026",
+    "THEME_ROLEPLAY",
+    "THEME_CUTE",
+    "THEME_SPRING"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BASIC": 0
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "sounds/em_bookworm_loop.ogg": {
+      "url": "https://cdn.essential.gg/assets/257bb92b88fb50ca9c0c9cbf251255917fcf6bc36c3994faf356e5ab0df32d20",
+      "checksum": "257bb92b88fb50ca9c0c9cbf251255917fcf6bc36c3994faf356e5ab0df32d20"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/960903a821939fd32d65ee520190de1e5e576d49c35b8d13f389575dc2579494",
+      "checksum": "960903a821939fd32d65ee520190de1e5e576d49c35b8d13f389575dc2579494"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/cb5af89e2e7f076d125735bfd18bb5acffb90b874e2ce86482228d09bff40ca1",
+      "checksum": "cb5af89e2e7f076d125735bfd18bb5acffb90b874e2ce86482228d09bff40ca1"
+    },
+    "sounds/em_bookworm_start.ogg": {
+      "url": "https://cdn.essential.gg/assets/3fd7df584e879cef70a0e10cae4324a9f36b4509d2d1088ffde1eec5f94e767d",
+      "checksum": "3fd7df584e879cef70a0e10cae4324a9f36b4509d2d1088ffde1eec5f94e767d"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/2003362a8452c7e555d38dc5912d10662b516ceddc95fc87fa229aea035d8bd0",
+      "checksum": "2003362a8452c7e555d38dc5912d10662b516ceddc95fc87fa229aea035d8bd0"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/e22196e4a60b16638db6f99f358d98bfeb639d5f0a9cbe1d1c43f565b8b1ff68",
+      "checksum": "e22196e4a60b16638db6f99f358d98bfeb639d5f0a9cbe1d1c43f565b8b1ff68"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/cfea6f4b8520b34c8da2783b717ef47a881a4144a28afca7756c3593858c1819",
+      "checksum": "cfea6f4b8520b34c8da2783b717ef47a881a4144a28afca7756c3593858c1819"
+    }
+  }
+}

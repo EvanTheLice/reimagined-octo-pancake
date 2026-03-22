@@ -1,0 +1,42 @@
+{
+  "id": "LIGHTNING_CHARGED",
+  "type": "PARTICLES",
+  "displayNames": {
+    "en_us": "Lightning Energy"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MAGIC",
+    "COLLECTION_JULY2025"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 1200,
+  "tier": "LEGENDARY",
+  "assetsMap": {
+    "particles/lightning_lower.particle.json": {
+      "url": "https://cdn.essential.gg/assets/c88f6affcdb012da65cefc2c36e2d28f09085bead4318c306f01c94ca3955780",
+      "checksum": "c88f6affcdb012da65cefc2c36e2d28f09085bead4318c306f01c94ca3955780"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/9917db11196965f82f6aa7dac13d808c48909907c267abee8b88ed35f4fbfdf3",
+      "checksum": "9917db11196965f82f6aa7dac13d808c48909907c267abee8b88ed35f4fbfdf3"
+    },
+    "particles/lightning_upper.particle.json": {
+      "url": "https://cdn.essential.gg/assets/3b6286d83d13b92354ebdb8e622a1a2de8dd0ecbac3d76f3d0bf712657e7f5ee",
+      "checksum": "3b6286d83d13b92354ebdb8e622a1a2de8dd0ecbac3d76f3d0bf712657e7f5ee"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/b3203490c2da6e7e294dc09f0b411657eb1e02c770558a12717ddb44b3ebabae",
+      "checksum": "b3203490c2da6e7e294dc09f0b411657eb1e02c770558a12717ddb44b3ebabae"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7b961b8b72f75e5ee0ff9dddcd33ede8d209baf15502ff1591fdf00f31f01975",
+      "checksum": "7b961b8b72f75e5ee0ff9dddcd33ede8d209baf15502ff1591fdf00f31f01975"
+    }
+  }
+}

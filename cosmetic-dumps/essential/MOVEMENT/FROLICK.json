@@ -1,0 +1,37 @@
+{
+  "id": "FROLICK",
+  "type": "MOVEMENT",
+  "displayNames": {
+    "en_us": "Frolick"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_PRETTY",
+    "THEME_ROLEPLAY",
+    "THEME_CUTE",
+    "THEME_FAIRY",
+    "THEME_SPRING"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "MOVEMENT": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/3688164ba1c7a2d99e70025c9dd142779e77504e535951a351cbeace07ba0d5f",
+      "checksum": "3688164ba1c7a2d99e70025c9dd142779e77504e535951a351cbeace07ba0d5f"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/ced99b7f19079d92fb28d0c53e5f80ea23eaf9ad878b440121e1f0049e4235e4",
+      "checksum": "ced99b7f19079d92fb28d0c53e5f80ea23eaf9ad878b440121e1f0049e4235e4"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e",
+      "checksum": "7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e"
+    }
+  }
+}

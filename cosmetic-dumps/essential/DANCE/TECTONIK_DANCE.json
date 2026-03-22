@@ -1,0 +1,43 @@
+{
+  "id": "TECTONIK_DANCE",
+  "type": "DANCE",
+  "displayNames": {
+    "en_us": "Hardstyle Dance"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_PUNK",
+    "COLLECTION_JUNE2025",
+    "THEME_Y2K"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "DANCE": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 900,
+  "tier": "EPIC",
+  "assetsMap": {
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/543a63ef4e6bc10dbd01901d3c8f203c4258294f288ba69601de4e043ed5a95b",
+      "checksum": "543a63ef4e6bc10dbd01901d3c8f203c4258294f288ba69601de4e043ed5a95b"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/2de789e13b42050bfc8d7ca3bc96d32052bad1a75be7571795c2d7b9e78136a6",
+      "checksum": "2de789e13b42050bfc8d7ca3bc96d32052bad1a75be7571795c2d7b9e78136a6"
+    },
+    "sounds/tektonic_dance.ogg": {
+      "url": "https://cdn.essential.gg/assets/4edda4afe6b780c4b20a0a56a33a523aff16ba19ae733b333c4af8d7a3299a7e",
+      "checksum": "4edda4afe6b780c4b20a0a56a33a523aff16ba19ae733b333c4af8d7a3299a7e"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/640664abfce774ee6b7b2e3409e7f7317813e8e2922a926777bdbf327435df6d",
+      "checksum": "640664abfce774ee6b7b2e3409e7f7317813e8e2922a926777bdbf327435df6d"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e",
+      "checksum": "7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e"
+    }
+  }
+}

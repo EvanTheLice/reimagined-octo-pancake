@@ -1,0 +1,55 @@
+{
+  "id": "SORCERER_CONE",
+  "type": "HAT",
+  "displayNames": {
+    "en_us": "Sorcerer Cone"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_FANTASY",
+    "THEME_MAGIC",
+    "THEME_HALLOWEEN"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "HAT": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/flame_red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/55e563e91bc7cb5580af2ed459727042b32448b332c1c3fa5e6e4e3ec6180598",
+      "checksum": "55e563e91bc7cb5580af2ed459727042b32448b332c1c3fa5e6e4e3ec6180598"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/ac0b00cff749562bd531bd1b99abd88e05fe4ea5871d683347cac19aaa29a2e1",
+      "checksum": "ac0b00cff749562bd531bd1b99abd88e05fe4ea5871d683347cac19aaa29a2e1"
+    },
+    "variants/swamp_green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/cf7b471ba6b51f3ba81b10ff46fdf13b3f46c99a93f648a39498b66fe5c68741",
+      "checksum": "cf7b471ba6b51f3ba81b10ff46fdf13b3f46c99a93f648a39498b66fe5c68741"
+    },
+    "variants/cosmic_purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f74b953acb5398d4a9822145e3436bbf4ae2fd7ca6c0566d888d2f904c3c2843",
+      "checksum": "f74b953acb5398d4a9822145e3436bbf4ae2fd7ca6c0566d888d2f904c3c2843"
+    },
+    "variants/light_blue/texture.png": {
+      "url": "https://cdn.essential.gg/assets/b508c00af9f4569d5f3e039ef9de34d5fcb547a531f0c5a98de7b207b4df082a",
+      "checksum": "b508c00af9f4569d5f3e039ef9de34d5fcb547a531f0c5a98de7b207b4df082a"
+    },
+    "variants/pastel_pink/texture.png": {
+      "url": "https://cdn.essential.gg/assets/3ffa681bf57eb47ffc649f9f32e7f666e62b09afcc58407ee877e3ac3b005aff",
+      "checksum": "3ffa681bf57eb47ffc649f9f32e7f666e62b09afcc58407ee877e3ac3b005aff"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/6838dd9e3c12370e53ae9e045cc80b592df88a661acbe6d78b56f083a57ead56",
+      "checksum": "6838dd9e3c12370e53ae9e045cc80b592df88a661acbe6d78b56f083a57ead56"
+    },
+    "skin_mask.steve.png": {
+      "url": "https://cdn.essential.gg/assets/fde2a045ea8ac06454ff431e32eebc03dd01f11923bad2e2b69dae3cb4959a5d",
+      "checksum": "fde2a045ea8ac06454ff431e32eebc03dd01f11923bad2e2b69dae3cb4959a5d"
+    }
+  }
+}

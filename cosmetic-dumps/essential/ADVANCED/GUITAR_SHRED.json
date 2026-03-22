@@ -1,0 +1,61 @@
+{
+  "id": "GUITAR_SHRED",
+  "type": "ADVANCED",
+  "displayNames": {
+    "en_us": "Guitar Shred"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_PUNK"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "ADVANCED": 20
+  },
+  "defaultSortWeight": 1,
+  "priceCoins": 700,
+  "tier": "RARE",
+  "assetsMap": {
+    "particles/notes_big.particle.json": {
+      "url": "https://cdn.essential.gg/assets/4340eb107f161dafc3af79ccbb1f47dae3e846801d96bfe9a7001d3415df52fe",
+      "checksum": "4340eb107f161dafc3af79ccbb1f47dae3e846801d96bfe9a7001d3415df52fe"
+    },
+    "sounds/shred.ogg": {
+      "url": "https://cdn.essential.gg/assets/8e78f3ae4e95a1f0e7810549a532f4a3bc7a0b5cbc695267230d99672a7320a0",
+      "checksum": "8e78f3ae4e95a1f0e7810549a532f4a3bc7a0b5cbc695267230d99672a7320a0"
+    },
+    "sounds/sound_definitions.json": {
+      "url": "https://cdn.essential.gg/assets/64f849f0b92b57ed969b8493dd809bf19941845e8088a7395d5d073bf15651cc",
+      "checksum": "64f849f0b92b57ed969b8493dd809bf19941845e8088a7395d5d073bf15651cc"
+    },
+    "particles/notes_small.particle.json": {
+      "url": "https://cdn.essential.gg/assets/a28449861c914c67fed47bff9e5a6658471a775da2b1b2b6ed0e9d51806d4d1e",
+      "checksum": "a28449861c914c67fed47bff9e5a6658471a775da2b1b2b6ed0e9d51806d4d1e"
+    },
+    "particles/wiggle.particle.json": {
+      "url": "https://cdn.essential.gg/assets/9dd2aea591f0c67d21d0a2cd19a4daa70fd1f3f9b2bcae0817b64474d7801ed1",
+      "checksum": "9dd2aea591f0c67d21d0a2cd19a4daa70fd1f3f9b2bcae0817b64474d7801ed1"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/d6ab15f4ed033abf8d349500e4b1dcb71aaf2439745089665138652fd36ef43d",
+      "checksum": "d6ab15f4ed033abf8d349500e4b1dcb71aaf2439745089665138652fd36ef43d"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/0e5047471ca66c8e9793b957d42b83d5a9ed995f490c16fa77d129bff23cb53f",
+      "checksum": "0e5047471ca66c8e9793b957d42b83d5a9ed995f490c16fa77d129bff23cb53f"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/f6f71b76ba6851aa6cc8ef2bebfba5fa2fec8e4c2498a42cc763f2b4a6512615",
+      "checksum": "f6f71b76ba6851aa6cc8ef2bebfba5fa2fec8e4c2498a42cc763f2b4a6512615"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/171b3ba23a688746879cf8575546961ab1b5142663dedcea15b21263a8fc2f8b",
+      "checksum": "171b3ba23a688746879cf8575546961ab1b5142663dedcea15b21263a8fc2f8b"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/2f23d3f8b8a513a8b88643a4e3d54f2a404501ab1d77e2686da6b3242127d558",
+      "checksum": "2f23d3f8b8a513a8b88643a4e3d54f2a404501ab1d77e2686da6b3242127d558"
+    }
+  }
+}

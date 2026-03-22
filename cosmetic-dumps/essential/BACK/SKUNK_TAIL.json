@@ -1,0 +1,55 @@
+{
+  "id": "SKUNK_TAIL",
+  "type": "BACK",
+  "displayNames": {
+    "en_us": "Skunk Tail"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "COLLECTION_NOVEMBER2025",
+    "THEME_SPRING",
+    "THEME_FURRY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BACK": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 600,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "variants/ginger/texture.png": {
+      "url": "https://cdn.essential.gg/assets/e4b2cf87b808730184a8247ca52bb8c1aade0c9fcb8c73f7b232c5b229f7cb2b",
+      "checksum": "e4b2cf87b808730184a8247ca52bb8c1aade0c9fcb8c73f7b232c5b229f7cb2b"
+    },
+    "variants/brown/texture.png": {
+      "url": "https://cdn.essential.gg/assets/bde85a02d28beec84d44f04eeb1d4f1189039db252de22f9c8aa0d74d98be52f",
+      "checksum": "bde85a02d28beec84d44f04eeb1d4f1189039db252de22f9c8aa0d74d98be52f"
+    },
+    "variants/gray/texture.png": {
+      "url": "https://cdn.essential.gg/assets/8b26eea30f129ff16fa9fb1da428684b2153299b5e30c85c6bc1c49336f6b33b",
+      "checksum": "8b26eea30f129ff16fa9fb1da428684b2153299b5e30c85c6bc1c49336f6b33b"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/2fb4c66eefd9cdbc1e6b14be9773c2d351e90a9a3013abac2d01c9e130bc4902",
+      "checksum": "2fb4c66eefd9cdbc1e6b14be9773c2d351e90a9a3013abac2d01c9e130bc4902"
+    },
+    "variants/white/texture.png": {
+      "url": "https://cdn.essential.gg/assets/83d19447f2cd3e1fc22b6f33a8a7ba183830b35e3fe74764e34008113e5fae3c",
+      "checksum": "83d19447f2cd3e1fc22b6f33a8a7ba183830b35e3fe74764e34008113e5fae3c"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/bc9014348ac0d12ca0f42e5be5c2c15379f1aa27c96818378deb40dba65cc7cc",
+      "checksum": "bc9014348ac0d12ca0f42e5be5c2c15379f1aa27c96818378deb40dba65cc7cc"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/9b0047ad1a0db7cdf4994565570c50a064c76480c5b4865016738dceeafe1052",
+      "checksum": "9b0047ad1a0db7cdf4994565570c50a064c76480c5b4865016738dceeafe1052"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/d7b2bd42255fff7d4372c584ab064ec57795e486c819b3daf344a36587a4dcce",
+      "checksum": "d7b2bd42255fff7d4372c584ab064ec57795e486c819b3daf344a36587a4dcce"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "PET_R",
+  "type": "BASIC",
+  "displayNames": {
+    "en_us": "Pet"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_ROLEPLAY",
+    "THEME_CUTE",
+    "THEME_FURRY"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "BASIC": 20
+  },
+  "defaultSortWeight": 3,
+  "priceCoins": 500,
+  "tier": "UNCOMMON",
+  "assetsMap": {
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/6fb260d27df0f5a9860d0c3f841bd6a7d28ffbf14bfd36596d817c307b3642e1",
+      "checksum": "6fb260d27df0f5a9860d0c3f841bd6a7d28ffbf14bfd36596d817c307b3642e1"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/0c7b6e8b196ac9a13471cf5662f0af7f365246738fadd9e4613e825d6203671f",
+      "checksum": "0c7b6e8b196ac9a13471cf5662f0af7f365246738fadd9e4613e825d6203671f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e",
+      "checksum": "7e716d649964f4da611dc6a0f2f449147ae0131a7a85c9492b5a4e967ab7ae8e"
+    }
+  }
+}

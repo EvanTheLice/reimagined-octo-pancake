@@ -1,0 +1,55 @@
+{
+  "id": "WARDEN_TAKEOVER",
+  "type": "HEAD",
+  "displayNames": {
+    "en_us": "Warden Takeover"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_WARDEN",
+    "SET_WARDEN",
+    "THEME_MINECRAFT"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "HEAD": 20
+  },
+  "defaultSortWeight": 30,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "skin_mask.steve.right.png": {
+      "url": "https://cdn.essential.gg/assets/b7ecd2f27b7cdd6f53b620e030ec35419df07ee9bb4e57cb7678bf84b82c2006",
+      "checksum": "b7ecd2f27b7cdd6f53b620e030ec35419df07ee9bb4e57cb7678bf84b82c2006"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/e3e4f6d99db50066b25a73397027d501bb5292232314f9433fb4d61fc9633559",
+      "checksum": "e3e4f6d99db50066b25a73397027d501bb5292232314f9433fb4d61fc9633559"
+    },
+    "skin_mask.steve.left.png": {
+      "url": "https://cdn.essential.gg/assets/10631244c2ec39143ac74b0d4f10bc9c85c4d4ca85c9512264262f59848e1fdc",
+      "checksum": "10631244c2ec39143ac74b0d4f10bc9c85c4d4ca85c9512264262f59848e1fdc"
+    },
+    "geometry.alex.json": {
+      "url": "https://cdn.essential.gg/assets/68118d6d4c6a2342fb9e677e7c94684966c733f673d8ca0a8921102b25cfbe40",
+      "checksum": "68118d6d4c6a2342fb9e677e7c94684966c733f673d8ca0a8921102b25cfbe40"
+    },
+    "skin_mask.alex.left.png": {
+      "url": "https://cdn.essential.gg/assets/bc2287604f6710dc47e0d50e4a476ab09e498f36a2685bd768a528b3cd248f68",
+      "checksum": "bc2287604f6710dc47e0d50e4a476ab09e498f36a2685bd768a528b3cd248f68"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/3c881696635d5539a6f125d0bdd06d9d0efe98169f2e6fa6ebac0391c4970db8",
+      "checksum": "3c881696635d5539a6f125d0bdd06d9d0efe98169f2e6fa6ebac0391c4970db8"
+    },
+    "skin_mask.alex.right.png": {
+      "url": "https://cdn.essential.gg/assets/d2cb9a93e3ba7d699bd1721969329969a5d59fbf9f5b670efa2145706705f4cc",
+      "checksum": "d2cb9a93e3ba7d699bd1721969329969a5d59fbf9f5b670efa2145706705f4cc"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/747f6f57a13a35ae03634786a827f7111716fe924ffe9825f466ade8cded8c8b",
+      "checksum": "747f6f57a13a35ae03634786a827f7111716fe924ffe9825f466ade8cded8c8b"
+    }
+  }
+}

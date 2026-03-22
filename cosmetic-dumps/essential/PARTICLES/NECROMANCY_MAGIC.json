@@ -1,0 +1,66 @@
+{
+  "id": "NECROMANCY_MAGIC",
+  "type": "PARTICLES",
+  "displayNames": {
+    "en_us": "Occult Hexes"
+  },
+  "storePackageId": 0,
+  "tags": [
+    "THEME_MAGIC",
+    "COLLECTION_OCTOBER2025"
+  ],
+  "createdAt": {},
+  "availableAfter": {},
+  "categories": {
+    "PARTICLES": 20
+  },
+  "defaultSortWeight": 2,
+  "priceCoins": 900,
+  "tier": "RARE",
+  "assetsMap": {
+    "variants/red/texture.png": {
+      "url": "https://cdn.essential.gg/assets/5a5998fe5bf95a6a1105705a5c066989af0a6154e3c83ab3fc8d16a00da88073",
+      "checksum": "5a5998fe5bf95a6a1105705a5c066989af0a6154e3c83ab3fc8d16a00da88073"
+    },
+    "settings.json": {
+      "url": "https://cdn.essential.gg/assets/748635a716ebda96d459b46361de3726e75d5aee4fbda96609d91dd7a40fb52f",
+      "checksum": "748635a716ebda96d459b46361de3726e75d5aee4fbda96609d91dd7a40fb52f"
+    },
+    "variants/bone/texture.png": {
+      "url": "https://cdn.essential.gg/assets/920ce64b9f569746f2908cbe4b423d438fe934d4557861a56da407b62b6ad3f0",
+      "checksum": "920ce64b9f569746f2908cbe4b423d438fe934d4557861a56da407b62b6ad3f0"
+    },
+    "texture.png": {
+      "url": "https://cdn.essential.gg/assets/41106ab682598d5707052aa69d734ecf9c082d90d8d20be2b5998b2802e7f286",
+      "checksum": "41106ab682598d5707052aa69d734ecf9c082d90d8d20be2b5998b2802e7f286"
+    },
+    "particles/necromancy_magic.particle.json": {
+      "url": "https://cdn.essential.gg/assets/00ee7941faa38cc2cad81f3cd8ccda6bb5c832d5e34aa59f45282f5d12748d70",
+      "checksum": "00ee7941faa38cc2cad81f3cd8ccda6bb5c832d5e34aa59f45282f5d12748d70"
+    },
+    "variants/purple/texture.png": {
+      "url": "https://cdn.essential.gg/assets/f46f967fff9f90935b6bcca80deb8b75e8c949fb3778a2eda8c604ffcd689cae",
+      "checksum": "f46f967fff9f90935b6bcca80deb8b75e8c949fb3778a2eda8c604ffcd689cae"
+    },
+    "particles/necromancy_mist_puff.particle.json": {
+      "url": "https://cdn.essential.gg/assets/cbc4f9803deb7928c341f28c50ff60c2ba089d1a358ed40ebab58667f2654395",
+      "checksum": "cbc4f9803deb7928c341f28c50ff60c2ba089d1a358ed40ebab58667f2654395"
+    },
+    "variants/black/texture.png": {
+      "url": "https://cdn.essential.gg/assets/a8fe276400b44deccf3a14b283feaf099471e11cb36d7d426e6f164f2926dad0",
+      "checksum": "a8fe276400b44deccf3a14b283feaf099471e11cb36d7d426e6f164f2926dad0"
+    },
+    "animations.json": {
+      "url": "https://cdn.essential.gg/assets/642e9ef5c5b4cc0ef129af3bc4211246ed0020347d08d1e11c6a60f150bef32f",
+      "checksum": "642e9ef5c5b4cc0ef129af3bc4211246ed0020347d08d1e11c6a60f150bef32f"
+    },
+    "geometry.steve.json": {
+      "url": "https://cdn.essential.gg/assets/40fc41df415424fa0764b4913e5ba592f054488cf4ad1477740c9dbffed95fd2",
+      "checksum": "40fc41df415424fa0764b4913e5ba592f054488cf4ad1477740c9dbffed95fd2"
+    },
+    "variants/green/texture.png": {
+      "url": "https://cdn.essential.gg/assets/2f71744f04da65dc443c510302cde53a460bc0cd147c979debffcea60b644199",
+      "checksum": "2f71744f04da65dc443c510302cde53a460bc0cd147c979debffcea60b644199"
+    }
+  }
+}
